@@ -1,0 +1,42 @@
+REPORTE: CASA VS APARTAMENTO, PRECIO M2 COLOMBIA 2026 (TRANSFORMADO)
+============================================================
+Filas: 25
+Columnas: 8
+Duplicados: 0
+
+Columnas y tipos:
+- ciudad: str
+- n_casas: int64
+- n_apartamentos: int64
+- precio_m2_casa_mill: float64
+- precio_m2_apto_mill: float64
+- diferencia_pct: float64
+- mas_barato: str
+- total_anuncios: int64
+
+Valores nulos por columna:
+- ciudad: 0
+- n_casas: 0
+- n_apartamentos: 0
+- precio_m2_casa_mill: 0
+- precio_m2_apto_mill: 0
+- diferencia_pct: 0
+- mas_barato: 0
+- total_anuncios: 0
+
+Estadísticas numéricas:
+        n_casas  n_apartamentos  precio_m2_casa_mill  precio_m2_apto_mill  diferencia_pct  total_anuncios
+count     25.00           25.00                25.00                25.00           25.00           25.00
+mean   2,518.64        4,646.20                 4.68                 5.96          -19.88        7,164.84
+std    3,567.34        6,977.84                 1.27                 1.61           15.13       10,343.14
+min      203.00          139.00                 2.92                 3.55          -60.00        1,022.00
+25%      608.00          919.00                 3.80                 4.67          -26.90        1,678.00
+50%    1,221.00        2,319.00                 4.30                 5.53          -21.80        3,885.00
+75%    3,416.00        4,376.00                 5.06                 7.26          -10.10        7,101.00
+max   17,756.00       31,265.00                 7.84                 9.32           11.70       49,021.00
+
+Columnas categóricas:
+- ciudad (25 valores distintos). Ejemplos: Santa Marta, Cartagena, Bogotá, Manizales, Sabaneta
+- mas_barato (2 valores distintos):
+    casa: 23
+    apartamento: 2
