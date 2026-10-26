@@ -1,0 +1,75 @@
+# Ejecuta el notebook de la Actividad 1 en GitHub cada vez que se hace push a main
+# y sube al repositorio los datos, el reporte .txt y el notebook con sus resultados.
+name: Ejecutar Actividad 1  # Nombre que aparece en la pestaña "Actions" de GitHub
+
+on:  # Cuándo se ejecuta el workflow
+  push:  # Al hacer push...
+    branches:
+      - main  # ...a la rama main
+  workflow_dispatch:  # También permite ejecutarlo manualmente desde la pestaña "Actions"
+
+permissions:
+  contents: write  # Permiso para que el workflow pueda hacer commit y push de los resultados
+
+concurrency:
+  group: ejecutar-actividad-1-main  # Evita que dos ejecuciones de este workflow corran al mismo tiempo
+  cancel-in-progress: false  # Si hay una en curso, espera a que termine en lugar de cancelarla
+
+jobs:
+  ejecutar-notebook:
+    runs-on: ubuntu-latest  # Máquina virtual Linux que provee GitHub
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4  # Copia el código del repositorio en la máquina virtual
+        with:
+          fetch-depth: 0  # Descarga todo el historial (necesario para hacer push después)
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5  # Instala Python
+        with:
+          python-version: "3.12"  # Versión de Python
+          cache: pip  # Guarda en caché las librerías para que las siguientes ejecuciones sean más rápidas
+          cache-dependency-path: requirements.txt  # La caché se renueva cuando cambia requirements.txt
+
+      - name: Crear entorno virtual
+        run: python -m venv .venv  # Crea un entorno virtual aislado
+
+      - name: Instalar dependencias
+        run: |
+          source .venv/bin/activate
+          .venv/bin/python -m pip install --upgrade pip
+          .venv/bin/python -m pip install -r requirements.txt
+          .venv/bin/python -m pip install pyarrow openpyxl
+
+      - name: Limpiar datos y reportes generados
+        run: |
+          mkdir -p src/actividad1/datos src/actividad1/reportes
+          find src/actividad1/datos -mindepth 1 -delete
+          find src/actividad1/reportes -mindepth 1 -delete
+
+      - name: Ejecutar Actividad1_vivienda_colombia.ipynb
+        working-directory: src/actividad1  # Se ejecuta desde la carpeta del notebook (las rutas datos/ y reportes/ son relativas a ella)
+        run: |
+          source ../../.venv/bin/activate
+          jupyter nbconvert \
+            --to notebook \
+            --execute \
+            --inplace \
+            --ExecutePreprocessor.timeout=1800 \
+            Actividad1_vivienda_colombia.ipynb
+
+      - name: Confirmar cambios generados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/actividad1/datos src/actividad1/reportes src/actividad1/Actividad1_vivienda_colombia.ipynb
+
+          if git diff --cached --quiet; then
+            echo "No se generaron cambios."
+            exit 0
+          fi
+
+          git commit -m "chore: actualizar resultados de Actividad 1 [skip ci]"
+          git pull --rebase origin main  # Trae cambios que otro workflow pudo haber subido mientras tanto
+          git push origin HEAD:main

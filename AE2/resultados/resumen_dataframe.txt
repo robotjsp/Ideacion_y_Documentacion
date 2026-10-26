@@ -1,0 +1,54 @@
+RESUMEN DEL DATAFRAME
+============================================================
+Generado: 2026-10-25 23:04:01
+Dataset: aptologia/arriendo-rentabilidad-por-barrio-colombia-2026
+URL: https://huggingface.co/datasets/aptologia/arriendo-rentabilidad-por-barrio-colombia-2026
+Configuración: rentabilidad_arriendo_venta_barrio
+Split: train
+Muestra: No (dataset completo)
+
+Filas: 979
+Columnas: 19
+
+Columnas y tipos:
+- fecha_arriendo: str
+- fecha_venta: str
+- ciudad_id: str
+- ciudad: str
+- barrio_id: str
+- barrio: str
+- avisos_arriendo: int64
+- mediana_arriendo: int64
+- avisos_venta: int64
+- mediana_venta: int64
+- ok_todos: bool
+- rent_bruta_todos_pct_calc: float64
+- avisos_2_arriendo: int64
+- mediana_2_arriendo: float64
+- avisos_2_venta: int64
+- mediana_2_venta: float64
+- ok_2alc: bool
+- rent_bruta_2alc_pct_calc: float64
+- anios_arriendo_2alc_calc: float64
+
+Valores nulos por columna:
+- fecha_arriendo: 0
+- fecha_venta: 0
+- ciudad_id: 0
+- ciudad: 0
+- barrio_id: 0
+- barrio: 0
+- avisos_arriendo: 0
+- mediana_arriendo: 0
+- avisos_venta: 0
+- mediana_venta: 0
+- ok_todos: 0
+- rent_bruta_todos_pct_calc: 0
+- avisos_2_arriendo: 0
+- mediana_2_arriendo: 231
+- avisos_2_venta: 0
+- mediana_2_venta: 287
+- ok_2alc: 0
+- rent_bruta_2alc_pct_calc: 671
+- anios_arriendo_2alc_calc: 671
+Total de valores nulos: 1860
