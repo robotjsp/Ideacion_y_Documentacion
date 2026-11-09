@@ -1,0 +1,107 @@
+ciudad,puesto_oferta_ciudad,barrio,avisos_arriendo,avisos_venta,total_avisos,participacion_oferta_ciudad_pct,arriendo_mediano_mill_cop_mes,venta_mediana_mill_cop,nivel_confianza,participacion_acumulada_pct
+Barranquilla,1,Villa Santos,440,180,620,6.25,3.087,470.0,Alta,6.25
+Barranquilla,2,Altos de Riomar,422,196,618,6.23,3.556,520.0,Alta,12.48
+Barranquilla,3,Alameda del Rio,301,306,607,6.12,1.3,216.0,Alta,18.6
+Barranquilla,4,Altos del Prado,187,365,552,5.57,3.6,700.0,Alta,24.17
+Barranquilla,5,Alto Prado,442,93,535,5.39,3.3,1100.0,Alta,29.56
+Barranquilla,6,Lago Alto,166,351,517,5.21,4.0,740.0,Alta,34.78
+Barranquilla,7,Ciudad Jardin,278,177,455,4.59,2.2,395.0,Alta,39.36
+Barranquilla,8,Conjunto Residencial Villa Campestre,248,207,455,4.59,2.0,455.0,Alta,43.95
+Barranquilla,9,Miramar,232,171,403,4.06,2.3,390.0,Alta,48.01
+Barranquilla,10,El Golf,202,135,337,3.4,3.2,1300.0,Alta,51.41
+Bogotá,1,Chico Norte,1958,1832,3790,4.64,5.5,960.0,Alta,4.64
+Bogotá,2,Chico,1173,1535,2708,3.31,7.0,1200.0,Alta,7.95
+Bogotá,3,Santa Barbara,722,1555,2277,2.79,4.5,920.0,Alta,10.74
+Bogotá,4,Cedritos,967,1229,2196,2.69,2.75,550.0,Alta,13.43
+Bogotá,5,Chico Reservado,1044,1045,2089,2.56,9.5,1450.0,Alta,15.99
+Bogotá,6,Los Rosales,855,1102,1957,2.4,10.5,1850.0,Alta,18.38
+Bogotá,7,La Cabrera,1093,803,1896,2.32,13.0,2350.0,Alta,20.7
+Bogotá,8,Santa Barbara Central,522,1253,1775,2.17,5.0,900.0,Alta,22.88
+Bogotá,9,Santa Barbara Occidental,444,1124,1568,1.92,4.8,980.0,Alta,24.79
+Bogotá,10,Santa Paula,505,978,1483,1.82,5.5,1032.95,Alta,26.61
+Bucaramanga,1,Cabecera del Llano,365,436,801,10.23,3.3,742.5,Alta,10.23
+Bucaramanga,2,Sotomayor,303,404,707,9.03,2.4,550.0,Alta,19.26
+Bucaramanga,3,Canaveral,323,207,530,6.77,2.5,520.0,Alta,26.02
+Bucaramanga,4,San Francisco,202,162,364,4.65,1.4,280.0,Alta,30.67
+Bucaramanga,5,Mejoras Publicas,196,166,362,4.62,2.75,480.0,Alta,35.3
+Bucaramanga,6,San Alonso,184,133,317,4.05,1.6,380.0,Alta,39.34
+Bucaramanga,7,La Aurora,140,131,271,3.46,2.8,475.0,Alta,42.8
+Bucaramanga,8,Anillo Vial,117,150,267,3.41,2.5,470.0,Alta,46.21
+Bucaramanga,9,Provenza,105,140,245,3.13,1.8,327.5,Alta,49.34
+Bucaramanga,10,El Prado,161,78,239,3.05,1.72,410.0,Alta,52.39
+Cali,1,Valle del Lili,1054,1096,2150,8.8,1.7,330.0,Alta,8.8
+Cali,2,Bochalema,378,991,1369,5.6,1.6,280.0,Alta,14.4
+Cali,3,Pance,597,709,1306,5.35,3.9,870.0,Alta,19.75
+Cali,4,Ciudad Jardin,389,514,903,3.7,3.8,800.0,Alta,23.45
+Cali,5,Santa Teresita,305,598,903,3.7,5.8,939.5,Alta,27.14
+Cali,6,Bellavista,276,433,709,2.9,5.5,840.0,Alta,30.04
+Cali,7,La Flora,255,347,602,2.46,1.8,500.0,Alta,32.51
+Cali,8,Normandia,200,343,543,2.22,7.925,1490.0,Alta,34.73
+Cali,9,El Ingenio,160,365,525,2.15,1.8,450.0,Alta,36.88
+Cali,10,Parcelaciones Pance,317,152,469,1.92,2.5,815.0,Alta,38.8
+Cartagena,1,Bocagrande,363,722,1085,19.29,4.8,1089.5,Alta,19.29
+Cartagena,2,Serena del Mar,351,449,800,14.22,3.1,620.0,Alta,33.51
+Cartagena,3,Manga,249,348,597,10.61,4.9,700.0,Alta,44.12
+Cartagena,4,La Boquilla,248,291,539,9.58,4.0,1000.0,Alta,53.71
+Cartagena,5,Castillogrande,128,223,351,6.24,7.5,1558.0,Alta,59.95
+Cartagena,6,Crespo,155,195,350,6.22,4.0,672.0,Alta,66.17
+Cartagena,7,Marbella,160,141,301,5.35,4.036,720.0,Alta,71.52
+Cartagena,8,El Laguito,53,214,267,4.75,3.5,723.8,Alta,76.27
+Cartagena,9,Torices,100,90,190,3.38,2.688,330.0,Alta,79.64
+Cartagena,10,Cielo Mar,94,93,187,3.32,4.0,785.0,Alta,82.97
+Chía,1,Centro,84,136,220,9.83,1.7,357.4,Alta,9.83
+Chía,2,Delicias Norte,91,101,192,8.58,1.6,310.0,Alta,18.42
+Chía,3,Chuntame,57,128,185,8.27,1.66,328.0,Alta,26.69
+Chía,4,La Estacion,44,128,172,7.69,2.404,445.0,Alta,34.38
+Chía,5,El Cairo,88,49,137,6.12,1.4,260.0,Alta,40.5
+Chía,6,Calahorra,52,73,125,5.59,2.675,540.0,Alta,46.09
+Chía,7,El Misterio,38,85,123,5.5,1.8,330.0,Alta,51.59
+Chía,8,Canelon,29,80,109,4.87,2.7,435.0,Baja,56.46
+Chía,9,Samaria,33,65,98,4.38,1.45,250.0,Alta,60.84
+Chía,10,20 de Julio Sector II,35,62,97,4.34,1.3,239.95,Alta,65.18
+Cúcuta,1,Prados del Este,360,102,462,17.21,1.25,265.0,Alta,17.21
+Cúcuta,2,Bocono,355,19,374,13.93,1.0,150.0,Baja,31.15
+Cúcuta,3,Caobos,217,91,308,11.48,2.0,380.0,Alta,42.62
+Cúcuta,4,La Riviera,116,84,200,7.45,2.0,400.0,Alta,50.07
+Cúcuta,5,Bellavista,155,44,199,7.41,1.8,390.0,Alta,57.49
+Cúcuta,6,La Playa,122,62,184,6.86,1.3,295.0,Alta,64.34
+Cúcuta,7,Colsag,112,52,164,6.11,1.6,350.0,Alta,70.45
+Cúcuta,8,El Llano,102,15,117,4.36,0.9,160.0,Baja,74.81
+Cúcuta,9,La Floresta,95,15,110,4.1,1.8,350.0,Baja,78.91
+Cúcuta,10,San Luis,47,49,96,3.58,1.018,190.0,Alta,82.49
+Madrid,1,Potrero Grande,43,45,88,19.3,1.1,207.0,Alta,19.3
+Madrid,2,Conjunto Residencial Boreal,31,57,88,19.3,1.15,199.0,Alta,38.6
+Madrid,3,La Prosperidad,21,66,87,19.08,1.2,185.0,Baja,57.68
+Madrid,4,Conjunto Residencial Provenzal,21,60,81,17.76,1.0,190.5,Baja,75.44
+Madrid,5,Conjunto Residencial Abundara,23,39,62,13.6,1.1,215.0,Baja,89.04
+Madrid,6,Zona Centro,15,35,50,10.96,1.1,210.0,Baja,100.0
+Manizales,1,Palermo,116,50,166,39.24,2.6,545.0,Alta,39.24
+Manizales,2,Centro,113,18,131,30.97,1.5,300.0,Baja,70.21
+Manizales,3,Chipre,44,25,69,16.31,1.4,360.0,Baja,86.52
+Manizales,4,La Francia,30,27,57,13.48,1.775,350.0,Baja,100.0
+Medellín,1,Laureles,6722,4067,10789,8.16,4.0,791.0,Alta,8.16
+Medellín,2,Castropol,2788,666,3454,2.61,5.35,980.0,Alta,10.77
+Medellín,3,El Tesoro,2680,719,3399,2.57,7.5,1300.0,Alta,13.34
+Medellín,4,Calasanz,2281,968,3249,2.46,2.6,440.0,Alta,15.8
+Medellín,5,Santa Maria de los Angeles,2321,649,2970,2.25,5.5,1050.0,Alta,18.04
+Medellín,6,Las Palmas,1941,672,2613,1.98,4.3,945.0,Alta,20.02
+Medellín,7,Ciudad del Rio,2008,511,2519,1.9,4.5,790.0,Alta,21.92
+Medellín,8,Altos del Poblado,1825,616,2441,1.85,5.5,1100.0,Alta,23.77
+Medellín,9,Los Balsos,2002,286,2288,1.73,6.0,1375.0,Alta,25.5
+Medellín,10,Loma de los Bernal,1314,887,2201,1.66,3.3,645.0,Alta,27.16
+Pereira,1,Cerritos,398,31,429,86.14,3.1,700.0,Alta,86.14
+Pereira,2,Pinares,40,29,69,13.86,4.09,850.0,Baja,100.0
+Rionegro,1,El Porvenir,1525,888,2413,17.67,2.2,420.0,Alta,17.67
+Rionegro,2,Barro Blanco,969,429,1398,10.24,2.8,560.0,Alta,27.91
+Rionegro,3,San Antonio,838,281,1119,8.19,2.6,530.0,Alta,36.1
+Rionegro,4,San Antonio de Pereira,587,425,1012,7.41,2.6,562.0,Alta,43.51
+Rionegro,5,Fontibon,431,356,787,5.76,1.65,350.0,Alta,49.28
+Rionegro,6,Los Colegios,640,137,777,5.69,2.6,560.0,Alta,54.96
+Rionegro,7,Centro,473,222,695,5.09,2.2,425.0,Alta,60.05
+Rionegro,8,Llano Grande,372,279,651,4.77,4.2,700.0,Alta,64.82
+Rionegro,9,Santa Ana,404,199,603,4.42,2.5,490.0,Alta,69.24
+Rionegro,10,Cuatro Esquinas,304,191,495,3.62,1.65,290.0,Alta,72.86
+Soacha,1,Ciudad Verde,248,297,545,62.14,0.8,163.5,Alta,62.14
+Soacha,2,Hogares Soacha,43,84,127,14.48,0.75,145.5,Alta,76.62
+Soacha,3,Parque Campestre,40,69,109,12.43,0.75,140.0,Alta,89.05
+Soacha,4,San Mateo,59,37,96,10.95,0.91,175.0,Alta,100.0

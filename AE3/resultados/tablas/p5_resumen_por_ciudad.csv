@@ -1,0 +1,14 @@
+ciudad,barrios,avisos_arriendo,avisos_venta,total_avisos,barrios_muestra_suficiente,arriendo_mediano_entre_barrios_mill_cop_mes,venta_mediana_entre_barrios_mill_cop,barrios_comparables_2alc,rentabilidad_mediana_2alc_pct,concentracion_top10_pct,participacion_oferta_nacional_pct,alcance
+Medellín,324,86273,45986,132259,229,3.2,590.0,121,6.64,27.16,46.8,Suficiente
+Bogotá,333,34248,47448,81696,197,2.6,580.0,86,6.97,26.61,28.91,Suficiente
+Cali,115,9980,14451,24431,65,1.7,400.0,37,6.96,38.8,8.65,Suficiente
+Rionegro,33,8814,4842,13656,24,2.6,537.5,21,6.09,72.86,4.83,Suficiente
+Barranquilla,47,5792,4126,9918,34,2.55,400.0,17,7.71,51.41,3.51,Suficiente
+Bucaramanga,52,3819,4012,7831,30,2.236,472.5,5,5.88,52.39,2.77,Suficiente
+Cartagena,19,2309,3316,5625,14,4.0,754.4,11,6.0,82.97,1.99,Suficiente
+Cúcuta,17,1985,699,2684,7,1.6,350.0,0,,82.49,0.95,Referencial (<10 barrios confiables)
+Chía,23,850,1387,2237,12,1.63,319.0,9,6.49,65.18,0.79,Suficiente
+Soacha,4,390,487,877,4,0.775,154.5,1,6.62,100.0,0.31,Referencial (<10 barrios confiables)
+Pereira,2,438,60,498,1,3.1,700.0,0,,100.0,0.18,Referencial (<10 barrios confiables)
+Madrid,6,154,302,456,2,1.125,203.0,0,,100.0,0.16,Referencial (<10 barrios confiables)
+Manizales,4,303,120,423,1,2.6,545.0,0,,100.0,0.15,Referencial (<10 barrios confiables)

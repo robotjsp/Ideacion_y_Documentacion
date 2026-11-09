@@ -1,0 +1,309 @@
+ciudad,barrio,arriendo_2alc_mill_cop_mes,venta_2alc_mill_cop,rentabilidad_bruta_2alc_pct,anios_arriendo_2alc,nivel_rentabilidad_2alc,rentabilidad_2alc_atipica
+Barranquilla,Altos de Riomar,3.0,350.0,10.29,9.7,Alta (>=8 %),True
+Barranquilla,Altos del Prado,3.6,420.0,10.29,9.7,Alta (>=8 %),True
+Barranquilla,Lago Alto,3.8,500.0,9.12,11.0,Alta (>=8 %),True
+Barranquilla,Miramar,2.3,340.0,8.12,12.3,Alta (>=8 %),False
+Barranquilla,Villa Santos,3.0,450.0,8.0,12.5,Alta (>=8 %),False
+Barranquilla,El Porvenir,1.8,270.0,8.0,12.5,Alta (>=8 %),False
+Barranquilla,Andalucia,2.6,400.0,7.8,12.8,Media (6-8 %),False
+Barranquilla,Altamira,2.989,460.0,7.8,12.8,Media (6-8 %),False
+Barranquilla,Conjunto Residencial Villa Campestre,1.8,280.0,7.71,13.0,Media (6-8 %),False
+Barranquilla,Alameda del Rio,1.3,205.0,7.61,13.1,Media (6-8 %),False
+Barranquilla,Batallon Infanteria,1.8,285.0,7.58,13.2,Media (6-8 %),False
+Barranquilla,Nuevo Horizonte,2.15,350.0,7.37,13.6,Media (6-8 %),False
+Barranquilla,Paraiso,1.755,290.0,7.26,13.8,Media (6-8 %),False
+Barranquilla,Rio Alto,3.0,500.0,7.2,13.9,Media (6-8 %),False
+Barranquilla,Ciudad Mallorquin,1.7,285.0,7.16,14.0,Media (6-8 %),False
+Barranquilla,Ciudad Jardin,1.925,363.77,6.35,15.7,Media (6-8 %),False
+Barranquilla,El Prado,1.75,340.0,6.18,16.2,Media (6-8 %),False
+Bogotá,Chico Norte II,8.5,950.0,10.74,9.3,Alta (>=8 %),True
+Bogotá,Chapinero Central,3.2,400.0,9.6,10.4,Alta (>=8 %),True
+Bogotá,Chico Norte,7.5,950.0,9.47,10.6,Alta (>=8 %),True
+Bogotá,Parque el Virrey,8.5,1100.0,9.27,10.8,Alta (>=8 %),True
+Bogotá,Chico Reservado,8.791,1200.0,8.79,11.4,Alta (>=8 %),False
+Bogotá,Santa Bibiana,6.5,903.0,8.64,11.6,Alta (>=8 %),False
+Bogotá,El Nogal,8.6,1220.0,8.46,11.8,Alta (>=8 %),False
+Bogotá,Chico,7.85,1115.0,8.45,11.8,Alta (>=8 %),False
+Bogotá,La Carolina,5.5,800.0,8.25,12.1,Alta (>=8 %),False
+Bogotá,Chico Norte III,5.6,820.0,8.2,12.2,Alta (>=8 %),False
+Bogotá,La Calleja,4.862,719.5,8.11,12.3,Alta (>=8 %),False
+Bogotá,Bella Suiza,5.0,742.5,8.08,12.4,Alta (>=8 %),False
+Bogotá,Rincon del Chico,4.9,739.0,7.96,12.6,Media (6-8 %),False
+Bogotá,Santa Barbara Central,4.297,650.0,7.93,12.6,Media (6-8 %),False
+Bogotá,Tintala,1.55,235.0,7.91,12.6,Media (6-8 %),False
+Bogotá,Nuevo Country,4.5,690.0,7.83,12.8,Media (6-8 %),False
+Bogotá,La Cabrera,11.0,1690.0,7.81,12.8,Media (6-8 %),False
+Bogotá,Las Brisas,1.45,225.0,7.73,12.9,Media (6-8 %),False
+Bogotá,San Jose de Usaquen,1.8,280.0,7.71,13.0,Media (6-8 %),False
+Bogotá,Parque del Virrey,7.0,1100.0,7.64,13.1,Media (6-8 %),False
+Bogotá,Toberin,1.65,260.0,7.62,13.1,Media (6-8 %),False
+Bogotá,San Patricio,5.5,870.0,7.59,13.2,Media (6-8 %),False
+Bogotá,Prado Veraniego,2.6,417.5,7.47,13.4,Media (6-8 %),False
+Bogotá,Ricaurte,1.5,242.5,7.42,13.5,Media (6-8 %),False
+Bogotá,Chico Navarra,5.5,890.0,7.42,13.5,Media (6-8 %),False
+Bogotá,Nueva Zelandia,1.653,268.9,7.38,13.6,Media (6-8 %),False
+Bogotá,San Cristobal Norte,1.65,269.0,7.36,13.6,Media (6-8 %),False
+Bogotá,Barrancas Norte,1.8,295.0,7.32,13.7,Media (6-8 %),False
+Bogotá,Alhambra,2.95,484.0,7.31,13.7,Media (6-8 %),False
+Bogotá,Santa Barbara,4.5,740.0,7.3,13.7,Media (6-8 %),False
+Bogotá,Altos de Bella Suiza,4.375,727.5,7.22,13.9,Media (6-8 %),False
+Bogotá,Santa Barbara Occidental,4.5,750.0,7.2,13.9,Media (6-8 %),False
+Bogotá,Alameda,1.8,300.0,7.2,13.9,Media (6-8 %),False
+Bogotá,Navarra,5.35,895.0,7.17,13.9,Media (6-8 %),False
+Bogotá,Molinos Norte,5.0,840.0,7.14,14.0,Media (6-8 %),False
+Bogotá,Ciudad la Salle,1.78,300.0,7.12,14.0,Media (6-8 %),False
+Bogotá,Timiza,1.375,232.0,7.11,14.1,Media (6-8 %),False
+Bogotá,Los Rosales,8.0,1350.0,7.11,14.1,Media (6-8 %),False
+Bogotá,Santa Paula,5.2,880.0,7.09,14.1,Media (6-8 %),False
+Bogotá,San Antonio Norte,1.583,270.0,7.04,14.2,Media (6-8 %),False
+Bogotá,Barrancas,1.7,290.0,7.03,14.2,Media (6-8 %),False
+Bogotá,Veramonte Macana,1.9,325.0,7.02,14.3,Media (6-8 %),False
+Bogotá,Primavera,1.4,240.0,7.0,14.3,Media (6-8 %),False
+Bogotá,Hayuelos,1.7,294.0,6.94,14.4,Media (6-8 %),False
+Bogotá,Madelena,1.3,225.0,6.93,14.4,Media (6-8 %),False
+Bogotá,Castilla,1.415,245.0,6.93,14.4,Media (6-8 %),False
+Bogotá,Cedritos,2.99,520.0,6.9,14.5,Media (6-8 %),False
+Bogotá,El Refugio,8.5,1480.0,6.89,14.5,Media (6-8 %),False
+Bogotá,Chico Alto,8.5,1485.0,6.87,14.6,Media (6-8 %),False
+Bogotá,El Redil,1.6,280.0,6.86,14.6,Media (6-8 %),False
+Bogotá,Casa Blanca,1.6,280.0,6.86,14.6,Media (6-8 %),False
+Bogotá,Nueva Castilla,1.4,245.0,6.86,14.6,Media (6-8 %),False
+Bogotá,El Vergel,1.5,262.5,6.86,14.6,Media (6-8 %),False
+Bogotá,Bellavista,8.25,1450.0,6.83,14.6,Media (6-8 %),False
+Bogotá,El Tintal,1.25,220.0,6.82,14.7,Media (6-8 %),False
+Bogotá,El Virrey,6.9,1230.0,6.73,14.9,Media (6-8 %),False
+Bogotá,Antiguo Country,6.0,1070.0,6.73,14.9,Media (6-8 %),False
+Bogotá,Mirandela,1.8,322.5,6.7,14.9,Media (6-8 %),False
+Bogotá,Chapinero Alto,3.5,630.0,6.67,15.0,Media (6-8 %),False
+Bogotá,Pasadena,3.7,670.0,6.63,15.1,Media (6-8 %),False
+Bogotá,Paloquemao,1.599,291.1,6.59,15.2,Media (6-8 %),False
+Bogotá,Centro Internacional,3.9,720.0,6.5,15.4,Media (6-8 %),False
+Bogotá,Villa del Rio,1.268,235.0,6.47,15.4,Media (6-8 %),False
+Bogotá,El Liston,1.566,291.1,6.46,15.5,Media (6-8 %),False
+Bogotá,Nicolas de Federman,3.43,640.0,6.43,15.5,Media (6-8 %),False
+Bogotá,Lagos de Torca,1.6,300.0,6.4,15.6,Media (6-8 %),False
+Bogotá,Puente Grande,1.242,233.0,6.4,15.6,Media (6-8 %),False
+Bogotá,Ciudad Salitre,3.8,720.0,6.33,15.8,Media (6-8 %),False
+Bogotá,Santa Ana Occidental,3.735,715.0,6.27,16.0,Media (6-8 %),False
+Bogotá,Torca,1.6,315.0,6.1,16.4,Media (6-8 %),False
+Bogotá,Quinta Camacho,4.215,835.0,6.06,16.5,Media (6-8 %),False
+Bogotá,Montevideo,1.8,357.5,6.04,16.6,Media (6-8 %),False
+Bogotá,Galerias,2.1,420.0,6.0,16.7,Media (6-8 %),False
+Bogotá,San Jose de Bavaria,2.0,400.0,6.0,16.7,Media (6-8 %),False
+Bogotá,El Contador,2.913,590.0,5.92,16.9,Baja (<6 %),False
+Bogotá,La Felicidad,2.25,459.5,5.88,17.0,Baja (<6 %),False
+Bogotá,Santa Barbara Oriental,4.162,850.0,5.88,17.0,Baja (<6 %),False
+Bogotá,Cedro Golf,2.2,450.0,5.87,17.0,Baja (<6 %),False
+Bogotá,Santa Teresa,2.2,460.0,5.74,17.4,Baja (<6 %),False
+Bogotá,Modelia,2.175,487.0,5.36,18.7,Baja (<6 %),False
+Bogotá,Las Nieves,2.1,510.0,4.94,20.2,Baja (<6 %),False
+Bogotá,Quinta Paredes,2.614,670.0,4.68,21.4,Baja (<6 %),False
+Bogotá,Alcala,1.65,480.0,4.12,24.2,Baja (<6 %),True
+Bogotá,La Salle,1.8,540.0,4.0,25.0,Baja (<6 %),True
+Bogotá,Colina Campestre,1.988,613.6,3.89,25.7,Baja (<6 %),True
+Bogotá,Santa Barbara Alta,5.923,2132.0,3.33,30.0,Baja (<6 %),True
+Bucaramanga,Comuneros,1.32,240.0,6.6,15.2,Media (6-8 %),False
+Bucaramanga,Cabecera del Llano,2.7,500.0,6.48,15.4,Media (6-8 %),False
+Bucaramanga,San Francisco,1.225,250.0,5.88,17.0,Baja (<6 %),False
+Bucaramanga,San Alonso,1.39,300.0,5.56,18.0,Baja (<6 %),False
+Bucaramanga,Sotomayor,2.05,450.0,5.47,18.3,Baja (<6 %),False
+Cali,El Penon,5.5,600.0,11.0,9.1,Alta (>=8 %),True
+Cali,Santa Teresita,4.85,680.0,8.56,11.7,Alta (>=8 %),False
+Cali,Ciudad Jardin,5.0,706.0,8.5,11.8,Alta (>=8 %),False
+Cali,Arroyohondo,1.3,188.5,8.28,12.1,Alta (>=8 %),False
+Cali,El Refugio,1.6,241.5,7.95,12.6,Media (6-8 %),False
+Cali,Las Vegas de Comfandi,1.25,190.0,7.89,12.7,Media (6-8 %),False
+Cali,Pance,4.5,699.0,7.73,12.9,Media (6-8 %),False
+Cali,Hacienda Kachipay,1.6,250.0,7.68,13.0,Media (6-8 %),False
+Cali,Ciudad Guabinas,1.265,200.0,7.59,13.2,Media (6-8 %),False
+Cali,La Selva,1.95,312.5,7.49,13.4,Media (6-8 %),False
+Cali,Ciudad 2000,1.5,242.0,7.44,13.4,Media (6-8 %),False
+Cali,Aguacatal,1.425,230.0,7.43,13.5,Media (6-8 %),False
+Cali,Caney,1.3,210.0,7.43,13.5,Media (6-8 %),False
+Cali,Parcelacion Piedra Grande,1.6,265.0,7.25,13.8,Media (6-8 %),False
+Cali,Valle del Lili,1.6,270.0,7.11,14.1,Media (6-8 %),False
+Cali,Villa Fatima,1.4,236.5,7.1,14.1,Media (6-8 %),False
+Cali,Cachipay,1.44,245.0,7.05,14.2,Media (6-8 %),False
+Cali,Ciudad Pacifica,1.35,230.0,7.04,14.2,Media (6-8 %),False
+Cali,Kachipay,1.45,250.0,6.96,14.4,Media (6-8 %),False
+Cali,Prados del Norte,1.85,320.0,6.94,14.4,Media (6-8 %),False
+Cali,Bochalema,1.5,259.8,6.93,14.4,Media (6-8 %),False
+Cali,Parque Natura,1.2,210.0,6.86,14.6,Media (6-8 %),False
+Cali,Ciudad Melendez,1.5,264.0,6.82,14.7,Media (6-8 %),False
+Cali,Zona Industrial,1.2,211.5,6.81,14.7,Media (6-8 %),False
+Cali,Bellavista,3.85,680.0,6.79,14.7,Media (6-8 %),False
+Cali,Cristales,3.2,585.0,6.56,15.2,Media (6-8 %),False
+Cali,El Ingenio,1.8,335.0,6.45,15.5,Media (6-8 %),False
+Cali,Brisas de los Alamos,1.35,252.5,6.42,15.6,Media (6-8 %),False
+Cali,Melendez,1.36,254.95,6.4,15.6,Media (6-8 %),False
+Cali,Parcelaciones Pance,1.475,280.0,6.32,15.8,Media (6-8 %),False
+Cali,Lili,1.725,335.0,6.18,16.2,Media (6-8 %),False
+Cali,Granada,2.0,400.0,6.0,16.7,Media (6-8 %),False
+Cali,San Vicente,1.8,412.5,5.24,19.1,Baja (<6 %),False
+Cali,La Flora,2.2,525.0,5.03,19.9,Baja (<6 %),False
+Cali,Cristobal Colon,0.945,234.0,4.85,20.6,Baja (<6 %),False
+Cali,Miraflores,1.5,435.0,4.14,24.2,Baja (<6 %),True
+Cali,Santa Monica,2.0,850.0,2.82,35.4,Baja (<6 %),True
+Cartagena,Torices,2.442,320.0,9.16,10.9,Alta (>=8 %),True
+Cartagena,Manga,4.133,590.0,8.41,11.9,Alta (>=8 %),False
+Cartagena,Marbella,4.3,690.0,7.48,13.4,Media (6-8 %),False
+Cartagena,Crespo,4.2,725.0,6.95,14.4,Media (6-8 %),False
+Cartagena,Serena del Mar,3.0,600.0,6.0,16.7,Media (6-8 %),False
+Cartagena,Castillogrande,6.0,1200.0,6.0,16.7,Media (6-8 %),False
+Cartagena,Cielo Mar,3.9,856.0,5.47,18.3,Baja (<6 %),False
+Cartagena,La Boquilla,4.2,1000.0,5.04,19.8,Baja (<6 %),False
+Cartagena,Bocagrande,4.5,1074.5,5.03,19.9,Baja (<6 %),False
+Cartagena,El Centro,3.1,1100.0,3.38,29.6,Baja (<6 %),True
+Cartagena,Manzanillo,2.5,1145.0,2.62,38.2,Baja (<6 %),True
+Chía,Calahorra,2.75,475.0,6.95,14.4,Media (6-8 %),False
+Chía,Bachue,1.5,269.0,6.69,14.9,Media (6-8 %),False
+Chía,El Misterio,1.8,330.0,6.55,15.3,Media (6-8 %),False
+Chía,20 de Julio Sector II,1.3,240.0,6.5,15.4,Media (6-8 %),False
+Chía,El Cairo,1.4,258.7,6.49,15.4,Media (6-8 %),False
+Chía,Chuntame,1.6,310.0,6.19,16.1,Media (6-8 %),False
+Chía,Centro,1.5,300.0,6.0,16.7,Media (6-8 %),False
+Chía,Delicias Norte,1.55,320.0,5.81,17.2,Baja (<6 %),False
+Chía,Bojaca,1.179,339.0,4.17,24.0,Baja (<6 %),True
+Medellín,La Inmaculada,4.0,295.0,16.27,6.1,Alta (>=8 %),True
+Medellín,Pajarito,1.6,172.5,11.13,9.0,Alta (>=8 %),True
+Medellín,El Trapiche,2.1,265.0,9.51,10.5,Alta (>=8 %),True
+Medellín,Asomadera No 1,3.775,488.95,9.26,10.8,Alta (>=8 %),True
+Medellín,San Rafael,3.2,430.0,8.93,11.2,Alta (>=8 %),False
+Medellín,Loma del Indio,3.7,530.0,8.38,11.9,Alta (>=8 %),False
+Medellín,Calasanz,2.4,355.0,8.11,12.3,Alta (>=8 %),False
+Medellín,Santa Rosa de Lima,2.4,357.5,8.06,12.4,Alta (>=8 %),False
+Medellín,Las Acacias,3.1,465.0,8.0,12.5,Alta (>=8 %),False
+Medellín,La Tablaza,1.7,256.0,7.97,12.5,Media (6-8 %),False
+Medellín,Aves Maria,3.3,500.0,7.92,12.6,Media (6-8 %),False
+Medellín,San Gabriel,1.8,280.0,7.71,13.0,Media (6-8 %),False
+Medellín,Santa Monica,2.24,350.0,7.68,13.0,Media (6-8 %),False
+Medellín,San Antonio de Prado,1.4,220.0,7.64,13.1,Media (6-8 %),False
+Medellín,Zuniga,4.7,742.5,7.6,13.2,Media (6-8 %),False
+Medellín,La Mina,3.0,477.5,7.54,13.3,Media (6-8 %),False
+Medellín,La Abadia,4.0,640.0,7.5,13.3,Media (6-8 %),False
+Medellín,Asomadera No 2,3.95,635.0,7.46,13.4,Media (6-8 %),False
+Medellín,Vegas de la Doctora,3.375,550.0,7.36,13.6,Media (6-8 %),False
+Medellín,Bosques de Zuniga,4.75,775.0,7.35,13.6,Media (6-8 %),False
+Medellín,Las Lomas No 1,5.7,930.0,7.35,13.6,Media (6-8 %),False
+Medellín,Calasanz Parte Alta,2.2,359.0,7.35,13.6,Media (6-8 %),False
+Medellín,Las Antillas,3.0,490.0,7.35,13.6,Media (6-8 %),False
+Medellín,Mesa,4.125,680.0,7.28,13.7,Media (6-8 %),False
+Medellín,Belen Loma de los Bernal,3.1,513.0,7.25,13.8,Media (6-8 %),False
+Medellín,San Diego,3.2,530.0,7.25,13.8,Media (6-8 %),False
+Medellín,Santa Maria de los Angeles,4.7,795.0,7.09,14.1,Media (6-8 %),False
+Medellín,Bolivariana,3.25,550.0,7.09,14.1,Media (6-8 %),False
+Medellín,Entre Amigos,2.725,462.5,7.07,14.1,Media (6-8 %),False
+Medellín,Monteazul,2.825,480.0,7.06,14.2,Media (6-8 %),False
+Medellín,La Doctora,3.0,510.0,7.06,14.2,Media (6-8 %),False
+Medellín,Maria Auxiliadora,1.9,325.0,7.02,14.3,Media (6-8 %),False
+Medellín,Loma del Barro,3.15,540.0,7.0,14.3,Media (6-8 %),False
+Medellín,Belen Rosales,2.8,480.0,7.0,14.3,Media (6-8 %),False
+Medellín,La Floresta,2.21,379.5,6.99,14.3,Media (6-8 %),False
+Medellín,El Salado,3.3,567.5,6.98,14.3,Media (6-8 %),False
+Medellín,Pan de Azucar,2.9,500.0,6.96,14.4,Media (6-8 %),False
+Medellín,Vegas de San Jose,2.9,500.0,6.96,14.4,Media (6-8 %),False
+Medellín,Boston,1.85,320.0,6.94,14.4,Media (6-8 %),False
+Medellín,Calle Larga,2.6,450.0,6.93,14.4,Media (6-8 %),False
+Medellín,El Diamante No 2,4.525,790.0,6.87,14.5,Media (6-8 %),False
+Medellín,Zona Industrial No 1,2.4,420.0,6.86,14.6,Media (6-8 %),False
+Medellín,San Lucas,7.5,1315.0,6.84,14.6,Media (6-8 %),False
+Medellín,Tres Esquinas,2.85,500.0,6.84,14.6,Media (6-8 %),False
+Medellín,Cabanas,1.8,316.0,6.84,14.6,Media (6-8 %),False
+Medellín,El Tesoro,6.6,1160.0,6.83,14.6,Media (6-8 %),False
+Medellín,Toledo,2.7,475.0,6.82,14.7,Media (6-8 %),False
+Medellín,El Carmelo,3.125,550.0,6.82,14.7,Media (6-8 %),False
+Medellín,Santa Ana,2.25,396.5,6.81,14.7,Media (6-8 %),False
+Medellín,Zona Centro,3.475,612.5,6.81,14.7,Media (6-8 %),False
+Medellín,Rodeo Alto,2.2,390.0,6.77,14.8,Media (6-8 %),False
+Medellín,Santa Maria,2.1,372.5,6.77,14.8,Media (6-8 %),False
+Medellín,San Joaquin,2.7,480.0,6.75,14.8,Media (6-8 %),False
+Medellín,La Ferreria,2.35,418.5,6.74,14.8,Media (6-8 %),False
+Medellín,Sabaneta Real,2.8,500.0,6.72,14.9,Media (6-8 %),False
+Medellín,El Chingui,3.3,590.0,6.71,14.9,Media (6-8 %),False
+Medellín,Holanda,2.85,510.0,6.71,14.9,Media (6-8 %),False
+Medellín,Alejandria,6.0,1075.0,6.7,14.9,Media (6-8 %),False
+Medellín,Camino Verde,3.5,630.0,6.67,15.0,Media (6-8 %),False
+Medellín,La Aldea,2.5,450.0,6.67,15.0,Media (6-8 %),False
+Medellín,Loma de los Bernal,3.1,560.0,6.64,15.1,Media (6-8 %),False
+Medellín,Patio Bonito,4.0,725.0,6.62,15.1,Media (6-8 %),False
+Medellín,Fatima,2.6,473.0,6.6,15.2,Media (6-8 %),False
+Medellín,Laureles,3.4,625.0,6.53,15.3,Media (6-8 %),False
+Medellín,Via las Palmas,5.0,920.0,6.52,15.3,Media (6-8 %),False
+Medellín,Los Alcazares,3.0,552.5,6.52,15.3,Media (6-8 %),False
+Medellín,Cola del Zorro,7.0,1290.0,6.51,15.4,Media (6-8 %),False
+Medellín,Canaveralejo,2.45,452.07,6.5,15.4,Media (6-8 %),False
+Medellín,La Barquerena,3.15,582.5,6.49,15.4,Media (6-8 %),False
+Medellín,Loma Benedictinos,4.65,860.0,6.49,15.4,Media (6-8 %),False
+Medellín,El Esmeraldal,4.15,770.0,6.47,15.5,Media (6-8 %),False
+Medellín,Prados de Sabaneta,2.825,525.0,6.46,15.5,Media (6-8 %),False
+Medellín,Loma del Esmeraldal,4.3,800.0,6.45,15.5,Media (6-8 %),False
+Medellín,Bucaros,1.8,335.0,6.45,15.5,Media (6-8 %),False
+Medellín,Centro,2.3,429.0,6.43,15.5,Media (6-8 %),False
+Medellín,Loma del Chocho,4.5,840.0,6.43,15.6,Media (6-8 %),False
+Medellín,Mayorca,3.2,600.0,6.4,15.6,Media (6-8 %),False
+Medellín,Ditaires,2.5,469.0,6.4,15.6,Media (6-8 %),False
+Medellín,Transversal Superior,6.65,1250.0,6.38,15.7,Media (6-8 %),False
+Medellín,Cumbres,4.3,810.0,6.37,15.7,Media (6-8 %),False
+Medellín,Las Vegas,3.6,679.87,6.35,15.7,Media (6-8 %),False
+Medellín,El Portal,3.625,685.0,6.35,15.7,Media (6-8 %),False
+Medellín,San Jose,2.75,520.0,6.35,15.8,Media (6-8 %),False
+Medellín,Alto de las Palmas,5.8,1100.0,6.33,15.8,Media (6-8 %),False
+Medellín,El Trianon,3.425,650.0,6.32,15.8,Media (6-8 %),False
+Medellín,Altos del Poblado,5.0,950.0,6.32,15.8,Media (6-8 %),False
+Medellín,Provenza,7.1,1350.0,6.31,15.8,Media (6-8 %),False
+Medellín,La Pradera,4.2,800.0,6.3,15.9,Media (6-8 %),False
+Medellín,Los Balsos No 1,5.4,1030.0,6.29,15.9,Media (6-8 %),False
+Medellín,La Milagrosa,1.4,267.5,6.28,15.9,Media (6-8 %),False
+Medellín,Simesa,4.5,860.0,6.28,15.9,Media (6-8 %),False
+Medellín,Las Lomitas,2.7,518.0,6.25,16.0,Media (6-8 %),False
+Medellín,Loma de las Brujas,4.3,825.0,6.25,16.0,Media (6-8 %),False
+Medellín,Villa Carlota,4.3,830.0,6.22,16.1,Media (6-8 %),False
+Medellín,Alcala,2.95,570.0,6.21,16.1,Media (6-8 %),False
+Medellín,Ciudad del Rio,4.5,870.0,6.21,16.1,Media (6-8 %),False
+Medellín,Lorena,2.6,505.0,6.18,16.2,Media (6-8 %),False
+Medellín,La Linde,6.1,1190.0,6.15,16.3,Media (6-8 %),False
+Medellín,Lalinde,6.15,1200.0,6.15,16.3,Media (6-8 %),False
+Medellín,Caqueta,2.5,490.0,6.12,16.3,Media (6-8 %),False
+Medellín,Suramerica,2.8,550.0,6.11,16.4,Media (6-8 %),False
+Medellín,Simon Bolivar,2.6,520.0,6.0,16.7,Media (6-8 %),False
+Medellín,San Jose Obrero,2.2,445.0,5.93,16.9,Baja (<6 %),False
+Medellín,Las Palmas,4.35,880.0,5.93,16.9,Baja (<6 %),False
+Medellín,Loma del Escobero,4.3,870.0,5.93,16.9,Baja (<6 %),False
+Medellín,Milla de Oro,5.8,1175.0,5.92,16.9,Baja (<6 %),False
+Medellín,Prado Centro,1.725,350.0,5.91,16.9,Baja (<6 %),False
+Medellín,Conquistadores,3.2,650.0,5.91,16.9,Baja (<6 %),False
+Medellín,Prado,1.6,325.0,5.91,16.9,Baja (<6 %),False
+Medellín,Los Balsos,5.8,1180.0,5.9,17.0,Baja (<6 %),False
+Medellín,Los Naranjos,5.2,1058.0,5.9,17.0,Baja (<6 %),False
+Medellín,Castropol,4.55,937.5,5.82,17.2,Baja (<6 %),False
+Medellín,Loma San Jose,2.7,562.5,5.76,17.4,Baja (<6 %),False
+Medellín,Los Colores,3.4,720.0,5.67,17.6,Baja (<6 %),False
+Medellín,Escobero,4.25,900.0,5.67,17.6,Baja (<6 %),False
+Medellín,El Campestre,5.95,1300.0,5.49,18.2,Baja (<6 %),False
+Medellín,La Florida,4.5,1030.0,5.24,19.1,Baja (<6 %),False
+Medellín,La Castellana,2.8,650.0,5.17,19.3,Baja (<6 %),False
+Medellín,Transversal Inferior,4.6,1100.0,5.02,19.9,Baja (<6 %),False
+Medellín,Astorga,4.25,1050.0,4.86,20.6,Baja (<6 %),False
+Medellín,Vizcaya,5.1,1450.0,4.22,23.7,Baja (<6 %),True
+Rionegro,Centro,2.3,380.0,7.26,13.8,Media (6-8 %),False
+Rionegro,Ojo de Agua,2.5,420.0,7.14,14.0,Media (6-8 %),False
+Rionegro,Cuatro Esquinas,1.6,280.0,6.86,14.6,Media (6-8 %),False
+Rionegro,Santa Elena,3.9,705.0,6.64,15.1,Media (6-8 %),False
+Rionegro,Los Salados,5.5,997.5,6.62,15.1,Media (6-8 %),False
+Rionegro,Gualanday,3.8,696.0,6.55,15.3,Media (6-8 %),False
+Rionegro,San Nicolas,2.7,495.0,6.55,15.3,Media (6-8 %),False
+Rionegro,Pantanillo,3.3,610.0,6.49,15.4,Media (6-8 %),False
+Rionegro,Cimarronas,1.6,300.0,6.4,15.6,Media (6-8 %),False
+Rionegro,Santa Ana,2.5,470.0,6.38,15.7,Media (6-8 %),False
+Rionegro,El Carmen,3.6,709.0,6.09,16.4,Media (6-8 %),False
+Rionegro,San Antonio de Pereira,2.6,530.0,5.89,17.0,Baja (<6 %),False
+Rionegro,La Laja,1.7,350.0,5.83,17.2,Baja (<6 %),False
+Rionegro,Fontibon,1.65,340.0,5.82,17.2,Baja (<6 %),False
+Rionegro,San Antonio,2.5,520.0,5.77,17.3,Baja (<6 %),False
+Rionegro,Sajonia,6.2,1300.0,5.72,17.5,Baja (<6 %),False
+Rionegro,Cuchillas de San Jose,1.65,348.0,5.69,17.6,Baja (<6 %),False
+Rionegro,El Porvenir,1.8,380.0,5.68,17.6,Baja (<6 %),False
+Rionegro,Barro Blanco,2.6,550.0,5.67,17.6,Baja (<6 %),False
+Rionegro,Los Colegios,2.4,560.0,5.14,19.4,Baja (<6 %),False
+Rionegro,Llano Grande,3.4,960.0,4.25,23.5,Baja (<6 %),True
+Soacha,Ciudad Verde,0.8,145.0,6.62,15.1,Media (6-8 %),False

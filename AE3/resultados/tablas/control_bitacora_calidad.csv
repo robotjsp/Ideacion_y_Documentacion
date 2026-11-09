@@ -1,0 +1,16 @@
+paso,control,regla,registros_afectados,decision
+1,Tipo de fechas,Convertir fecha_arriendo y fecha_venta de texto a fecha (AAAA-MM-DD),979,Convertidas las 979 filas; 0 fechas inválidas.
+2,Fechas redundantes,fecha_arriendo debe ser igual a fecha_venta,0,Son idénticas en todas las filas: se unifican en fecha_corte y se eliminan las dos originales.
+3,Tipos numéricos y lógicos,Avisos y precios numéricos; ok_todos y ok_2alc lógicos (True/False),0,"Sin problemas: los tipos ya son correctos, no se modifican."
+4,Duplicados,Filas idénticas y clave ciudad_id + barrio_id,0,No hay duplicados; no se elimina ningún registro.
+5,Clave de identificación,barrio_id debe ser único,85,"barrio_id se repite entre ciudades (barrios homónimos, no duplicados). Se define la clave compuesta ciudad_id + barrio_id."
+6,Espacios en texto,Sin espacios al inicio/fin ni dobles en ciudad y barrio,0,Sin hallazgos; se aplica la limpieza igualmente para garantizar el formato.
+7,Categorías de ciudad,Cada ciudad_id corresponde a un solo nombre de ciudad,0,Relación 1 a 1 correcta; 13 ciudades.
+8,Nombres de barrio equivalentes,Sin barrios repetidos al comparar nombre sin tildes ni mayúsculas,0,Sin hallazgos. Se crea barrio_clave (normalizado) para búsquedas y filtros.
+9,Rangos válidos,avisos de arriendo y venta >= 1; medianas de precio > 0; arriendo dentro del rango sano de la fuente ($200.000–$30.000.000); avisos de 2 alcobas <= avisos totales,0,Todos los valores están en rangos válidos; no se modifica ningún registro.
+10,Coherencia de cálculos,Recalcular rentabilidades y años de arriendo,0,Coinciden en todas las filas: se confirma el significado de las columnas calculadas.
+11,Reglas de calidad de la fuente,ok_todos: >=30 avisos en arriendo y venta; ok_2alc: >=20 avisos de 2 alcobas en ambos,0,Las reglas se cumplen exactamente; se usan para definir la confianza de cada barrio.
+12,Valores faltantes,Nulos en columnas de 2 alcobas (mediana < 8 avisos; rentabilidad si ok_2alc = False),671,"Son nulos estructurales (muestra insuficiente), no errores. NO se imputan: rellenarlos inventaría precios. Se dejan vacíos y P4 usa solo los 308 barrios comparables."
+13,Valores atípicos,"Regla de Tukey (1,5 x RIC) sobre la rentabilidad bruta (todos y 2 alcobas)",60,"Se MARCAN, no se eliminan: son medianas reales de avisos (p. ej. barrios céntricos con precios de venta altos). Se identifican en las tablas para interpretarlos con cautela."
+14,Unidades y nombres,Precios de COP a millones de COP; nombres con unidad,979,3398 valores de precio convertidos en 4 columnas de las 979 filas (los nulos siguen nulos); 11 columnas renombradas.
+15,Selección de registros,Conservar todos los barrios; marcar los de muestra insuficiente,0,Se conservan los 979 barrios para poder consultar cualquiera (objetivo 2). Los rankings usan solo los 620 con muestra suficiente.

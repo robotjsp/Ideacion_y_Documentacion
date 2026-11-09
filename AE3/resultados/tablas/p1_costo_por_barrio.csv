@@ -1,0 +1,980 @@
+ciudad,barrio,arriendo_mediano_mill_cop_mes,arriendo_anual_mill_cop,venta_mediana_mill_cop,anios_arriendo_equivalentes,rango_arriendo_ciudad,rango_venta_ciudad,banda_presupuesto_arriendo,banda_presupuesto_venta,nivel_confianza
+Barranquilla,Buenavista,5.0,60.0,1125.0,18.8,Alto,Alto,3 a 5 M,Más de 1.000 M,Alta
+Barranquilla,El Castillo,4.6,55.2,510.0,9.2,Alto,Medio-alto,3 a 5 M,300 a 600 M,Baja
+Barranquilla,Ub Altos de Parque,4.1,49.2,477.5,9.7,Alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Barranquilla,Portal de Genoves,4.1,49.2,698.0,14.2,Alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Barranquilla,Lago Alto,4.0,48.0,740.0,15.4,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Barranquilla,Altos del Limon,4.0,48.0,620.0,12.9,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Barranquilla,El Oasis,3.9,46.8,620.0,13.2,Alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Barranquilla,Conjunto Residencial el Encanto,3.75,45.0,557.5,12.4,Alto,Alto,3 a 5 M,300 a 600 M,Baja
+Barranquilla,Altos del Prado,3.6,43.2,700.0,16.2,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Barranquilla,Altos de Riomar,3.556,42.677,520.0,12.2,Alto,Alto,3 a 5 M,300 a 600 M,Alta
+Barranquilla,Rio Alto,3.5,42.0,525.0,12.5,Alto,Alto,3 a 5 M,300 a 600 M,Alta
+Barranquilla,Villa Country,3.35,40.2,500.0,12.4,Alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Barranquilla,Alto Prado,3.3,39.6,1100.0,27.8,Medio-alto,Alto,3 a 5 M,Más de 1.000 M,Alta
+Barranquilla,El Country,3.3,39.6,589.5,14.9,Medio-alto,Alto,3 a 5 M,300 a 600 M,Alta
+Barranquilla,El Golf,3.2,38.4,1300.0,33.9,Medio-alto,Alto,3 a 5 M,Más de 1.000 M,Alta
+Barranquilla,Villa Santos,3.087,37.044,470.0,12.7,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Barranquilla,El Tabor,2.9,34.8,400.0,11.5,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,El Limoncito,2.79,33.48,350.0,10.5,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Barranquilla,Andalucia,2.7,32.4,400.0,12.3,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,El Poblado,2.607,31.281,450.0,14.4,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,Villa Carolina,2.6,31.2,380.0,12.2,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Barranquilla,Altamira,2.6,31.2,380.0,12.2,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,La Campina,2.6,31.2,420.0,13.5,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,San Vicente,2.5,30.0,480.0,16.0,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,Granadillo,2.344,28.134,394.0,14.0,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,Miramar,2.3,27.6,390.0,14.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,El Prado,2.3,27.6,400.0,14.5,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,Los Alpes,2.3,27.6,392.5,14.2,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Barranquilla,Ciudad Jardin,2.2,26.4,395.0,15.0,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,Paraiso,2.2,26.4,340.0,12.9,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,Betania,2.133,25.595,340.0,13.3,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Barranquilla,Nuevo Horizonte,2.125,25.5,370.0,14.5,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,Conjunto Residencial Villa Campestre,2.0,24.0,455.0,19.0,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,Bellavista,2.0,24.0,400.0,16.7,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,La Cumbre,1.95,23.4,350.0,15.0,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,El Porvenir,1.8,21.6,360.0,16.7,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,Batallon Infanteria,1.8,21.6,300.0,13.9,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Barranquilla,Boston,1.75,21.0,340.0,16.2,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Barranquilla,Ciudad Mallorquin,1.7,20.4,290.0,14.2,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Barranquilla,La Concepcion,1.7,20.4,330.0,16.2,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Barranquilla,El Recreo,1.5,18.0,280.0,15.6,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Barranquilla,San Felipe,1.5,18.0,285.0,15.8,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Barranquilla,Las Delicias,1.421,17.052,350.0,20.5,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Alta
+Barranquilla,Alameda del Rio,1.3,15.6,216.0,13.8,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Barranquilla,Los Andes,1.3,15.6,227.5,14.6,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Barranquilla,Chiquinquira,1.2,14.4,195.0,13.5,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Barranquilla,Abajo,1.114,13.368,367.5,27.5,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Bogotá,Cerros de los Alpes,20.5,246.0,3800.0,15.4,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Bogotá,Bosques del Marquez,17.0,204.0,3340.0,16.4,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Bogotá,Montearroyo,14.5,174.0,2900.0,16.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Santa Barbara Alta,14.25,171.0,2800.0,16.4,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Santa Ana Oriental,14.0,168.0,2300.0,13.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Rosales Bajo,13.6,163.2,2300.0,14.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Paramo,13.25,159.0,2000.0,12.6,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Bogotá,Chico Museo,13.15,157.8,2400.0,15.2,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,La Cabrera,13.0,156.0,2350.0,15.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Chico Alto,13.0,156.0,2050.0,13.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Bosque Medina,12.5,150.0,2000.0,13.3,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Santa Ana,12.05,144.6,1280.0,8.9,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Sierras del Moral,12.0,144.0,1800.0,12.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Bosque Medina Usaquen,12.0,144.0,2200.0,15.3,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Bogotá,El Refugio I,11.7,140.4,2800.0,19.9,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Rosales Bella Vista,11.5,138.0,2550.0,18.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Bogotá,El Refugio,11.0,132.0,1800.0,13.6,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Los Rosales,10.5,126.0,1850.0,14.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,El Retiro,10.5,126.0,2250.0,17.9,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Altos del Refugio,10.0,120.0,2350.0,19.6,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Bogotá,Chico Reservado,9.5,114.0,1450.0,12.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Los Rosales Emaus,9.5,114.0,1690.0,14.8,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Sotileza,9.044,108.528,1200.0,11.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Bogotá,El Nogal,9.0,108.0,1800.0,16.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Bellavista,9.0,108.0,1765.0,16.3,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Colinas de Suba,9.0,108.0,1735.0,16.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Chico Santa Barbara,9.0,108.0,900.0,8.3,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Bogotá,Museo del Chico,9.0,108.0,1785.0,16.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Bogotá,Las Acacias,8.8,105.6,1700.0,16.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Altos de Suba,8.8,105.6,1080.0,10.2,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Bogotá,Parque el Virrey,8.7,104.4,1100.0,10.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Cerros de Niza,8.5,102.0,1590.0,15.6,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Bogotá,La Carolina,8.125,97.5,1390.0,14.3,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Cerros de Suba,8.0,96.0,1500.0,15.6,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Chico Norte Et II,8.0,96.0,900.0,9.4,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Bogotá,Recodo del Country,8.0,96.0,950.0,9.9,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Bogotá,Chico Virrey,7.85,94.2,1370.0,14.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,El Virrey,7.8,93.6,1250.0,13.4,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Parque del Virrey,7.5,90.0,1100.0,12.2,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,La Carolina Country,7.5,90.0,1350.0,15.0,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Bogotá,Chico Norte II,7.4,88.8,950.0,10.7,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Bogotá,Bosque de Pinos,7.3,87.6,1500.0,17.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Niza Suba,7.175,86.1,1350.0,15.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Bogotá,Chico,7.0,84.0,1200.0,14.3,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Country Club,6.6,79.2,1165.0,14.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Los Rosales Chico,6.6,79.2,1500.0,18.9,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Bogotá,Chico San Patricio,6.5,78.0,1050.0,13.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Santa Bibiana,6.4,76.8,1170.0,15.2,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Multicentro,6.0,72.0,1200.0,16.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Molinos del Norte,6.0,72.0,990.0,13.8,Alto,Alto,Más de 5 M,600 a 1.000 M,Baja
+Bogotá,Chico Navarra,5.975,71.7,1220.0,17.0,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Chico III,5.957,71.488,980.0,13.7,Alto,Alto,Más de 5 M,600 a 1.000 M,Baja
+Bogotá,Bella Suiza Alta,5.8,69.6,980.0,14.1,Alto,Alto,Más de 5 M,600 a 1.000 M,Baja
+Bogotá,Antiguo Contry,5.8,69.6,677.0,9.7,Alto,Medio-alto,Más de 5 M,600 a 1.000 M,Baja
+Bogotá,Navarra,5.75,69.0,1196.5,17.3,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Chico Norte,5.5,66.0,960.0,14.5,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Bogotá,Santa Paula,5.5,66.0,1032.95,15.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,San Patricio,5.5,66.0,1104.0,16.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Bogotá,Rincon del Chico,5.5,66.0,820.0,12.4,Alto,Medio-alto,Más de 5 M,600 a 1.000 M,Alta
+Bogotá,Antiguo Country,5.3,63.6,900.94,14.2,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Bogotá,La Calleja,5.2,62.4,980.0,15.7,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Bogotá,Molinos Norte,5.188,62.256,920.0,14.8,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Bogotá,Santa Barbara Central,5.0,60.0,900.0,15.0,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Santa Barbara Occidental,4.8,57.6,980.0,17.0,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Mochuelo Norte,4.8,57.6,780.0,13.5,Alto,Medio-alto,3 a 5 M,600 a 1.000 M,Baja
+Bogotá,Gratamira,4.6,55.2,1050.0,19.0,Alto,Alto,3 a 5 M,Más de 1.000 M,Alta
+Bogotá,Club los Lagartos,4.595,55.134,892.5,16.2,Alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Bogotá,Santa Barbara,4.5,54.0,920.0,17.0,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Bella Suiza,4.5,54.0,795.72,14.7,Alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Santa Ana Occidental,4.5,54.0,998.0,18.5,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Chico Norte Et III,4.475,53.7,880.0,16.4,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Chico Norte III,4.45,53.4,880.0,16.5,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Altos de Bella Suiza,4.45,53.4,795.0,14.9,Alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Emaus,4.229,50.753,1280.0,25.2,Alto,Alto,3 a 5 M,Más de 1.000 M,Alta
+Bogotá,San Gabriel Norte,4.225,50.7,899.5,17.7,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Ciudad Salitre Occidente,4.15,49.8,750.0,15.1,Alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,San Patricio Usaquen,4.15,49.8,1350.0,27.1,Alto,Alto,3 a 5 M,Más de 1.000 M,Baja
+Bogotá,Escuela de Infanteria,3.976,47.706,830.0,17.4,Alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Bogotá,Bella Suiza Usaquen,3.879,46.546,762.5,16.4,Alto,Medio-alto,3 a 5 M,600 a 1.000 M,Baja
+Bogotá,Quinta Camacho,3.8,45.6,839.0,18.4,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Ciudad Salitre Oriental,3.7,44.4,865.0,19.5,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Ciudad Salitre Suroriental,3.63,43.56,940.0,21.6,Alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Bogotá,Santa Barbara Oriental,3.6,43.2,850.0,19.7,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Ciudad Salitre Occidental,3.6,43.2,835.0,19.3,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Lagos de Cordoba,3.55,42.6,1134.0,26.6,Medio-alto,Alto,3 a 5 M,Más de 1.000 M,Alta
+Bogotá,Santa Barbara Central Usaquen,3.525,42.3,650.0,15.4,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Baja
+Bogotá,Chapinero Norte,3.5,42.0,435.0,10.4,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Alta
+Bogotá,Alhambra,3.5,42.0,660.0,15.7,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Santa Barbara Usaquén,3.5,42.0,825.0,19.6,Medio-alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Bogotá,Centro Comercial Parque la Colina,3.45,41.4,800.0,19.3,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Nicolas de Federman,3.35,40.2,685.0,17.0,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Rafael Nunez,3.35,40.2,690.0,17.2,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Baja
+Bogotá,Belmira,3.3,39.6,600.0,15.2,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Bogotá,Ilarco,3.3,39.6,680.0,17.2,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Lisboa Nuevo Country,3.3,39.6,713.58,18.0,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Baja
+Bogotá,Salitre,3.279,39.347,900.0,22.9,Medio-alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Puente Largo,3.2,38.4,690.0,18.0,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Nuevo Country,3.2,38.4,415.0,10.8,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Alta
+Bogotá,Monaco,3.2,38.4,650.0,16.9,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,La Esperanza Norte,3.2,38.4,930.0,24.2,Medio-alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Los Cedros Oriental,3.2,38.4,430.0,11.2,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Baja
+Bogotá,Ciudad Salitre,3.186,38.227,850.0,22.2,Medio-alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Pasadena,3.1,37.2,720.0,19.4,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Estoril,3.1,37.2,820.0,22.0,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Niza Norte,3.1,37.2,664.95,17.9,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Nueva Autopista,3.039,36.468,688.75,18.9,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Bogotá,Niza,3.0,36.0,700.0,19.4,Medio-alto,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Bogotá,La Soledad,3.0,36.0,620.0,17.2,Medio-alto,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Bogotá,Maria Cristina,3.0,36.0,595.0,16.5,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Pontevedra,3.0,36.0,650.0,18.1,Medio-alto,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Bogotá,Caobos Salazar,3.0,36.0,580.0,16.1,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Lisboa Usaquen,3.0,36.0,677.5,18.8,Medio-alto,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Bogotá,Los Andes,2.995,35.94,590.0,16.4,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Porciuncula,2.983,35.8,580.0,16.2,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,San Jose del Prado,2.9,34.8,555.0,15.9,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Las Margaritas,2.9,34.8,240.0,6.9,Medio-alto,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Bogotá,Ciudad Alsacia,2.9,34.8,478.5,13.8,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Cedritos Alcala,2.85,34.2,535.0,15.6,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Chapinero Alto,2.8,33.6,530.0,15.8,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Lago Gaitan,2.8,33.6,418.1,12.4,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Bosque Calderon,2.8,33.6,616.0,18.3,Medio-alto,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Baja
+Bogotá,Cantagallo,2.8,33.6,677.15,20.2,Medio-alto,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Baja
+Bogotá,Ciudadela la Felicidad,2.8,33.6,672.5,20.0,Medio-alto,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Baja
+Bogotá,Cedritos,2.75,33.0,550.0,16.7,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Mazuren,2.75,33.0,530.0,16.1,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Lisboa,2.75,33.0,650.0,19.7,Medio-alto,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Bogotá,San Martin,2.723,32.676,520.0,15.9,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,La Felicidad,2.7,32.4,620.0,19.1,Medio-alto,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Bogotá,Acacias Usaquen,2.64,31.68,524.0,16.5,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Centro Internacional,2.6,31.2,420.0,13.5,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Quinta Paredes,2.6,31.2,594.0,19.0,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Normandia,2.6,31.2,480.0,15.4,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Bosque Izquierdo,2.6,31.2,655.0,21.0,Medio-alto,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Bogotá,La Floresta,2.6,31.2,465.0,14.9,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Cedritos Usaquen,2.6,31.2,530.0,17.0,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Cedro Salazar,2.6,31.2,490.0,15.7,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Iberia,2.6,31.2,535.0,17.1,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,El Contador,2.591,31.09,605.0,19.5,Medio-alto,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Bogotá,La Macarena,2.561,30.732,450.0,14.6,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Los Cedros,2.5,30.0,551.2,18.4,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Cedro Golf,2.5,30.0,530.0,17.7,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Parque Central Bavaria,2.5,30.0,595.0,19.8,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Normandia Occidental,2.5,30.0,315.0,10.5,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Egipto,2.5,30.0,460.0,15.3,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Campo Alegre,2.5,30.0,325.0,10.8,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Pradera Norte,2.475,29.7,570.0,19.2,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Portales del Norte,2.425,29.1,435.81,15.0,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Colina Campestre,2.4,28.8,850.0,29.5,Medio-alto,Alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Bogotá,Samper,2.4,28.8,595.0,20.7,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Sagrado Corazon,2.35,28.2,477.64,16.9,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,La Soledad Teusaquillo,2.35,28.2,590.0,20.9,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Polo Club,2.3,27.6,597.5,21.6,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Victoria Norte,2.3,27.6,460.0,16.7,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Andes Norte,2.3,27.6,490.0,17.8,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,La Esperanza,2.3,27.6,550.0,19.9,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,La Igualdad,2.243,26.911,590.0,21.9,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Pardo Rubio,2.24,26.88,515.0,19.2,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,El Plan,2.235,26.82,670.0,25.0,Medio-alto,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Bogotá,Cataluna,2.23,26.76,520.0,19.4,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Armenia,2.203,26.436,425.0,16.1,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Santa Teresa,2.2,26.4,470.0,17.8,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Britalia,2.2,26.4,390.0,14.8,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Cantalejo,2.2,26.4,660.0,25.0,Medio-alto,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Bogotá,Bogota Colombia,2.2,26.4,590.0,22.3,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Cedritos Contador,2.2,26.4,570.0,21.6,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Las Villas,2.2,26.4,515.0,19.5,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Santa Maria del Lago,2.2,26.4,450.0,17.0,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Norte de Bogota,2.15,25.8,497.5,19.3,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,El Dorado,2.124,25.494,400.0,15.7,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Centro Nariño,2.11,25.32,660.0,26.1,Medio-bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Baja
+Bogotá,La Castellana,2.1,25.2,580.0,23.0,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,San Jose de Bavaria,2.1,25.2,650.0,25.8,Medio-bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Bogotá,Sucre,2.1,25.2,420.0,16.7,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Santa Rosita,2.1,25.2,300.0,11.9,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Bogotá,La Salle,2.081,24.972,534.5,21.4,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Villa Magdala,2.05,24.6,445.0,18.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Gilmar,2.043,24.511,494.95,20.2,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,North Point,2.035,24.42,530.0,21.7,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Modelia,2.0,24.0,530.0,22.1,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,El Recuerdo,2.0,24.0,370.0,15.4,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Prado Veraniego,2.0,24.0,408.0,17.0,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Belalcazar,2.0,24.0,590.0,24.6,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Prado Veraniego Norte,2.0,24.0,465.0,19.4,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Marsella,2.0,24.0,451.0,18.8,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Santafe,2.0,24.0,319.9,13.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,San Diego,1.978,23.736,480.0,20.2,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Los Alcazares,1.969,23.628,385.0,16.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Alcala,1.95,23.4,480.0,20.5,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Colina,1.94,23.28,718.0,30.8,Medio-bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Baja
+Bogotá,San Jose de Usaquen,1.927,23.123,268.0,11.6,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,Galerias,1.9,22.8,368.0,16.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Montevideo,1.9,22.8,380.0,16.7,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Veramonte Macana,1.9,22.8,680.0,29.8,Medio-bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Bogotá,Gran Granada,1.9,22.8,395.0,17.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Santa Cecilia,1.9,22.8,300.0,13.2,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,La Granja,1.9,22.8,325.0,14.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Chapinero Marly,1.9,22.8,305.0,13.4,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Zona Industrial,1.9,22.8,320.23,14.0,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Las Orquideas,1.9,22.8,310.0,13.6,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Modelia Occidental,1.9,22.8,448.0,19.6,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Franco,1.875,22.5,340.0,15.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Chapinero Central,1.85,22.2,330.0,14.9,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Marly,1.85,22.2,310.0,14.0,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Alameda,1.85,22.2,555.0,25.0,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Jose Joaquin Vargas,1.85,22.2,346.5,15.6,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Puerta de Teja,1.85,22.2,425.0,19.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Granjas de Techo,1.85,22.2,345.0,15.5,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Parque Popular Salitre,1.85,22.2,310.0,14.0,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,San Cipriano,1.85,22.2,350.0,15.8,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Acevedo Tejada,1.85,22.2,640.0,28.8,Medio-bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Baja
+Bogotá,Hayuelos,1.836,22.033,433.0,19.7,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Capellania,1.813,21.756,390.0,17.9,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Santa Teresita,1.809,21.708,472.5,21.8,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Las Nieves,1.8,21.6,360.0,16.7,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Mirandela,1.8,21.6,383.0,17.7,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Ciudad la Salle,1.8,21.6,315.0,14.6,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,San Felipe,1.8,21.6,485.0,22.5,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Ciudad Jardin Norte,1.8,21.6,460.0,21.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Usatama,1.8,21.6,334.5,15.5,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Bosque de Maria,1.8,21.6,600.0,27.8,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,La Catedral,1.8,21.6,435.0,20.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Chapinero Occidental,1.8,21.6,310.0,14.4,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,La Uribe,1.8,21.6,355.0,16.4,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Centro Historico,1.8,21.6,257.5,11.9,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Bogotá,Metropolis,1.787,21.446,475.0,22.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Santa Helena,1.78,21.36,325.0,15.2,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Los Monjes,1.77,21.24,285.0,13.4,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Bogotá,Salazar Gomez,1.75,21.0,320.0,15.2,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Villa del Prado,1.75,21.0,295.0,14.0,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Bogotá,Toberin,1.75,21.0,285.0,13.6,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,La Perseverancia,1.745,20.94,435.0,20.8,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Suba Urbano,1.71,20.52,255.0,12.4,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Bogotá,Las Aguas,1.7,20.4,350.0,17.2,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,La Veracruz,1.7,20.4,250.0,12.3,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,Barrancas,1.7,20.4,280.5,13.8,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,Industrial Centenario,1.7,20.4,312.5,15.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Quesada,1.7,20.4,360.0,17.6,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Belen,1.7,20.4,245.0,12.0,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,El Centro,1.7,20.4,2200.0,107.8,Medio-bajo,Alto,"1,5 a 3 M",Más de 1.000 M,Alta
+Bogotá,Barrancas Norte,1.7,20.4,293.5,14.4,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,Carvajal,1.7,20.4,259.0,12.7,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Bogotá,Centro las Nieves,1.7,20.4,379.0,18.6,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,San Fernando,1.685,20.22,360.0,17.8,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Primavera Occidental Puente Aranda,1.675,20.1,250.0,12.4,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Bogotá,Torca,1.65,19.8,530.0,26.8,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,San Cristobal Norte,1.65,19.8,295.0,14.9,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,Palermo,1.65,19.8,340.0,17.2,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,San Luis,1.65,19.8,395.0,19.9,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Villemar,1.65,19.8,242.0,12.2,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,Alfonso López,1.65,19.8,350.0,17.7,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Nueva Zelandia,1.64,19.685,300.0,15.2,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,Sears,1.625,19.5,485.0,24.9,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Lagos de Torca,1.6,19.2,357.7,18.6,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Paloquemao,1.6,19.2,284.9,14.8,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,Gran America,1.6,19.2,295.0,15.4,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,Casa Blanca,1.6,19.2,299.5,15.6,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,Juan Xxiii,1.6,19.2,565.0,29.4,Bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Ciudadela Colsubsidio,1.6,19.2,295.0,15.4,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,La Campina,1.6,19.2,283.0,14.7,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Bogotá,Santa Isabel,1.6,19.2,390.0,20.3,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Verbenal San Antonio,1.6,19.2,292.5,15.2,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Bogotá,Canodromo,1.6,19.2,450.0,23.4,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Las Américas,1.6,19.2,550.0,28.6,Bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,San Antonio Norte,1.583,18.998,297.5,15.7,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,Benjamin Herrera,1.58,18.96,650.0,34.3,Bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Baja
+Bogotá,Villa Alsacia,1.573,18.876,270.0,14.3,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,El Liston,1.566,18.798,300.0,16.0,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,La Granja Norte,1.55,18.6,255.0,13.7,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bogotá,Las Ferias,1.55,18.6,424.0,22.8,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Corredor Ferreo del Sur,1.55,18.6,290.23,15.6,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Bogotá,Samper Mendoza,1.539,18.473,329.9,17.9,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bogotá,Tibabita,1.509,18.107,347.0,19.2,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bogotá,Castilla,1.5,18.0,315.0,17.5,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Alta
+Bogotá,Guaymaral,1.5,18.0,440.0,24.4,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Bogotá,Nueva Castilla,1.5,18.0,284.32,15.8,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,El Vergel,1.5,18.0,265.0,14.7,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,Tintala,1.5,18.0,260.0,14.4,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,Ricaurte,1.5,18.0,240.0,13.3,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,Primavera,1.5,18.0,242.05,13.4,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,Veraguas,1.5,18.0,360.0,20.0,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Bogotá,Ciudad Jardin Sur,1.5,18.0,460.0,25.6,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Bogotá,Valladolid,1.5,18.0,243.5,13.5,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Prado Pinzon,1.48,17.76,370.0,20.8,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Alta
+Bogotá,San Rafael,1.47,17.64,291.65,16.5,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Las Brisas,1.45,17.4,225.34,13.0,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,El Vergel Occidental,1.45,17.4,270.0,15.5,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,La Fragua,1.45,17.4,285.0,16.4,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Restrepo Occidental,1.45,17.4,287.0,16.5,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,El Redil,1.443,17.316,250.0,14.4,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,Chapinero Sur Occidental,1.42,17.04,341.66,20.1,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Bogotá,La Estrada,1.41,16.92,262.0,15.5,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Restrepo,1.4,16.8,340.0,20.2,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Alta
+Bogotá,Timiza,1.4,16.8,240.0,14.3,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,Fontibon Centro,1.4,16.8,226.0,13.5,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,Bochica,1.4,16.8,240.0,14.3,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,El Cortijo,1.4,16.8,320.0,19.0,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Alta
+Bogotá,Zona Franca,1.4,16.8,219.5,13.1,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,La Asuncion,1.4,16.8,400.0,23.8,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Bogotá,Boyaca Real,1.4,16.8,390.0,23.2,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Bogotá,Tuna Baja,1.4,16.8,223.0,13.3,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Lijaca,1.375,16.5,275.0,16.7,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Villemar Fontibon,1.358,16.3,300.0,18.4,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Villas de Granada,1.35,16.2,310.0,19.1,Bajo,Bajo,"Hasta 1,5 M",300 a 600 M,Alta
+Bogotá,El Ensueno,1.338,16.061,236.5,14.7,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Tibabuyes,1.336,16.034,220.0,13.7,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,San Antonio,1.336,16.033,268.0,16.7,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Eduardo Santos,1.32,15.84,300.0,18.9,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,Madelena,1.302,15.619,232.0,14.9,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,Puente Grande,1.3,15.6,226.0,14.5,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,Villa del Rio,1.3,15.6,238.0,15.3,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,El Recodo,1.3,15.6,199.0,12.8,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Florencia,1.3,15.6,283.5,18.2,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Santa Lucía,1.3,15.6,270.0,17.3,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Suba Centro,1.298,15.578,259.0,16.6,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,San Pablo,1.289,15.468,248.0,16.0,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Pinar de Suba,1.288,15.456,273.75,17.7,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,El Tintal,1.25,15.0,220.0,14.7,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,20 de Julio,1.25,15.0,230.0,15.3,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,Quiroga,1.25,15.0,280.0,18.7,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Bravo Paez,1.21,14.52,290.0,20.0,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Las Cruces,1.165,13.98,179.96,12.9,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Ismael Perdomo,1.154,13.846,230.0,16.6,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,La Estancia,1.154,13.846,220.0,15.9,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,Villa Gladys,1.15,13.8,205.0,14.9,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Engativa Centro,1.126,13.515,250.0,18.5,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,San Cristobal Sur,1.1,13.2,232.0,17.6,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,Rincon de Suba,1.1,13.2,240.0,18.2,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bogotá,El Porvenir,1.1,13.2,188.5,14.3,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,La Aurora,1.028,12.337,215.0,17.4,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Tierra Buena,1.0,12.0,185.0,15.4,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,San Bernardino,1.0,12.0,172.2,14.4,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,Parques de Bogota,0.9,10.8,170.0,15.7,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bogotá,La Libertad,0.9,10.8,205.0,19.0,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bucaramanga,Conjunto Residencial la Hacienda,3.94,47.28,972.5,20.6,Alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Bucaramanga,Puerta del Sol,3.65,43.8,521.0,11.9,Alto,Alto,3 a 5 M,300 a 600 M,Alta
+Bucaramanga,Lagos del Cacique,3.6,43.2,967.5,22.4,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bucaramanga,Antiguo Campestre,3.6,43.2,460.0,10.6,Alto,Medio-alto,3 a 5 M,300 a 600 M,Baja
+Bucaramanga,Cabecera,3.55,42.6,740.0,17.4,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bucaramanga,Pan de Azucar,3.5,42.0,659.0,15.7,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bucaramanga,Cabecera del Llano,3.3,39.6,742.5,18.8,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bucaramanga,Altos de Cabecera,3.3,39.6,845.0,21.3,Alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Bucaramanga,El Tejar,3.2,38.4,630.0,16.4,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Bucaramanga,Cacique,3.2,38.4,538.5,14.0,Alto,Alto,3 a 5 M,300 a 600 M,Baja
+Bucaramanga,La Floresta,2.9,34.8,440.0,12.6,Alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,La Aurora,2.8,33.6,475.0,14.1,Alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,Conucos,2.775,33.3,380.0,11.4,Alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bucaramanga,Mejoras Publicas,2.75,33.0,480.0,14.5,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,Bolarqui,2.71,32.52,550.0,16.9,Medio-alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,Terrazas,2.6,31.2,605.0,19.4,Medio-alto,Alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Bucaramanga,Molinos Altos,2.6,31.2,450.0,14.4,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bucaramanga,Canaveral,2.5,30.0,520.0,17.3,Medio-alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,Anillo Vial,2.5,30.0,470.0,15.7,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,El Bosque,2.5,30.0,394.0,13.1,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bucaramanga,Sotomayor,2.4,28.8,550.0,19.1,Medio-alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,El Recreo,2.3,27.6,370.0,13.4,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bucaramanga,Santa Ana,2.3,27.6,220.0,8.0,Medio-alto,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Bucaramanga,Nuevo Sotomayor,2.272,27.265,490.0,18.0,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,Batallon,2.2,26.4,497.5,18.8,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,Fontana,2.05,24.6,335.0,13.6,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bucaramanga,Bolivar,2.0,24.0,330.0,13.8,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,Ricaurte,1.925,23.1,360.0,15.6,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bucaramanga,Provenza,1.8,21.6,327.5,15.2,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,Casco Antiguo Floridablanca,1.8,21.6,435.0,20.1,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Bucaramanga,El Prado,1.72,20.64,410.0,19.9,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,La Victoria,1.715,20.58,480.0,23.3,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,Diamante 2,1.7,20.4,350.0,17.2,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bucaramanga,El Cinal,1.675,20.1,290.0,14.4,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bucaramanga,Ciudadela Real de Minas,1.62,19.446,397.0,20.4,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,San Alonso,1.6,19.2,380.0,19.8,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,Granjas de Provenza,1.6,19.2,325.0,16.9,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Bucaramanga,La Concordia,1.55,18.6,360.0,19.4,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Bucaramanga,Alarcon,1.525,18.3,290.75,15.9,Medio-bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Bucaramanga,Centro,1.48,17.76,270.0,15.2,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bucaramanga,Antonia Santos,1.437,17.244,315.0,18.3,Bajo,Bajo,"Hasta 1,5 M",300 a 600 M,Alta
+Bucaramanga,San Francisco,1.4,16.8,280.0,16.7,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bucaramanga,Antonia Santos Centro,1.4,16.8,330.0,19.6,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Alta
+Bucaramanga,El Porvenir,1.39,16.68,265.0,15.9,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bucaramanga,Alvarez las Américas,1.38,16.56,396.0,23.9,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Bucaramanga,Coaviconsa,1.3,15.6,330.0,21.2,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Bucaramanga,Mutualidad,1.3,15.6,270.0,17.3,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bucaramanga,Comuneros,1.287,15.444,245.0,15.9,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Bucaramanga,Garcia Rovira,1.1,13.2,300.0,22.7,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bucaramanga,Ruitoque,1.1,13.2,430.0,32.6,Bajo,Medio-alto,"Hasta 1,5 M",300 a 600 M,Baja
+Bucaramanga,Girardot,0.93,11.16,200.0,17.9,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Bucaramanga,Puerto Madero,0.883,10.596,160.0,15.1,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Arboledas,8.0,96.0,900.0,9.4,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Cali,Normandia,7.925,95.1,1490.0,15.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Cali,Aguacatal,7.213,86.556,910.0,10.5,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Cali,La Arboleda,6.5,78.0,858.7,11.0,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Cali,Santa Teresita,5.8,69.6,939.5,13.5,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Cali,Bellavista,5.5,66.0,840.0,12.7,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Cali,Juanambu,5.0,60.0,750.0,12.5,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Cali,Santa Monica Residencial,5.0,60.0,970.0,16.2,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Cali,El Penon,4.5,54.0,800.0,14.8,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Cali,Santa Rita,4.5,54.0,980.0,18.1,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Cali,Tejares Cristales,4.5,54.0,725.0,13.4,Alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Cali,Pance,3.9,46.8,870.0,18.6,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Cali,Ciudad Jardin,3.8,45.6,800.0,17.5,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Cali,Menga,3.5,42.0,730.0,17.4,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Cali,Urbanizacion Rio Lili,3.5,42.0,504.5,12.0,Alto,Alto,3 a 5 M,300 a 600 M,Alta
+Cali,Santa Isabel,3.35,40.2,639.0,15.9,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Cali,Cristales,3.2,38.4,680.0,17.7,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Cali,Versalles,2.7,32.4,430.0,13.3,Alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,Quintas de Don Simon,2.675,32.1,395.0,12.3,Alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Cali,Parcelaciones Pance,2.5,30.0,815.0,27.2,Alto,Alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Cali,San Fernando Nuevo,2.5,30.0,605.0,20.2,Alto,Alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Cali,Centenario,2.4,28.8,515.0,17.9,Alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,Santa Monica,2.3,27.6,800.0,29.0,Alto,Alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Cali,La Hacienda,2.2,26.4,425.0,16.1,Alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,Chipichape,2.02,24.24,350.0,14.4,Alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,Granada,2.0,24.0,505.0,21.0,Alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,Lili,2.0,24.0,400.0,16.7,Alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,La Campina,2.0,24.0,429.26,17.9,Alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Cali,Cuarto de Legua Guadalupe,2.0,24.0,519.0,21.6,Alto,Alto,"1,5 a 3 M",300 a 600 M,Baja
+Cali,Guadalupe,2.0,24.0,560.0,23.3,Alto,Alto,"1,5 a 3 M",300 a 600 M,Baja
+Cali,Camino Real,1.98,23.76,322.5,13.6,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Cali,San Fernando Viejo,1.975,23.7,425.0,17.9,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,San Pedro,1.82,21.84,405.0,18.5,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,La Flora,1.8,21.6,500.0,23.1,Medio-alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,El Ingenio,1.8,21.6,450.0,20.8,Medio-alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,El Refugio,1.8,21.6,290.0,13.4,Medio-alto,Medio-bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Cali,La Selva,1.8,21.6,255.0,11.8,Medio-alto,Medio-bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Cali,Cuarto de Legua,1.8,21.6,450.0,20.8,Medio-alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,Nueva Tequendama,1.8,21.6,403.0,18.7,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Cali,Valle del Lili,1.7,20.4,330.0,16.2,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,Prados del Norte,1.7,20.4,370.0,18.1,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,San Vicente,1.7,20.4,450.0,22.1,Medio-alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,Ciudad Capri,1.675,20.1,390.0,19.4,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Cali,Valle de Lili,1.65,19.8,340.0,17.2,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,Tequendama,1.65,19.8,480.0,24.2,Medio-alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,Ciudad Country,1.65,19.8,312.5,15.8,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Cali,Bochalema,1.6,19.2,280.0,14.6,Medio-alto,Medio-bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Cali,San Fernando,1.6,19.2,490.0,25.5,Medio-alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,Miraflores,1.6,19.2,445.0,23.2,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Cali,El Limonar,1.6,19.2,286.0,14.9,Medio-alto,Medio-bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Cali,Parcelacion Piedra Grande,1.6,19.2,275.0,14.3,Medio-alto,Medio-bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Cali,Hacienda Kachipay,1.6,19.2,250.0,13.0,Medio-alto,Medio-bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Cali,Alfaguara,1.6,19.2,337.5,17.6,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Cali,El Gran Limonar,1.6,19.2,372.5,19.4,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Cali,Sameco,1.6,19.2,255.78,13.3,Medio-alto,Medio-bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Cali,Santa Barbara,1.6,19.2,244.0,12.7,Medio-alto,Medio-bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Cali,Ciudad Melendez,1.55,18.6,264.0,14.2,Medio-alto,Medio-bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Cali,Eucaristico,1.55,18.6,400.0,21.5,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Cali,Kachipay,1.5,18.0,250.0,13.9,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Santa Anita,1.5,18.0,374.5,20.8,Medio-bajo,Medio-alto,"Hasta 1,5 M",300 a 600 M,Alta
+Cali,Primero de Mayo,1.5,18.0,250.0,13.9,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Evaristo Garcia,1.5,18.0,240.0,13.3,Medio-bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Prados del Limonar,1.46,17.52,365.0,20.8,Medio-bajo,Medio-alto,"Hasta 1,5 M",300 a 600 M,Baja
+Cali,Villa Fatima,1.45,17.4,247.0,14.2,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Cachipay,1.445,17.34,250.0,14.4,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Ciudad Pacifica,1.4,16.8,240.0,14.3,Medio-bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Caney,1.4,16.8,264.0,15.7,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Ciudad Bochalema,1.4,16.8,289.0,17.2,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,San Nicolas,1.4,16.8,295.0,17.6,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Alferez Real,1.4,16.8,275.0,16.4,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Ciudad 2000,1.36,16.32,242.0,14.8,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Ciudad Real,1.35,16.2,245.5,15.2,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Arroyohondo,1.35,16.2,195.0,12.0,Medio-bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Departamental,1.3,15.6,305.0,19.6,Medio-bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Cali,Las Vegas de Comfandi,1.3,15.6,212.5,13.6,Medio-bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Ciudad los Alamos,1.3,15.6,240.0,15.4,Medio-bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,El Lido,1.3,15.6,279.0,17.9,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Capri,1.3,15.6,365.0,23.4,Medio-bajo,Medio-alto,"Hasta 1,5 M",300 a 600 M,Baja
+Cali,Las Mercedes,1.3,15.6,405.0,26.0,Medio-bajo,Medio-alto,"Hasta 1,5 M",300 a 600 M,Baja
+Cali,Santa Rosa,1.3,15.6,312.5,20.0,Medio-bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Cali,Guabinas,1.3,15.6,225.0,14.4,Medio-bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Brisas de los Alamos,1.29,15.48,249.0,16.1,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Parque Natura,1.25,15.0,215.0,14.3,Medio-bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Ciudad Guabinas,1.25,15.0,200.0,13.3,Medio-bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Acopi,1.25,15.0,250.0,16.7,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Zona Industrial,1.235,14.82,210.0,14.2,Medio-bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Canaverales,1.23,14.76,220.0,14.9,Medio-bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Los Guayacanes,1.225,14.7,221.0,15.0,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Melendez,1.2,14.4,258.0,17.9,Bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Vipasa,1.2,14.4,367.0,25.5,Bajo,Medio-alto,"Hasta 1,5 M",300 a 600 M,Alta
+Cali,Bretana,1.2,14.4,172.48,12.0,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Alameda,1.2,14.4,230.5,16.0,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Flora Industrial,1.2,14.4,180.0,12.5,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Mayapan las Vegas,1.2,14.4,367.03,25.5,Bajo,Medio-alto,"Hasta 1,5 M",300 a 600 M,Baja
+Cali,Ciudad Pangola,1.2,14.4,200.0,13.9,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Las Granjas,1.2,14.4,227.0,15.8,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Metropolitano del Norte,1.15,13.8,190.0,13.8,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,El Bosque,1.1,13.2,382.0,28.9,Bajo,Medio-alto,"Hasta 1,5 M",300 a 600 M,Alta
+Cali,Torres de Comfandi,1.1,13.2,175.0,13.3,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Colseguros Andes,1.1,13.2,250.0,18.9,Bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Cr los Naranjos,1.1,13.2,200.0,15.2,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,El Dorado,1.1,13.2,235.0,17.8,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Libertadores,1.06,12.72,202.5,15.9,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Cristobal Colon,1.0,12.0,239.0,19.9,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cali,Olimpico,1.0,12.0,299.0,24.9,Bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Ciudadela Comfandi,0.98,11.76,290.0,24.7,Bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Los Cambulos,0.97,11.64,380.0,32.6,Bajo,Medio-alto,"Hasta 1,5 M",300 a 600 M,Alta
+Cali,La Base,0.95,11.4,207.5,18.2,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,La Pradera,0.95,11.4,187.5,16.4,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Villa Colombia,0.925,11.1,243.0,21.9,Bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Los Alcazares,0.85,10.2,150.0,14.7,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Chiminangos II,0.8,9.6,150.0,15.6,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Obrero,0.78,9.36,330.05,35.3,Bajo,Medio-alto,"Hasta 1,5 M",300 a 600 M,Alta
+Cali,Las Américas,0.76,9.12,198.0,21.7,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cali,Cd Terranova,0.55,6.6,127.5,19.3,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cartagena,Punta Canoa,9.0,108.0,1435.0,13.3,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Cartagena,Castillogrande,7.5,90.0,1558.0,17.3,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Cartagena,Manga,4.9,58.8,700.0,11.9,Alto,Medio-bajo,3 a 5 M,600 a 1.000 M,Alta
+Cartagena,Bocagrande,4.8,57.6,1089.5,18.9,Alto,Alto,3 a 5 M,Más de 1.000 M,Alta
+Cartagena,El Cabrero,4.3,51.6,810.0,15.7,Alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Cartagena,Marbella,4.036,48.432,720.0,14.9,Medio-alto,Medio-bajo,3 a 5 M,600 a 1.000 M,Alta
+Cartagena,La Boquilla,4.0,48.0,1000.0,20.8,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Cartagena,Crespo,4.0,48.0,672.0,14.0,Medio-alto,Medio-bajo,3 a 5 M,600 a 1.000 M,Alta
+Cartagena,Cielo Mar,4.0,48.0,785.0,16.4,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Cartagena,Pontezuela,3.875,46.5,697.0,15.0,Medio-alto,Medio-bajo,3 a 5 M,600 a 1.000 M,Baja
+Cartagena,El Centro,3.5,42.0,1300.0,31.0,Medio-bajo,Alto,3 a 5 M,Más de 1.000 M,Alta
+Cartagena,El Laguito,3.5,42.0,723.8,17.2,Medio-bajo,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Cartagena,Papayal,3.4,40.8,750.0,18.4,Medio-bajo,Medio-alto,3 a 5 M,600 a 1.000 M,Baja
+Cartagena,Serena del Mar,3.1,37.2,620.0,16.7,Medio-bajo,Medio-bajo,3 a 5 M,600 a 1.000 M,Alta
+Cartagena,Torices,2.688,32.256,330.0,10.2,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Cartagena,Manzanillo,2.54,30.48,1063.96,34.9,Bajo,Alto,"1,5 a 3 M",Más de 1.000 M,Alta
+Cartagena,Pie de la Popa,2.5,30.0,375.0,12.5,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Cartagena,Ternera,2.0,24.0,295.0,12.3,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Cartagena,El Campestre,1.924,23.094,230.0,10.0,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Chía,Santa Ana de Chía,11.5,138.0,2350.0,17.0,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Chía,Modigliani,3.0,36.0,670.0,18.6,Alto,Alto,"1,5 a 3 M",600 a 1.000 M,Baja
+Chía,Canelon,2.7,32.4,435.0,13.4,Alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Chía,Calahorra,2.675,32.1,540.0,16.8,Alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Chía,La Estacion,2.404,28.851,445.0,15.4,Alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Chía,20 de Julio,2.25,27.0,487.45,18.1,Alto,Alto,"1,5 a 3 M",300 a 600 M,Baja
+Chía,Guaymaral,2.1,25.2,490.0,19.4,Medio-alto,Alto,"1,5 a 3 M",300 a 600 M,Baja
+Chía,Laura Vicuna,2.0,24.0,380.0,15.8,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Chía,El Rocio,1.972,23.664,356.0,15.0,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Chía,La Estrella,1.85,22.2,390.0,17.6,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Chía,El Misterio,1.8,21.6,330.0,15.3,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Chía,Santa Cruz,1.75,21.0,350.0,16.7,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Chía,Centro,1.7,20.4,357.4,17.5,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Chía,Chuntame,1.66,19.92,328.0,16.5,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Chía,Delicias Norte,1.6,19.2,310.0,16.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Chía,Santa Lucia,1.525,18.3,340.0,18.6,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Chía,Bachue,1.5,18.0,275.0,15.3,Medio-bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Chía,Samaria,1.45,17.4,250.0,14.4,Medio-bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Chía,El Cairo,1.4,16.8,260.0,15.5,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Chía,Bojaca,1.35,16.2,298.0,18.4,Bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Chía,Br San Francisco,1.35,16.2,240.0,14.8,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Chía,20 de Julio Sector II,1.3,15.6,239.95,15.4,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Chía,Delicias,1.3,15.6,289.9,18.6,Bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cúcuta,San Mateo,2.5,30.0,315.0,10.5,Alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Cúcuta,Caobos,2.0,24.0,380.0,15.8,Alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Cúcuta,La Riviera,2.0,24.0,400.0,16.7,Alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Cúcuta,Bellavista,1.8,21.6,390.0,18.1,Alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Cúcuta,La Floresta,1.8,21.6,350.0,16.2,Alto,Alto,"1,5 a 3 M",300 a 600 M,Baja
+Cúcuta,Colsag,1.6,19.2,350.0,18.2,Medio-alto,Alto,"1,5 a 3 M",300 a 600 M,Alta
+Cúcuta,Barrio Blanco,1.6,19.2,350.0,18.2,Medio-alto,Alto,"1,5 a 3 M",300 a 600 M,Baja
+Cúcuta,Lleras Restrepo,1.5,18.0,250.0,13.9,Medio-alto,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cúcuta,Prados del Norte,1.4,16.8,240.0,14.3,Medio-alto,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cúcuta,La Playa,1.3,15.6,295.0,18.9,Medio-bajo,Medio-alto,"Hasta 1,5 M",Hasta 300 M,Alta
+Cúcuta,Niza,1.3,15.6,200.0,12.8,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cúcuta,Prados del Este,1.25,15.0,265.0,17.7,Medio-bajo,Medio-bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cúcuta,Quinta Oriental,1.1,13.2,270.0,20.5,Medio-bajo,Medio-alto,"Hasta 1,5 M",Hasta 300 M,Baja
+Cúcuta,San Luis,1.018,12.221,190.0,15.5,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Cúcuta,Bocono,1.0,12.0,150.0,12.5,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cúcuta,Garcia Herreros,0.95,11.4,176.5,15.5,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Cúcuta,El Llano,0.9,10.8,160.0,14.8,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Madrid,La Prosperidad,1.2,14.4,185.0,12.8,Sin rango (pocos barrios),Sin rango (pocos barrios),"Hasta 1,5 M",Hasta 300 M,Baja
+Madrid,Conjunto Residencial Boreal,1.15,13.8,199.0,14.4,Sin rango (pocos barrios),Sin rango (pocos barrios),"Hasta 1,5 M",Hasta 300 M,Alta
+Madrid,Potrero Grande,1.1,13.2,207.0,15.7,Sin rango (pocos barrios),Sin rango (pocos barrios),"Hasta 1,5 M",Hasta 300 M,Alta
+Madrid,Conjunto Residencial Abundara,1.1,13.2,215.0,16.3,Sin rango (pocos barrios),Sin rango (pocos barrios),"Hasta 1,5 M",Hasta 300 M,Baja
+Madrid,Zona Centro,1.1,13.2,210.0,15.9,Sin rango (pocos barrios),Sin rango (pocos barrios),"Hasta 1,5 M",Hasta 300 M,Baja
+Madrid,Conjunto Residencial Provenzal,1.0,12.0,190.5,15.9,Sin rango (pocos barrios),Sin rango (pocos barrios),"Hasta 1,5 M",Hasta 300 M,Baja
+Manizales,Palermo,2.6,31.2,545.0,17.5,Sin rango (pocos barrios),Sin rango (pocos barrios),"1,5 a 3 M",300 a 600 M,Alta
+Manizales,La Francia,1.775,21.3,350.0,16.4,Sin rango (pocos barrios),Sin rango (pocos barrios),"1,5 a 3 M",300 a 600 M,Baja
+Manizales,Centro,1.5,18.0,300.0,16.7,Sin rango (pocos barrios),Sin rango (pocos barrios),"Hasta 1,5 M",Hasta 300 M,Baja
+Manizales,Chipre,1.4,16.8,360.0,21.4,Sin rango (pocos barrios),Sin rango (pocos barrios),"Hasta 1,5 M",300 a 600 M,Baja
+Medellín,La Calera,12.0,144.0,2250.0,15.6,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,La Tomatera,8.0,96.0,1595.0,16.6,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Urbanizacion Arcoiris,8.0,96.0,1200.0,12.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Medellín,El Tesoro,7.5,90.0,1300.0,14.4,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,La Concha,7.5,90.0,1200.0,13.3,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Medellín,El Campestre,7.0,84.0,1350.0,16.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Provenza,7.0,84.0,1300.0,15.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Cola del Zorro,7.0,84.0,1325.0,15.8,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Transversal Superior,7.0,84.0,1300.0,15.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Loma de los Parra,6.9,82.8,1250.0,15.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Milla de Oro,6.8,81.6,1350.0,16.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Los Parra,6.8,81.6,1212.5,14.9,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Las Lomas No 2,6.8,81.6,1120.0,13.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,San Lucas,6.7,80.4,1350.0,16.8,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Loma del Campestre,6.7,80.4,1380.0,17.2,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Alejandria,6.5,78.0,1200.0,15.4,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,La Linde,6.5,78.0,1250.0,16.0,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Astorga,6.5,78.0,1100.0,14.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Poblado las Palmas,6.5,78.0,850.0,10.9,Alto,Alto,Más de 5 M,600 a 1.000 M,Baja
+Medellín,Poblado Milla de Oro,6.5,78.0,1490.0,19.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Medellín,Vizcaya,6.3,75.6,1250.0,16.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Transversal Inferior,6.3,75.6,1250.0,16.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Poblado los Balsos,6.3,75.6,1550.0,20.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Lalinde,6.15,73.8,1220.0,16.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Los Balsos,6.0,72.0,1375.0,19.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Los Balsos No 2,6.0,72.0,1230.0,17.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Alto de las Palmas,5.9,70.8,1250.0,17.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Las Brujas,5.8,69.6,980.0,14.1,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Medellín,Las Lomas No 1,5.8,69.6,1165.0,16.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,La Inferior,5.8,69.6,1200.0,17.2,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Medellín,Los Naranjos,5.7,68.4,1100.0,16.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,El Castillo,5.65,67.8,910.0,13.4,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Medellín,La Florida,5.6,67.2,1160.0,17.3,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Las Lomas,5.55,66.6,1375.0,20.6,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Medellín,Santa Maria de los Angeles,5.5,66.0,1050.0,15.9,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Altos del Poblado,5.5,66.0,1100.0,16.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Los Balsos No 1,5.5,66.0,1285.0,19.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Los Gonzalez,5.5,66.0,1500.0,22.7,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Medellín,La Visitacion,5.5,66.0,1290.0,19.5,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Urbanizacion Villa Linda,5.45,65.4,960.0,14.7,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Medellín,Castropol,5.35,64.2,980.0,15.3,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Medellín,Loma de los Gonzalez,5.2,62.4,1185.0,19.0,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Medellín,Via las Palmas,5.175,62.1,950.0,15.3,Alto,Alto,Más de 5 M,600 a 1.000 M,Alta
+Medellín,Loma de los Benedictinos,5.1,61.2,1270.0,20.8,Alto,Alto,Más de 5 M,Más de 1.000 M,Baja
+Medellín,Loma de las Brujas,5.0,60.0,1100.0,18.3,Alto,Alto,3 a 5 M,Más de 1.000 M,Alta
+Medellín,Zuniga,5.0,60.0,980.0,16.3,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Loma los Gonzalez,5.0,60.0,1100.0,18.3,Alto,Alto,3 a 5 M,Más de 1.000 M,Alta
+Medellín,Loma Benedictinos,5.0,60.0,1085.0,18.1,Alto,Alto,3 a 5 M,Más de 1.000 M,Alta
+Medellín,Oviedo,5.0,60.0,990.0,16.5,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Bosques de Zuniga,5.0,60.0,950.0,15.8,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,El Diamante No 2,5.0,60.0,980.0,16.3,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Colina Campestre,5.0,60.0,1034.0,17.2,Alto,Alto,3 a 5 M,Más de 1.000 M,Baja
+Medellín,Mt Villa Grande,4.975,59.7,885.0,14.8,Alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,La Frontera,4.8,57.6,930.0,16.1,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,El Chocho,4.8,57.6,950.0,16.5,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Loma del Chocho,4.65,55.8,950.0,17.0,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Envigado Zuniga,4.65,55.8,800.0,14.3,Alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,Ciudad del Rio,4.5,54.0,790.0,14.6,Alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Patio Bonito,4.5,54.0,950.0,17.6,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Cumbres,4.5,54.0,895.0,16.6,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Loma del Esmeraldal,4.5,54.0,950.0,17.6,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Loma del Escobero,4.5,54.0,892.0,16.5,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Villa Carlota,4.5,54.0,890.0,16.5,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Escobero,4.5,54.0,900.0,16.7,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,La Pradera,4.5,54.0,995.0,18.4,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Pontevedra,4.5,54.0,943.5,17.5,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,La Orquidea,4.5,54.0,880.0,16.3,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Poblado Ciudad del Rio,4.5,54.0,810.0,15.0,Alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,La Aguacatala,4.475,53.7,750.0,14.0,Alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Simesa,4.4,52.8,850.0,16.1,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Villagrande,4.4,52.8,945.0,17.9,Alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,Alto de Misael,4.35,52.2,750.0,14.4,Alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Portal Norte,4.35,52.2,810.0,15.5,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,La Inmaculada,4.325,51.9,340.0,6.6,Alto,Bajo,3 a 5 M,300 a 600 M,Alta
+Medellín,Las Palmas,4.3,51.6,945.0,18.3,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,El Esmeraldal,4.3,51.6,850.0,16.5,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,La Abadia,4.3,51.6,750.0,14.5,Alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Otraparte,4.3,51.6,860.0,16.7,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Jardines,4.225,50.7,750.0,14.8,Alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Asomadera No 2,4.2,50.4,708.4,14.1,Alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Loma del Atravesado,4.2,50.4,750.0,14.9,Alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Guaduales de la Abadia,4.2,50.4,998.45,19.8,Alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,Mesa,4.05,48.6,750.0,15.4,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Laureles,4.0,48.0,791.0,16.5,Medio-alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Las Vegas,4.0,48.0,720.0,15.0,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,El Portal,4.0,48.0,850.0,17.7,Medio-alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Calle Nueva,4.0,48.0,660.0,13.8,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,San Julian,4.0,48.0,900.0,18.8,Medio-alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,Alto de Palmas,4.0,48.0,1200.0,25.0,Medio-alto,Alto,3 a 5 M,Más de 1.000 M,Baja
+Medellín,Cuarta Brigada,4.0,48.0,725.0,15.1,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,Asomadera No 1,3.95,47.4,585.0,12.3,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,San Marcos,3.95,47.4,770.0,16.2,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Manila,3.9,46.8,785.0,16.8,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,El Nogal,3.9,46.8,600.0,12.8,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Baja
+Medellín,Loma del Indio,3.8,45.6,590.0,12.9,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,Conquistadores,3.8,45.6,765.0,16.8,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Loma de San Julian,3.8,45.6,650.0,14.3,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Perpetuo Socorro,3.8,45.6,840.0,18.4,Medio-alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,Corazon de Jesus,3.8,45.6,675.0,14.8,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,Uribe Angel,3.7,44.4,550.0,12.4,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Alta
+Medellín,Camino Verde,3.65,43.8,669.0,15.3,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Zona Centro,3.65,43.8,702.5,16.0,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Betania,3.65,43.8,545.0,12.4,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Alta
+Medellín,San Diego,3.6,43.2,608.0,14.1,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,La Castellana,3.6,43.2,745.0,17.2,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,La Barquerena,3.6,43.2,635.0,14.7,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Primavera,3.6,43.2,550.0,12.7,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Alta
+Medellín,Urbanizacion Barcelona,3.55,42.6,522.5,12.3,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Baja
+Medellín,Belen Alameda,3.52,42.24,800.0,18.9,Medio-alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Vegas de la Doctora,3.5,42.0,610.0,14.5,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,El Chingui,3.5,42.0,646.0,15.4,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Santa Teresita,3.5,42.0,670.0,16.0,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Suramericana,3.5,42.0,650.0,15.5,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Las Casitas,3.5,42.0,560.0,13.3,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,El Salado,3.5,42.0,645.0,15.4,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Belen Rosales,3.5,42.0,695.0,16.5,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Las Acacias,3.5,42.0,600.0,14.3,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,Senorial,3.5,42.0,580.0,13.8,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,Shellmar,3.5,42.0,600.0,14.3,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,Carlos E Restrepo,3.5,42.0,610.0,14.5,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,Naranjitos,3.5,42.0,277.5,6.6,Medio-alto,Bajo,3 a 5 M,Hasta 300 M,Baja
+Medellín,Laureles Nogal,3.5,42.0,558.5,13.3,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Baja
+Medellín,Ferreni,3.45,41.4,650.0,15.7,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,Los Colores,3.4,40.8,630.0,15.4,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Aves Maria,3.4,40.8,625.0,15.3,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Las Antillas,3.4,40.8,535.0,13.1,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Alta
+Medellín,Caminos de la Romeria,3.4,40.8,665.0,16.3,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,Los Almendros,3.35,40.2,670.0,16.7,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,El Poblado Loma del Indio,3.35,40.2,580.0,14.4,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Baja
+Medellín,Loma de los Bernal,3.3,39.6,645.0,16.3,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,San German,3.3,39.6,580.0,14.6,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,Lorena,3.3,39.6,700.0,17.7,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Bolivariana,3.3,39.6,750.0,18.9,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Miravalle,3.26,39.12,605.0,15.5,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,La Paz,3.25,39.0,560.0,14.4,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,Las Cometas,3.25,39.0,427.5,11.0,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Baja
+Medellín,Belen Malibu,3.25,39.0,602.5,15.4,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Florida Nueva,3.2,38.4,660.0,17.2,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Las Lomitas,3.2,38.4,560.0,14.6,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,Santa Fe,3.2,38.4,530.0,13.8,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Alta
+Medellín,El Trianon,3.2,38.4,650.0,16.9,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Los Alcazares,3.2,38.4,590.0,15.4,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,Belen Loma de los Bernal,3.2,38.4,620.0,16.1,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,El Carmelo,3.2,38.4,580.0,15.1,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,Ub Cortijo de San Jose,3.2,38.4,580.0,15.1,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,El Diamante,3.2,38.4,730.0,19.0,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,San Remo,3.2,38.4,520.0,13.5,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Alta
+Medellín,Cerro Nutibara,3.2,38.4,695.0,18.1,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,San Rafael,3.15,37.8,425.0,11.2,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Alta
+Medellín,Belen Fatima,3.15,37.8,600.0,15.9,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,Lagos de la Doctora,3.15,37.8,540.0,14.3,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Baja
+Medellín,La Esmeralda,3.15,37.8,500.0,13.2,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Baja
+Medellín,Simon Bolivar,3.1,37.2,600.0,16.1,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,Vegas de San Jose,3.1,37.2,560.0,15.1,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,Belen la Palma,3.1,37.2,670.0,18.0,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Alta
+Medellín,Mayorca,3.1,37.2,590.0,15.9,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,Loma San Jose,3.1,37.2,560.0,15.1,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,Restrepo Naranjo,3.1,37.2,466.0,12.5,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Alta
+Medellín,El Carmelo II,3.1,37.2,570.0,15.3,Medio-alto,Medio-alto,3 a 5 M,300 a 600 M,Alta
+Medellín,San Jose,3.05,36.6,559.0,15.3,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Alta
+Medellín,Canaveralejo,3.05,36.6,495.0,13.5,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Alta
+Medellín,Las Flores,3.05,36.6,610.0,16.7,Medio-alto,Medio-alto,3 a 5 M,600 a 1.000 M,Baja
+Medellín,Escobar,3.05,36.6,500.0,13.7,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Baja
+Medellín,Loma de la Doctora,3.05,36.6,545.0,14.9,Medio-alto,Medio-bajo,3 a 5 M,300 a 600 M,Baja
+Medellín,Los Horizontes,3.025,36.3,494.0,13.6,Medio-bajo,Medio-bajo,3 a 5 M,300 a 600 M,Baja
+Medellín,La Doctora,3.0,36.0,520.0,14.4,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Pan de Azucar,3.0,36.0,520.0,14.4,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Prados de Sabaneta,3.0,36.0,522.5,14.5,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,La Palma,3.0,36.0,625.0,17.4,Medio-bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Medellín,Monteazul,3.0,36.0,510.0,14.2,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,La Cuenca,3.0,36.0,510.0,14.2,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Loma del Barro,3.0,36.0,540.0,15.0,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Tres Esquinas,3.0,36.0,520.0,14.4,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,La Mota,3.0,36.0,545.0,15.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Zona Industrial No 1,3.0,36.0,465.0,12.9,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Aldea Verde,3.0,36.0,582.5,16.2,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Sabaneta Real,3.0,36.0,550.0,15.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,La Magnolia,3.0,36.0,650.0,18.1,Medio-bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Medellín,Diego Echavarria,3.0,36.0,542.0,15.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,San Agustin Suramerica,3.0,36.0,605.5,16.8,Medio-bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Baja
+Medellín,Santa Catalina,2.975,35.7,545.0,15.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Vallano,2.95,35.4,648.0,18.3,Medio-bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Medellín,Blanquizal,2.925,35.1,430.0,12.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Ancon Sur,2.903,34.831,530.0,15.2,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Estadio,2.9,34.8,767.5,22.1,Medio-bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Medellín,Suramerica,2.9,34.8,555.0,15.9,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Rosales,2.9,34.8,680.0,19.5,Medio-bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Medellín,La Mina,2.9,34.8,360.0,10.3,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Holanda,2.9,34.8,514.0,14.8,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Obrero,2.9,34.8,520.0,14.9,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,El Nogal los Almendros,2.875,34.5,700.0,20.3,Medio-bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Medellín,Alcala,2.8,33.6,550.0,16.4,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Toledo,2.8,33.6,515.0,15.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,San Jose Obrero,2.8,33.6,468.0,13.9,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Loma de San Jose,2.8,33.6,565.0,16.8,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Aliadas del Sur,2.8,33.6,520.0,15.5,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,La Ospina,2.8,33.6,500.0,14.9,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Naranjal,2.8,33.6,720.0,21.4,Medio-bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Baja
+Medellín,Calazans,2.8,33.6,477.5,14.2,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Santa Elena,2.775,33.3,1191.03,35.8,Medio-bajo,Alto,"1,5 a 3 M",Más de 1.000 M,Alta
+Medellín,Bosques de San Pablo,2.75,33.0,492.5,14.9,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,San Fernando,2.75,33.0,400.0,12.1,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,San Joaquin,2.7,32.4,630.0,19.4,Medio-bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Alta
+Medellín,Fatima,2.7,32.4,490.0,15.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Ditaires,2.7,32.4,469.0,14.5,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Entre Amigos,2.7,32.4,520.0,16.0,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Alto de las Flores,2.7,32.4,577.5,17.8,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Virgen del Carmen,2.7,32.4,380.0,11.7,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Villas del Carmen,2.7,32.4,475.0,14.7,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Parque,2.7,32.4,470.0,14.5,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,La Floresta,2.65,31.8,485.0,15.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Calle Larga,2.65,31.8,439.5,13.8,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Alto las Flores,2.65,31.8,509.5,16.0,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Manchester,2.65,31.8,325.0,10.2,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Belen la Mota,2.625,31.5,540.0,17.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Calasanz,2.6,31.2,440.0,14.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,La Aldea,2.6,31.2,492.5,15.8,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Belen Aliadas,2.6,31.2,488.0,15.6,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Caqueta,2.6,31.2,497.5,15.9,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,El Porvenir,2.6,31.2,480.0,15.4,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Camparola,2.6,31.2,572.5,18.3,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Belen Rodeo Alto,2.6,31.2,335.0,10.7,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Belen Miravalle,2.59,31.08,580.0,18.7,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,San Bernardo,2.57,30.84,425.0,13.8,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Pilarica,2.5,30.0,468.0,15.6,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,El Rincon,2.5,30.0,380.0,12.7,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,La Ferreira,2.5,30.0,420.0,14.0,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Los Alpes,2.5,30.0,430.0,14.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,El Rodeo,2.5,30.0,529.0,17.6,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Los Pinos,2.5,30.0,380.0,12.7,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Poblado del Sur,2.5,30.0,415.0,13.8,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,La Sebastiana,2.5,30.0,480.0,16.0,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Parque Tulio Ospina,2.5,30.0,410.0,13.7,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Calasanz Parte Alta,2.45,29.4,395.0,13.4,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,La Ferreria,2.45,29.4,450.0,15.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Belen los Alpes,2.45,29.4,485.0,16.5,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Rodeo Alto,2.4,28.8,375.0,13.0,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Santa Rosa de Lima,2.4,28.8,368.5,12.8,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Belen Parque,2.4,28.8,550.0,19.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,La Hondonada,2.4,28.8,360.0,12.5,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,San Isidro,2.4,28.8,430.0,14.9,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Altavista,2.35,28.2,422.5,15.0,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Panamericano,2.323,27.876,319.5,11.5,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Centro,2.3,27.6,450.0,16.3,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Santa Monica,2.3,27.6,440.0,15.9,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,La Gloria,2.3,27.6,425.0,15.4,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Viviendas del Sur,2.3,27.6,425.0,15.4,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Las Brisas,2.3,27.6,380.0,13.8,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Villa del Parque,2.3,27.6,430.0,15.6,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Amazonia,2.3,27.6,396.5,14.4,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Zona Rural,2.3,27.6,380.0,13.8,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Belen Altavista,2.3,27.6,560.0,20.3,Bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,San Jose de Manzanillo,2.3,27.6,415.0,15.0,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,El Guayabo,2.3,27.6,385.0,13.9,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,La Cabana,2.28,27.36,367.5,13.4,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Las Playas,2.25,27.0,450.0,16.7,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,La Colina,2.25,27.0,460.0,17.0,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,San Francisco,2.25,27.0,350.0,13.0,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Santa Ana,2.2,26.4,398.0,15.1,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Belen San Bernardo,2.2,26.4,430.0,16.3,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Santa Lucia,2.2,26.4,380.0,14.4,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Santa Maria,2.2,26.4,375.0,14.2,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,El Danubio,2.2,26.4,420.0,15.9,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Santa Maria 1 el Guayabo,2.2,26.4,330.0,12.5,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Bombona,2.175,26.1,280.0,10.7,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Medellín,Madera,2.175,26.1,296.5,11.4,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Medellín,La Cabanita,2.15,25.8,377.5,14.6,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Campo Amor,2.125,25.5,520.0,20.4,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Cabanas,2.1,25.2,390.0,15.5,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Niquia,2.05,24.6,330.0,13.4,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Granada,2.05,24.6,525.0,21.3,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Belen Granada,2.05,24.6,525.0,21.3,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Cristo Rey,2.0,24.0,470.0,19.6,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Prado Centro,2.0,24.0,370.0,15.4,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,La Gabriela,2.0,24.0,300.0,12.5,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Medellín,Calle del Banco,2.0,24.0,680.0,28.3,Bajo,Medio-alto,"1,5 a 3 M",600 a 1.000 M,Baja
+Medellín,El Rosario,1.998,23.975,450.0,18.8,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Bucaros,1.95,23.4,340.0,14.5,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Itag I,1.945,23.34,430.0,18.4,Bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Cordoba,1.93,23.16,380.0,16.4,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Bombona No 1,1.925,23.1,350.0,15.2,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Nuevo,1.925,23.1,290.0,12.6,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Medellín,Barrio Cristobal,1.9,22.8,330.0,14.5,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Maria Auxiliadora,1.9,22.8,285.0,12.5,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Medellín,Andalucia,1.9,22.8,370.0,16.2,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Los Angeles,1.9,22.8,372.5,16.3,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Sector Belvedere,1.9,22.8,295.0,12.9,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Medellín,Gerona,1.9,22.8,353.0,15.5,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Boston,1.85,22.2,350.0,15.8,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Colon,1.85,22.2,380.0,17.1,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Cabanitas,1.85,22.2,391.5,17.6,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Asturias,1.85,22.2,360.0,16.2,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Altos de Maria Auxiliadora,1.85,22.2,270.0,12.2,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Medellín,Robledo Pajarito,1.825,21.9,263.0,12.0,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Medellín,Prado,1.8,21.6,360.0,16.7,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Pajarito,1.8,21.6,240.0,11.1,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Medellín,El Trapiche,1.8,21.6,270.0,12.5,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Medellín,Ciudad Niquia,1.8,21.6,330.0,15.3,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Bellavista,1.8,21.6,270.0,12.5,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Medellín,Altos de Niquia,1.8,21.6,305.0,14.1,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Pueblo Viejo,1.8,21.6,285.0,13.2,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Medellín,Perez,1.8,21.6,337.52,15.6,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Medellín,Belen Rincon,1.775,21.3,315.0,14.8,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,Urbanizacion Palmar de Serramonte,1.775,21.3,315.0,14.8,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,El Dorado,1.7,20.4,560.0,27.5,Bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Medellín,La Tablaza,1.7,20.4,265.0,13.0,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Medellín,San Gabriel,1.7,20.4,275.0,13.5,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Medellín,El Pedrero,1.7,20.4,280.0,13.7,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Medellín,San Cristobal,1.675,20.1,300.0,14.9,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Medellín,El Mirador,1.675,20.1,240.0,11.9,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Baja
+Medellín,La Milagrosa,1.5,18.0,300.0,16.7,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Medellín,El Salvador,1.5,18.0,335.0,18.6,Bajo,Bajo,"Hasta 1,5 M",300 a 600 M,Alta
+Medellín,Loreto,1.5,18.0,240.0,13.3,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Medellín,Manrique Central,1.5,18.0,299.5,16.6,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Medellín,Belencito,1.5,18.0,410.0,22.8,Bajo,Bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Medellín,Cucaracho,1.475,17.7,210.0,11.9,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Medellín,Antonio Narino,1.425,17.1,327.5,19.2,Bajo,Bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Medellín,San Antonio de Prado,1.4,16.8,238.5,14.2,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Medellín,Campo Valdes,1.34,16.08,290.0,18.0,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Alta
+Medellín,Enciso,1.3,15.6,280.0,17.9,Bajo,Bajo,"Hasta 1,5 M",Hasta 300 M,Baja
+Medellín,Belen las Mercedes,1.29,15.48,477.5,30.8,Bajo,Medio-bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Medellín,Las Mercedes,1.29,15.48,385.0,24.9,Bajo,Bajo,"Hasta 1,5 M",300 a 600 M,Alta
+Medellín,Caicedo,1.29,15.48,320.0,20.7,Bajo,Bajo,"Hasta 1,5 M",300 a 600 M,Alta
+Medellín,Miraflores,1.275,15.3,390.0,25.5,Bajo,Bajo,"Hasta 1,5 M",300 a 600 M,Baja
+Pereira,Pinares,4.09,49.08,850.0,17.3,Sin rango (pocos barrios),Sin rango (pocos barrios),3 a 5 M,600 a 1.000 M,Baja
+Pereira,Cerritos,3.1,37.2,700.0,18.8,Sin rango (pocos barrios),Sin rango (pocos barrios),3 a 5 M,600 a 1.000 M,Alta
+Rionegro,Sajonia,6.0,72.0,1300.0,18.1,Alto,Alto,Más de 5 M,Más de 1.000 M,Alta
+Rionegro,Aeropuerto,5.2,62.4,522.64,8.4,Alto,Medio-bajo,Más de 5 M,300 a 600 M,Baja
+Rionegro,Los Salados,4.9,58.8,920.0,15.6,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Rionegro,Guayabito,4.7,56.4,720.0,12.8,Alto,Alto,3 a 5 M,600 a 1.000 M,Baja
+Rionegro,El Tablazo,4.7,56.4,1102.5,19.5,Alto,Alto,3 a 5 M,Más de 1.000 M,Baja
+Rionegro,Llano Grande,4.2,50.4,700.0,13.9,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Rionegro,Santa Elena,3.9,46.8,700.0,15.0,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Rionegro,Gualanday,3.8,45.6,696.0,15.3,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Rionegro,El Carmen,3.6,43.2,689.5,16.0,Alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Rionegro,Pantanillo,3.5,42.0,620.0,14.8,Medio-alto,Alto,3 a 5 M,600 a 1.000 M,Alta
+Rionegro,Ub Lotus Et I,2.9,34.8,550.0,15.8,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Rionegro,Barro Blanco,2.8,33.6,560.0,16.7,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,San Nicolas,2.7,32.4,450.0,13.9,Medio-alto,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,Ojo de Agua,2.65,31.8,545.0,17.1,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,San Antonio,2.6,31.2,530.0,17.0,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,Los Colegios,2.6,31.2,560.0,17.9,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,San Antonio de Pereira,2.6,31.2,562.0,18.0,Medio-alto,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,El Faro,2.53,30.36,565.0,18.6,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,Santa Ana,2.5,30.0,490.0,16.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,Ub la Pereira,2.5,30.0,587.5,19.6,Medio-bajo,Medio-alto,"1,5 a 3 M",300 a 600 M,Baja
+Rionegro,El Tambo,2.5,30.0,490.0,16.3,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,La Milagrosa,2.331,27.973,405.0,14.5,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Baja
+Rionegro,El Porvenir,2.2,26.4,420.0,15.9,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,Centro,2.2,26.4,425.0,16.1,Medio-bajo,Medio-bajo,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,Alto del Medio,1.975,23.7,350.0,14.8,Medio-bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,Belchite,1.75,21.0,330.0,15.7,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Rionegro,La Laja,1.7,20.4,350.0,17.2,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,Fontibon,1.65,19.8,350.0,17.7,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,Cuatro Esquinas,1.65,19.8,290.0,14.6,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Rionegro,Cuchillas de San Jose,1.65,19.8,350.0,17.7,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Alta
+Rionegro,Abreo,1.65,19.8,308.0,15.6,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Rionegro,Cimarronas,1.6,19.2,295.0,15.4,Bajo,Bajo,"1,5 a 3 M",Hasta 300 M,Alta
+Rionegro,La Macarena,1.6,19.2,317.5,16.5,Bajo,Bajo,"1,5 a 3 M",300 a 600 M,Baja
+Soacha,San Mateo,0.91,10.921,175.0,16.0,Sin rango (pocos barrios),Sin rango (pocos barrios),"Hasta 1,5 M",Hasta 300 M,Alta
+Soacha,Ciudad Verde,0.8,9.6,163.5,17.0,Sin rango (pocos barrios),Sin rango (pocos barrios),"Hasta 1,5 M",Hasta 300 M,Alta
+Soacha,Hogares Soacha,0.75,9.0,145.5,16.2,Sin rango (pocos barrios),Sin rango (pocos barrios),"Hasta 1,5 M",Hasta 300 M,Alta
+Soacha,Parque Campestre,0.75,9.0,140.0,15.6,Sin rango (pocos barrios),Sin rango (pocos barrios),"Hasta 1,5 M",Hasta 300 M,Alta

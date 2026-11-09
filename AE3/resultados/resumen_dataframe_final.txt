@@ -1,0 +1,172 @@
+RESUMEN DEL DATAFRAME TRANSFORMADO Y ENRIQUECIDO (AE3)
+============================================================
+Generado: 2026-11-08 23:06:03
+Dataset: aptologia/arriendo-rentabilidad-por-barrio-colombia-2026
+URL: https://huggingface.co/datasets/aptologia/arriendo-rentabilidad-por-barrio-colombia-2026
+Configuración: rentabilidad_arriendo_venta_barrio
+Split: train
+Revisión: b752ea67e4c2615a723900d7654e3553e6a546c1
+Muestra: No (dataset completo)
+Fecha de corte de los datos: 2026-10-05
+Filas originales -> finales: 979 -> 979
+Columnas originales -> finales: 19 -> 36
+Unidades: precios en millones de COP (arriendo por mes); porcentajes en %
+Archivo de datos: AE3/datos/dataset_preparado.csv
+
+Filas: 979
+Columnas: 36
+Duplicados: 0
+
+Columnas y tipos:
+- fecha_corte: datetime64[us]
+- ciudad_id: str
+- ciudad: str
+- barrio_id: str
+- barrio: str
+- barrio_clave: str
+- avisos_arriendo: int64
+- avisos_venta: int64
+- arriendo_mediano_mill_cop_mes: float64
+- venta_mediana_mill_cop: float64
+- rentabilidad_bruta_pct: float64
+- muestra_suficiente: bool
+- rentabilidad_atipica: bool
+- avisos_2alc_arriendo: int64
+- avisos_2alc_venta: int64
+- arriendo_2alc_mill_cop_mes: float64
+- venta_2alc_mill_cop: float64
+- rentabilidad_bruta_2alc_pct: float64
+- anios_arriendo_2alc: float64
+- comparable_2alc: bool
+- rentabilidad_2alc_atipica: bool
+- barrio_ciudad: str
+- periodo: str
+- arriendo_anual_mill_cop: float64
+- anios_arriendo_equivalentes: float64
+- rango_arriendo_ciudad: str
+- rango_venta_ciudad: str
+- banda_presupuesto_arriendo: str
+- banda_presupuesto_venta: str
+- total_avisos: int64
+- pct_avisos_arriendo: float64
+- predominio_oferta: str
+- participacion_oferta_ciudad_pct: float64
+- puesto_oferta_ciudad: int64
+- nivel_confianza: str
+- nivel_rentabilidad_2alc: str
+
+Valores nulos por columna:
+- fecha_corte: 0
+- ciudad_id: 0
+- ciudad: 0
+- barrio_id: 0
+- barrio: 0
+- barrio_clave: 0
+- avisos_arriendo: 0
+- avisos_venta: 0
+- arriendo_mediano_mill_cop_mes: 0
+- venta_mediana_mill_cop: 0
+- rentabilidad_bruta_pct: 0
+- muestra_suficiente: 0
+- rentabilidad_atipica: 0
+- avisos_2alc_arriendo: 0
+- avisos_2alc_venta: 0
+- arriendo_2alc_mill_cop_mes: 231
+- venta_2alc_mill_cop: 287
+- rentabilidad_bruta_2alc_pct: 671
+- anios_arriendo_2alc: 671
+- comparable_2alc: 0
+- rentabilidad_2alc_atipica: 0
+- barrio_ciudad: 0
+- periodo: 0
+- arriendo_anual_mill_cop: 0
+- anios_arriendo_equivalentes: 0
+- rango_arriendo_ciudad: 0
+- rango_venta_ciudad: 0
+- banda_presupuesto_arriendo: 0
+- banda_presupuesto_venta: 0
+- total_avisos: 0
+- pct_avisos_arriendo: 0
+- predominio_oferta: 0
+- participacion_oferta_ciudad_pct: 0
+- puesto_oferta_ciudad: 0
+- nivel_confianza: 0
+- nivel_rentabilidad_2alc: 0
+
+Estadísticas numéricas:
+                                 count     mean      std      min      25%      50%      75%        max
+avisos_arriendo                  979.0  158.687  349.331   15.000   29.000   58.000  143.500   6722.000
+avisos_venta                     979.0  129.965  226.399   15.000   30.500   62.000  133.000   4067.000
+arriendo_mediano_mill_cop_mes    979.0    3.069    2.241    0.550    1.680    2.475    3.500     20.500
+venta_mediana_mill_cop           979.0  592.158  417.843  127.500  328.950  477.500  699.000   3800.000
+rentabilidad_bruta_pct           979.0    6.337    1.379    0.927    5.547    6.300    7.000     15.265
+avisos_2alc_arriendo             979.0   47.849  101.160    0.000    8.000   16.000   42.000   1385.000
+avisos_2alc_venta                979.0   33.090   55.920    0.000    7.000   14.000   33.000    543.000
+arriendo_2alc_mill_cop_mes       748.0    2.878    1.705    0.500    1.600    2.450    3.600     12.000
+venta_2alc_mill_cop              692.0  529.334  320.836  125.000  300.000  460.000  640.000   3200.000
+rentabilidad_bruta_2alc_pct      308.0    6.804    1.271    2.620    6.215    6.767    7.349     16.271
+anios_arriendo_2alc              308.0   15.235    3.273    6.146   13.608   14.777   16.089     38.167
+arriendo_anual_mill_cop          979.0   36.826   26.895    6.600   20.160   29.700   42.000    246.000
+anios_arriendo_equivalentes      979.0   16.605    4.777    6.551   14.286   15.873   18.027    107.843
+total_avisos                     979.0  288.653  547.167   30.000   67.000  126.000  290.500  10789.000
+pct_avisos_arriendo              979.0   50.673   16.315    6.940   38.784   50.000   62.050     94.920
+participacion_oferta_ciudad_pct  979.0    1.328    4.450    0.025    0.091    0.256    0.834     86.145
+puesto_oferta_ciudad             979.0  121.206  101.070    1.000   29.000   95.000  206.500    333.000
+
+Columnas categóricas:
+- fecha_corte (1 valores distintos):
+    2026-10-05 00:00:00: 979
+- ciudad_id (13 valores distintos). Ejemplos: medellin, bogota, cali, rionegro, barranquilla
+- ciudad (13 valores distintos). Ejemplos: Medellín, Bogotá, Cali, Rionegro, Barranquilla
+- barrio_id (894 valores distintos). Ejemplos: laureles, castropol, el-tesoro, santa-maria-de-los-angeles, calasanz
+- barrio (895 valores distintos). Ejemplos: Laureles, Castropol, El Tesoro, Santa Maria de los Angeles, Calasanz
+- barrio_clave (894 valores distintos). Ejemplos: laureles, castropol, el tesoro, santa maria de los angeles, calasanz
+- muestra_suficiente (2 valores distintos):
+    True: 620
+    False: 359
+- rentabilidad_atipica (2 valores distintos):
+    False: 937
+    True: 42
+- comparable_2alc (2 valores distintos):
+    False: 671
+    True: 308
+- rentabilidad_2alc_atipica (2 valores distintos):
+    False: 955
+    True: 24
+- barrio_ciudad (979 valores distintos). Ejemplos: Laureles (Medellín), Castropol (Medellín), El Tesoro (Medellín), Santa Maria de los Angeles (Medellín), Calasanz (Medellín)
+- periodo (1 valores distintos):
+    2026-10: 979
+- rango_arriendo_ciudad (5 valores distintos):
+    Alto: 246
+    Medio-alto: 241
+    Medio-bajo: 238
+    Bajo: 238
+    Sin rango (pocos barrios): 16
+- rango_venta_ciudad (5 valores distintos):
+    Alto: 246
+    Bajo: 240
+    Medio-bajo: 239
+    Medio-alto: 238
+    Sin rango (pocos barrios): 16
+- banda_presupuesto_arriendo (4 valores distintos):
+    1,5 a 3 M: 457
+    3 a 5 M: 224
+    Hasta 1,5 M: 181
+    Más de 5 M: 117
+- banda_presupuesto_venta (4 valores distintos):
+    300 a 600 M: 448
+    600 a 1.000 M: 212
+    Hasta 300 M: 209
+    Más de 1.000 M: 110
+- predominio_oferta (3 valores distintos):
+    Equilibrado: 420
+    Arriendo: 290
+    Venta: 269
+- nivel_confianza (2 valores distintos):
+    Alta: 620
+    Baja: 359
+- nivel_rentabilidad_2alc (4 valores distintos):
+    No comparable: 671
+    Media (6-8 %): 219
+    Baja (<6 %): 56
+    Alta (>=8 %): 33

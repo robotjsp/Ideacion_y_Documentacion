@@ -1,0 +1,39 @@
+columna_original,columna_final,tipo_antes,tipo_despues,nulos_antes,nulos_despues,estado
+fecha_arriendo,—,str,—,0,,eliminada (reemplazada o redundante)
+fecha_venta,—,str,—,0,,eliminada (reemplazada o redundante)
+ciudad_id,ciudad_id,str,str,0,0,sin cambios
+ciudad,ciudad,str,str,0,0,sin cambios
+barrio_id,barrio_id,str,str,0,0,sin cambios
+barrio,barrio,str,str,0,0,sin cambios
+avisos_arriendo,avisos_arriendo,int64,int64,0,0,sin cambios
+mediana_arriendo,arriendo_mediano_mill_cop_mes,int64,float64,0,0,"renombrada, tipo cambiado"
+avisos_venta,avisos_venta,int64,int64,0,0,sin cambios
+mediana_venta,venta_mediana_mill_cop,int64,float64,0,0,"renombrada, tipo cambiado"
+ok_todos,muestra_suficiente,bool,bool,0,0,renombrada
+rent_bruta_todos_pct_calc,rentabilidad_bruta_pct,float64,float64,0,0,renombrada
+avisos_2_arriendo,avisos_2alc_arriendo,int64,int64,0,0,renombrada
+mediana_2_arriendo,arriendo_2alc_mill_cop_mes,float64,float64,231,231,renombrada
+avisos_2_venta,avisos_2alc_venta,int64,int64,0,0,renombrada
+mediana_2_venta,venta_2alc_mill_cop,float64,float64,287,287,renombrada
+ok_2alc,comparable_2alc,bool,bool,0,0,renombrada
+rent_bruta_2alc_pct_calc,rentabilidad_bruta_2alc_pct,float64,float64,671,671,renombrada
+anios_arriendo_2alc_calc,anios_arriendo_2alc,float64,float64,671,671,renombrada
+—,fecha_corte,—,datetime64[us],,0,nueva
+—,barrio_clave,—,str,,0,nueva
+—,rentabilidad_atipica,—,bool,,0,nueva
+—,rentabilidad_2alc_atipica,—,bool,,0,nueva
+—,barrio_ciudad,—,str,,0,nueva
+—,periodo,—,str,,0,nueva
+—,arriendo_anual_mill_cop,—,float64,,0,nueva
+—,anios_arriendo_equivalentes,—,float64,,0,nueva
+—,rango_arriendo_ciudad,—,str,,0,nueva
+—,rango_venta_ciudad,—,str,,0,nueva
+—,banda_presupuesto_arriendo,—,str,,0,nueva
+—,banda_presupuesto_venta,—,str,,0,nueva
+—,total_avisos,—,int64,,0,nueva
+—,pct_avisos_arriendo,—,float64,,0,nueva
+—,predominio_oferta,—,str,,0,nueva
+—,participacion_oferta_ciudad_pct,—,float64,,0,nueva
+—,puesto_oferta_ciudad,—,int64,,0,nueva
+—,nivel_confianza,—,str,,0,nueva
+—,nivel_rentabilidad_2alc,—,str,,0,nueva

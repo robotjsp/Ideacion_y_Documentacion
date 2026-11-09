@@ -1,0 +1,980 @@
+ciudad,barrio,avisos_arriendo,avisos_venta,total_avisos,pct_avisos_arriendo,predominio_oferta,nivel_confianza
+Barranquilla,Villa Santos,440,180,620,71.0,Arriendo,Alta
+Barranquilla,Altos de Riomar,422,196,618,68.3,Arriendo,Alta
+Barranquilla,Alameda del Rio,301,306,607,49.6,Equilibrado,Alta
+Barranquilla,Altos del Prado,187,365,552,33.9,Venta,Alta
+Barranquilla,Alto Prado,442,93,535,82.6,Arriendo,Alta
+Barranquilla,Lago Alto,166,351,517,32.1,Venta,Alta
+Barranquilla,Ciudad Jardin,278,177,455,61.1,Arriendo,Alta
+Barranquilla,Conjunto Residencial Villa Campestre,248,207,455,54.5,Equilibrado,Alta
+Barranquilla,Miramar,232,171,403,57.6,Equilibrado,Alta
+Barranquilla,El Golf,202,135,337,59.9,Equilibrado,Alta
+Barranquilla,San Vicente,234,84,318,73.6,Arriendo,Alta
+Barranquilla,Paraiso,157,99,256,61.3,Arriendo,Alta
+Barranquilla,El Prado,92,143,235,39.1,Venta,Alta
+Barranquilla,El Porvenir,129,105,234,55.1,Equilibrado,Alta
+Barranquilla,Villa Country,165,67,232,71.1,Arriendo,Alta
+Barranquilla,Rio Alto,140,92,232,60.3,Arriendo,Alta
+Barranquilla,Villa Carolina,192,24,216,88.9,Arriendo,Baja
+Barranquilla,El Tabor,163,47,210,77.6,Arriendo,Alta
+Barranquilla,Altamira,123,87,210,58.6,Equilibrado,Alta
+Barranquilla,Andalucia,128,66,194,66.0,Arriendo,Alta
+Barranquilla,Boston,64,122,186,34.4,Venta,Alta
+Barranquilla,Nuevo Horizonte,84,93,177,47.5,Equilibrado,Alta
+Barranquilla,Ciudad Mallorquin,89,65,154,57.8,Equilibrado,Alta
+Barranquilla,Granadillo,108,38,146,74.0,Arriendo,Alta
+Barranquilla,El Country,67,74,141,47.5,Equilibrado,Alta
+Barranquilla,Altos del Limon,86,42,128,67.2,Arriendo,Alta
+Barranquilla,El Poblado,76,39,115,66.1,Arriendo,Alta
+Barranquilla,La Campina,68,47,115,59.1,Equilibrado,Alta
+Barranquilla,Las Delicias,43,68,111,38.7,Venta,Alta
+Barranquilla,El Recreo,57,48,105,54.3,Equilibrado,Alta
+Barranquilla,Bellavista,42,59,101,41.6,Equilibrado,Alta
+Barranquilla,Los Alpes,73,22,95,76.8,Arriendo,Baja
+Barranquilla,El Castillo,71,23,94,75.5,Arriendo,Baja
+Barranquilla,Buenavista,53,32,85,62.4,Arriendo,Alta
+Barranquilla,Batallon Infanteria,30,53,83,36.1,Venta,Alta
+Barranquilla,La Cumbre,49,33,82,59.8,Equilibrado,Alta
+Barranquilla,La Concepcion,54,21,75,72.0,Arriendo,Baja
+Barranquilla,Ub Altos de Parque,34,34,68,50.0,Equilibrado,Alta
+Barranquilla,San Felipe,34,21,55,61.8,Arriendo,Baja
+Barranquilla,Betania,33,21,54,61.1,Arriendo,Baja
+Barranquilla,Portal de Genoves,17,35,52,32.7,Venta,Baja
+Barranquilla,Abajo,29,22,51,56.9,Equilibrado,Baja
+Barranquilla,El Limoncito,23,26,49,46.9,Equilibrado,Baja
+Barranquilla,Conjunto Residencial el Encanto,19,30,49,38.8,Venta,Baja
+Barranquilla,Los Andes,16,24,40,40.0,Venta,Baja
+Barranquilla,El Oasis,16,22,38,42.1,Equilibrado,Baja
+Barranquilla,Chiquinquira,16,17,33,48.5,Equilibrado,Baja
+Bogotá,Chico Norte,1958,1832,3790,51.7,Equilibrado,Alta
+Bogotá,Chico,1173,1535,2708,43.3,Equilibrado,Alta
+Bogotá,Santa Barbara,722,1555,2277,31.7,Venta,Alta
+Bogotá,Cedritos,967,1229,2196,44.0,Equilibrado,Alta
+Bogotá,Chico Reservado,1044,1045,2089,50.0,Equilibrado,Alta
+Bogotá,Los Rosales,855,1102,1957,43.7,Equilibrado,Alta
+Bogotá,La Cabrera,1093,803,1896,57.6,Equilibrado,Alta
+Bogotá,Santa Barbara Central,522,1253,1775,29.4,Venta,Alta
+Bogotá,Santa Barbara Occidental,444,1124,1568,28.3,Venta,Alta
+Bogotá,Santa Paula,505,978,1483,34.1,Venta,Alta
+Bogotá,San Patricio,426,958,1384,30.8,Venta,Alta
+Bogotá,Chapinero Alto,732,560,1292,56.7,Equilibrado,Alta
+Bogotá,Colina Campestre,372,912,1284,29.0,Venta,Alta
+Bogotá,Chico Navarra,418,859,1277,32.7,Venta,Alta
+Bogotá,Bella Suiza,395,637,1032,38.3,Venta,Alta
+Bogotá,San Cristobal Sur,66,885,951,6.9,Venta,Alta
+Bogotá,La Carolina,332,591,923,36.0,Venta,Alta
+Bogotá,El Nogal,553,350,903,61.2,Arriendo,Alta
+Bogotá,Las Nieves,468,415,883,53.0,Equilibrado,Alta
+Bogotá,Chapinero Central,576,282,858,67.1,Arriendo,Alta
+Bogotá,La Calleja,242,606,848,28.5,Venta,Alta
+Bogotá,El Refugio,236,493,729,32.4,Venta,Alta
+Bogotá,Santa Barbara Oriental,252,472,724,34.8,Venta,Alta
+Bogotá,Rincon del Chico,247,423,670,36.9,Venta,Alta
+Bogotá,Navarra,146,494,640,22.8,Venta,Alta
+Bogotá,La Castellana,237,359,596,39.8,Venta,Alta
+Bogotá,Chico Alto,194,399,593,32.7,Venta,Alta
+Bogotá,Castilla,245,325,570,43.0,Equilibrado,Alta
+Bogotá,Modelia,274,289,563,48.7,Equilibrado,Alta
+Bogotá,La Felicidad,262,300,562,46.6,Equilibrado,Alta
+Bogotá,Molinos Norte,127,435,562,22.6,Venta,Alta
+Bogotá,Bellavista,154,406,560,27.5,Venta,Alta
+Bogotá,Santa Barbara Alta,238,299,537,44.3,Equilibrado,Alta
+Bogotá,Centro Internacional,353,166,519,68.0,Arriendo,Alta
+Bogotá,Pasadena,194,320,514,37.7,Venta,Alta
+Bogotá,El Virrey,281,219,500,56.2,Equilibrado,Alta
+Bogotá,El Redil,274,213,487,56.3,Equilibrado,Alta
+Bogotá,Santa Bibiana,164,322,486,33.7,Venta,Alta
+Bogotá,Antiguo Country,291,194,485,60.0,Arriendo,Alta
+Bogotá,Lagos de Torca,342,139,481,71.1,Arriendo,Alta
+Bogotá,Ciudad Salitre,255,169,424,60.1,Arriendo,Alta
+Bogotá,Nicolas de Federman,159,251,410,38.8,Venta,Alta
+Bogotá,Chico Norte III,192,212,404,47.5,Equilibrado,Alta
+Bogotá,Cerros de Suba,71,331,402,17.7,Venta,Alta
+Bogotá,Belmira,125,259,384,32.6,Venta,Alta
+Bogotá,Madelena,167,209,376,44.4,Equilibrado,Alta
+Bogotá,Galerias,222,152,374,59.4,Equilibrado,Alta
+Bogotá,Lisboa,110,257,367,30.0,Venta,Alta
+Bogotá,Quinta Paredes,157,208,365,43.0,Equilibrado,Alta
+Bogotá,Santa Ana Oriental,182,166,348,52.3,Equilibrado,Alta
+Bogotá,Mazuren,135,213,348,38.8,Venta,Alta
+Bogotá,Bosque Medina,110,237,347,31.7,Venta,Alta
+Bogotá,Santa Teresa,129,213,342,37.7,Venta,Alta
+Bogotá,Altos de Bella Suiza,115,225,340,33.8,Venta,Alta
+Bogotá,San Jose de Bavaria,185,148,333,55.6,Equilibrado,Alta
+Bogotá,El Liston,73,243,316,23.1,Venta,Alta
+Bogotá,Hayuelos,183,131,314,58.3,Equilibrado,Alta
+Bogotá,La Macarena,217,88,305,71.1,Arriendo,Alta
+Bogotá,Mirandela,184,119,303,60.7,Arriendo,Alta
+Bogotá,El Contador,98,204,302,32.5,Venta,Alta
+Bogotá,Niza,100,201,301,33.2,Venta,Alta
+Bogotá,Montevideo,147,152,299,49.2,Equilibrado,Alta
+Bogotá,Acacias Usaquen,79,220,299,26.4,Venta,Alta
+Bogotá,Ciudad Salitre Occidental,73,224,297,24.6,Venta,Alta
+Bogotá,Bosque de Pinos,75,216,291,25.8,Venta,Alta
+Bogotá,Los Cedros,70,213,283,24.7,Venta,Alta
+Bogotá,Veramonte Macana,88,193,281,31.3,Venta,Alta
+Bogotá,Alhambra,87,193,280,31.1,Venta,Alta
+Bogotá,Puente Largo,80,197,277,28.9,Venta,Alta
+Bogotá,Alameda,98,170,268,36.6,Venta,Alta
+Bogotá,Las Acacias,68,194,262,26.0,Venta,Alta
+Bogotá,Quinta Camacho,135,125,260,51.9,Equilibrado,Alta
+Bogotá,El Dorado,44,213,257,17.1,Venta,Alta
+Bogotá,San Antonio Norte,66,188,254,26.0,Venta,Alta
+Bogotá,Normandia,134,114,248,54.0,Equilibrado,Alta
+Bogotá,San Martin,118,128,246,48.0,Equilibrado,Alta
+Bogotá,Tintala,56,190,246,22.8,Venta,Alta
+Bogotá,Centro Comercial Parque la Colina,35,206,241,14.5,Venta,Alta
+Bogotá,Prado Veraniego,109,131,240,45.4,Equilibrado,Alta
+Bogotá,Cedro Golf,68,168,236,28.8,Venta,Alta
+Bogotá,Nuevo Country,73,161,234,31.2,Venta,Alta
+Bogotá,Gratamira,80,153,233,34.3,Venta,Alta
+Bogotá,Maria Cristina,87,145,232,37.5,Venta,Alta
+Bogotá,Santa Ana,122,109,231,52.8,Equilibrado,Alta
+Bogotá,El Recuerdo,128,97,225,56.9,Equilibrado,Alta
+Bogotá,Gran Granada,75,147,222,33.8,Venta,Alta
+Bogotá,San Jose de Usaquen,88,132,220,40.0,Venta,Alta
+Bogotá,Ilarco,57,163,220,25.9,Venta,Alta
+Bogotá,Gran America,112,105,217,51.6,Equilibrado,Alta
+Bogotá,La Granja Norte,93,123,216,43.1,Equilibrado,Alta
+Bogotá,Chico Norte Et III,68,145,213,31.9,Venta,Alta
+Bogotá,Salitre,148,63,211,70.1,Arriendo,Alta
+Bogotá,Niza Suba,16,195,211,7.6,Venta,Baja
+Bogotá,Chico Norte II,112,97,209,53.6,Equilibrado,Alta
+Bogotá,Lisboa Usaquen,49,158,207,23.7,Venta,Alta
+Bogotá,Nueva Zelandia,120,85,205,58.5,Equilibrado,Alta
+Bogotá,San Cristobal Norte,90,114,204,44.1,Equilibrado,Alta
+Bogotá,Casa Blanca,84,120,204,41.2,Equilibrado,Alta
+Bogotá,El Retiro,84,114,198,42.4,Equilibrado,Alta
+Bogotá,La Salle,93,104,197,47.2,Equilibrado,Alta
+Bogotá,Polo Club,128,68,196,65.3,Arriendo,Alta
+Bogotá,Santa Ana Occidental,61,135,196,31.1,Venta,Alta
+Bogotá,El Tintal,95,100,195,48.7,Equilibrado,Alta
+Bogotá,Monaco,55,139,194,28.4,Venta,Alta
+Bogotá,Paloquemao,120,71,191,62.8,Arriendo,Alta
+Bogotá,La Soledad,99,91,190,52.1,Equilibrado,Alta
+Bogotá,La Veracruz,105,84,189,55.6,Equilibrado,Alta
+Bogotá,Samper Mendoza,80,108,188,42.6,Equilibrado,Alta
+Bogotá,Chico Museo,88,99,187,47.1,Equilibrado,Alta
+Bogotá,Britalia,53,133,186,28.5,Venta,Alta
+Bogotá,Caobos Salazar,56,128,184,30.4,Venta,Alta
+Bogotá,Estoril,45,139,184,24.5,Venta,Alta
+Bogotá,Marly,132,48,180,73.3,Arriendo,Alta
+Bogotá,Villas de Granada,107,72,179,59.8,Equilibrado,Alta
+Bogotá,Ciudad la Salle,132,43,175,75.4,Arriendo,Alta
+Bogotá,Parque del Virrey,112,63,175,64.0,Arriendo,Alta
+Bogotá,Nueva Castilla,78,96,174,44.8,Equilibrado,Alta
+Bogotá,Ricaurte,47,122,169,27.8,Venta,Alta
+Bogotá,Las Aguas,128,39,167,76.6,Arriendo,Alta
+Bogotá,Sierras del Moral,37,130,167,22.2,Venta,Alta
+Bogotá,Sucre,85,79,164,51.8,Equilibrado,Alta
+Bogotá,Nueva Autopista,50,112,162,30.9,Venta,Alta
+Bogotá,Montearroyo,31,131,162,19.1,Venta,Alta
+Bogotá,Bosque de Maria,41,120,161,25.5,Venta,Alta
+Bogotá,Pardo Rubio,109,51,160,68.1,Arriendo,Alta
+Bogotá,Colinas de Suba,71,88,159,44.7,Equilibrado,Alta
+Bogotá,Belalcazar,59,100,159,37.1,Venta,Alta
+Bogotá,Toberin,52,107,159,32.7,Venta,Alta
+Bogotá,Barrancas Norte,43,116,159,27.0,Venta,Alta
+Bogotá,El Plan,32,127,159,20.1,Venta,Alta
+Bogotá,Sagrado Corazon,64,92,156,41.0,Equilibrado,Alta
+Bogotá,San Felipe,116,38,154,75.3,Arriendo,Alta
+Bogotá,Chico Virrey,104,49,153,68.0,Arriendo,Alta
+Bogotá,Chapinero Norte,91,61,152,59.9,Equilibrado,Alta
+Bogotá,Jose Joaquin Vargas,97,50,147,66.0,Arriendo,Alta
+Bogotá,Sotileza,25,121,146,17.1,Venta,Baja
+Bogotá,Restrepo,78,66,144,54.2,Equilibrado,Alta
+Bogotá,Portales del Norte,38,106,144,26.4,Venta,Alta
+Bogotá,El Vergel,57,85,142,40.1,Equilibrado,Alta
+Bogotá,Chico San Patricio,43,99,142,30.3,Venta,Alta
+Bogotá,Torca,105,35,140,75.0,Arriendo,Alta
+Bogotá,Pontevedra,57,83,140,40.7,Equilibrado,Alta
+Bogotá,Palermo,71,67,138,51.4,Equilibrado,Alta
+Bogotá,Bogota Colombia,33,103,136,24.3,Venta,Alta
+Bogotá,Guaymaral,112,23,135,83.0,Arriendo,Baja
+Bogotá,El Ensueno,18,116,134,13.4,Venta,Baja
+Bogotá,Las Brisas,77,52,129,59.7,Equilibrado,Alta
+Bogotá,Barrancas,71,58,129,55.0,Equilibrado,Alta
+Bogotá,Ciudad Salitre Oriental,43,84,127,33.9,Venta,Alta
+Bogotá,Cedro Salazar,29,97,126,23.0,Venta,Baja
+Bogotá,Los Andes,46,79,125,36.8,Venta,Alta
+Bogotá,San Jose del Prado,25,100,125,20.0,Venta,Baja
+Bogotá,Victoria Norte,32,89,121,26.4,Venta,Alta
+Bogotá,Lagos de Cordoba,56,64,120,46.7,Equilibrado,Alta
+Bogotá,San Luis,50,69,119,42.0,Equilibrado,Alta
+Bogotá,Niza Norte,43,76,119,36.1,Venta,Alta
+Bogotá,Tibabita,26,93,119,21.8,Venta,Baja
+Bogotá,Samper,72,46,118,61.0,Arriendo,Alta
+Bogotá,Tibabuyes,16,102,118,13.6,Venta,Baja
+Bogotá,Los Rosales Emaus,47,70,117,40.2,Equilibrado,Alta
+Bogotá,Cantalejo,41,75,116,35.3,Venta,Alta
+Bogotá,Chapinero Sur Occidental,18,98,116,15.5,Venta,Baja
+Bogotá,Chico Norte Et II,39,75,114,34.2,Venta,Alta
+Bogotá,Emaus,72,41,113,63.7,Arriendo,Alta
+Bogotá,Escuela de Infanteria,28,84,112,25.0,Venta,Baja
+Bogotá,El Refugio I,46,65,111,41.4,Equilibrado,Alta
+Bogotá,Lago Gaitan,43,68,111,38.7,Venta,Alta
+Bogotá,Country Club,32,78,110,29.1,Venta,Alta
+Bogotá,Rincon de Suba,35,74,109,32.1,Venta,Alta
+Bogotá,Pinar de Suba,26,82,108,24.1,Venta,Baja
+Bogotá,Villa Alsacia,38,69,107,35.5,Venta,Alta
+Bogotá,Verbenal San Antonio,28,78,106,26.4,Venta,Baja
+Bogotá,Los Monjes,79,26,105,75.2,Arriendo,Baja
+Bogotá,Puente Grande,58,47,105,55.2,Equilibrado,Alta
+Bogotá,Las Margaritas,19,85,104,18.3,Venta,Baja
+Bogotá,Ciudad Salitre Occidente,48,55,103,46.6,Equilibrado,Alta
+Bogotá,Cantagallo,17,86,103,16.5,Venta,Baja
+Bogotá,Timiza,50,51,101,49.5,Equilibrado,Alta
+Bogotá,El Centro,50,51,101,49.5,Equilibrado,Alta
+Bogotá,Recodo del Country,35,65,100,35.0,Venta,Alta
+Bogotá,Santa Cecilia,62,34,96,64.6,Arriendo,Alta
+Bogotá,Industrial Centenario,71,24,95,74.7,Arriendo,Baja
+Bogotá,Belen,54,41,95,56.8,Equilibrado,Alta
+Bogotá,San Diego,54,41,95,56.8,Equilibrado,Alta
+Bogotá,Marsella,33,61,94,35.1,Venta,Alta
+Bogotá,Quesada,55,37,92,59.8,Equilibrado,Alta
+Bogotá,Ciudad Jardin Norte,47,45,92,51.1,Equilibrado,Alta
+Bogotá,Fontibon Centro,43,49,92,46.7,Equilibrado,Alta
+Bogotá,Valladolid,15,77,92,16.3,Venta,Baja
+Bogotá,Eduardo Santos,45,45,90,50.0,Equilibrado,Alta
+Bogotá,Alcala,43,47,90,47.8,Equilibrado,Alta
+Bogotá,Ismael Perdomo,41,49,90,45.6,Equilibrado,Alta
+Bogotá,Rosales Bajo,41,47,88,46.6,Equilibrado,Alta
+Bogotá,Iberia,25,63,88,28.4,Venta,Baja
+Bogotá,Gilmar,43,44,87,49.4,Equilibrado,Alta
+Bogotá,La Esperanza Norte,39,48,87,44.8,Equilibrado,Alta
+Bogotá,El Porvenir,25,62,87,28.7,Venta,Baja
+Bogotá,Primavera,40,46,86,46.5,Equilibrado,Alta
+Bogotá,Club los Lagartos,18,68,86,20.9,Venta,Baja
+Bogotá,Villemar,50,35,85,58.8,Equilibrado,Alta
+Bogotá,Pradera Norte,28,57,85,32.9,Venta,Baja
+Bogotá,San Cipriano,20,65,85,23.5,Venta,Baja
+Bogotá,Parque Central Bavaria,55,29,84,65.5,Arriendo,Baja
+Bogotá,Salazar Gomez,60,23,83,72.3,Arriendo,Baja
+Bogotá,20 de Julio,44,39,83,53.0,Equilibrado,Alta
+Bogotá,Tierra Buena,25,58,83,30.1,Venta,Baja
+Bogotá,Altos de Suba,17,65,82,20.7,Venta,Baja
+Bogotá,La Granja,41,40,81,50.6,Equilibrado,Alta
+Bogotá,Juan Xxiii,55,24,79,69.6,Arriendo,Baja
+Bogotá,Parque el Virrey,48,31,79,60.8,Arriendo,Alta
+Bogotá,Ciudadela Colsubsidio,47,31,78,60.3,Arriendo,Alta
+Bogotá,La Estancia,35,43,78,44.9,Equilibrado,Alta
+Bogotá,San Gabriel Norte,32,46,78,41.0,Equilibrado,Alta
+Bogotá,Villa del Prado,59,18,77,76.6,Arriendo,Baja
+Bogotá,Norte de Bogota,44,32,76,57.9,Equilibrado,Alta
+Bogotá,Multicentro,36,39,75,48.0,Equilibrado,Alta
+Bogotá,Porciuncula,32,43,75,42.7,Equilibrado,Alta
+Bogotá,Las Orquideas,25,50,75,33.3,Venta,Baja
+Bogotá,Usatama,46,28,74,62.2,Arriendo,Baja
+Bogotá,El Cortijo,30,44,74,40.5,Equilibrado,Alta
+Bogotá,Rafael Nunez,28,46,74,37.8,Venta,Baja
+Bogotá,Campo Alegre,16,58,74,21.6,Venta,Baja
+Bogotá,Chico Santa Barbara,40,33,73,54.8,Equilibrado,Alta
+Bogotá,Sears,30,42,72,41.7,Equilibrado,Alta
+Bogotá,Las Américas,20,52,72,27.8,Venta,Baja
+Bogotá,Prado Pinzon,32,39,71,45.1,Equilibrado,Alta
+Bogotá,El Recodo,27,44,71,38.0,Venta,Baja
+Bogotá,Paramo,16,55,71,22.5,Venta,Baja
+Bogotá,Primavera Occidental Puente Aranda,15,56,71,21.1,Venta,Baja
+Bogotá,Los Alcazares,50,20,70,71.4,Arriendo,Baja
+Bogotá,Andes Norte,29,41,70,41.4,Equilibrado,Baja
+Bogotá,Ciudad Alsacia,16,54,70,22.9,Venta,Baja
+Bogotá,La Floresta,33,35,68,48.5,Equilibrado,Alta
+Bogotá,La Catedral,39,28,67,58.2,Equilibrado,Baja
+Bogotá,Santa Isabel,39,28,67,58.2,Equilibrado,Baja
+Bogotá,Bosque Izquierdo,37,30,67,55.2,Equilibrado,Alta
+Bogotá,Bochica,32,35,67,47.8,Equilibrado,Alta
+Bogotá,Mochuelo Norte,21,46,67,31.3,Venta,Baja
+Bogotá,Canodromo,25,41,66,37.9,Venta,Baja
+Bogotá,Modelia Occidental,23,43,66,34.8,Venta,Baja
+Bogotá,Las Villas,21,45,66,31.8,Venta,Baja
+Bogotá,Suba Centro,31,34,65,47.7,Equilibrado,Alta
+Bogotá,Carvajal,40,24,64,62.5,Arriendo,Baja
+Bogotá,Villa del Rio,28,36,64,43.8,Equilibrado,Baja
+Bogotá,San Rafael,33,29,62,53.2,Equilibrado,Baja
+Bogotá,Florencia,24,38,62,38.7,Venta,Baja
+Bogotá,Cerros de Niza,19,43,62,30.6,Venta,Baja
+Bogotá,San Pablo,44,17,61,72.1,Arriendo,Baja
+Bogotá,San Antonio,26,35,61,42.6,Equilibrado,Baja
+Bogotá,Colina,33,27,60,55.0,Equilibrado,Baja
+Bogotá,La Campina,41,18,59,69.5,Arriendo,Baja
+Bogotá,Normandia Occidental,34,25,59,57.6,Equilibrado,Baja
+Bogotá,Santa Barbara Central Usaquen,30,29,59,50.8,Equilibrado,Baja
+Bogotá,Bosque Calderon,29,30,59,49.2,Equilibrado,Baja
+Bogotá,Molinos del Norte,28,31,59,47.5,Equilibrado,Baja
+Bogotá,Cedritos Contador,28,31,59,47.5,Equilibrado,Baja
+Bogotá,La Igualdad,22,37,59,37.3,Venta,Baja
+Bogotá,Metropolis,40,18,58,69.0,Arriendo,Baja
+Bogotá,Bella Suiza Usaquen,36,22,58,62.1,Arriendo,Baja
+Bogotá,Los Rosales Chico,32,26,58,55.2,Equilibrado,Baja
+Bogotá,Las Ferias,40,17,57,70.2,Arriendo,Baja
+Bogotá,Santa Barbara Usaquén,23,34,57,40.4,Equilibrado,Baja
+Bogotá,Prado Veraniego Norte,33,23,56,58.9,Equilibrado,Baja
+Bogotá,Centro Nariño,24,32,56,42.9,Equilibrado,Baja
+Bogotá,Veraguas,31,24,55,56.4,Equilibrado,Baja
+Bogotá,Villa Gladys,22,33,55,40.0,Venta,Baja
+Bogotá,Chapinero Marly,34,20,54,63.0,Arriendo,Baja
+Bogotá,Bella Suiza Alta,31,23,54,57.4,Equilibrado,Baja
+Bogotá,Capellania,31,23,54,57.4,Equilibrado,Baja
+Bogotá,Cerros de los Alpes,24,30,54,44.4,Equilibrado,Baja
+Bogotá,Armenia,22,32,54,40.7,Equilibrado,Baja
+Bogotá,Centro las Nieves,21,33,54,38.9,Venta,Baja
+Bogotá,La Fragua,21,33,54,38.9,Venta,Baja
+Bogotá,Tuna Baja,20,34,54,37.0,Venta,Baja
+Bogotá,Rosales Bella Vista,15,39,54,27.8,Venta,Baja
+Bogotá,Parques de Bogota,38,15,53,71.7,Arriendo,Baja
+Bogotá,Puerta de Teja,33,20,53,62.3,Arriendo,Baja
+Bogotá,Villa Magdala,21,32,53,39.6,Venta,Baja
+Bogotá,Suba Urbano,15,38,53,28.3,Venta,Baja
+Bogotá,Chapinero Occidental,31,21,52,59.6,Equilibrado,Baja
+Bogotá,Santa Helena,21,31,52,40.4,Equilibrado,Baja
+Bogotá,Cedritos Usaquen,32,19,51,62.7,Arriendo,Baja
+Bogotá,Zona Franca,24,27,51,47.1,Equilibrado,Baja
+Bogotá,Santa Teresita,21,30,51,41.2,Equilibrado,Baja
+Bogotá,Franco,20,31,51,39.2,Venta,Baja
+Bogotá,Museo del Chico,32,18,50,64.0,Arriendo,Baja
+Bogotá,San Fernando,25,25,50,50.0,Equilibrado,Baja
+Bogotá,San Patricio Usaquen,24,26,50,48.0,Equilibrado,Baja
+Bogotá,Chico III,23,27,50,46.0,Equilibrado,Baja
+Bogotá,Egipto,22,28,50,44.0,Equilibrado,Baja
+Bogotá,Lisboa Nuevo Country,18,32,50,36.0,Venta,Baja
+Bogotá,La Estrada,30,19,49,61.2,Arriendo,Baja
+Bogotá,Las Cruces,25,24,49,51.0,Equilibrado,Baja
+Bogotá,Cataluna,18,31,49,36.7,Venta,Baja
+Bogotá,La Esperanza,16,33,49,32.7,Venta,Baja
+Bogotá,Ciudad Salitre Suroriental,25,23,48,52.1,Equilibrado,Baja
+Bogotá,Alfonso López,17,31,48,35.4,Venta,Baja
+Bogotá,La Uribe,20,26,46,43.5,Equilibrado,Baja
+Bogotá,Zona Industrial,29,16,45,64.4,Arriendo,Baja
+Bogotá,North Point,28,17,45,62.2,Arriendo,Baja
+Bogotá,La Aurora,20,25,45,44.4,Equilibrado,Baja
+Bogotá,Bravo Paez,16,28,44,36.4,Venta,Baja
+Bogotá,Granjas de Techo,24,19,43,55.8,Equilibrado,Baja
+Bogotá,El Vergel Occidental,22,21,43,51.2,Equilibrado,Baja
+Bogotá,Lijaca,18,25,43,41.9,Equilibrado,Baja
+Bogotá,Santa Maria del Lago,18,25,43,41.9,Equilibrado,Baja
+Bogotá,Parque Popular Salitre,23,19,42,54.8,Equilibrado,Baja
+Bogotá,Boyaca Real,21,21,42,50.0,Equilibrado,Baja
+Bogotá,Los Cedros Oriental,20,22,42,47.6,Equilibrado,Baja
+Bogotá,Acevedo Tejada,20,21,41,48.8,Equilibrado,Baja
+Bogotá,Cedritos Alcala,24,16,40,60.0,Arriendo,Baja
+Bogotá,Antiguo Contry,23,17,40,57.5,Equilibrado,Baja
+Bogotá,La Asuncion,22,17,39,56.4,Equilibrado,Baja
+Bogotá,La Carolina Country,20,19,39,51.3,Equilibrado,Baja
+Bogotá,Santafe,18,20,38,47.4,Equilibrado,Baja
+Bogotá,Restrepo Occidental,16,22,38,42.1,Equilibrado,Baja
+Bogotá,Engativa Centro,20,17,37,54.1,Equilibrado,Baja
+Bogotá,La Perseverancia,20,17,37,54.1,Equilibrado,Baja
+Bogotá,Santa Rosita,18,19,37,48.6,Equilibrado,Baja
+Bogotá,Benjamin Herrera,17,20,37,45.9,Equilibrado,Baja
+Bogotá,Altos del Refugio,17,19,36,47.2,Equilibrado,Baja
+Bogotá,La Soledad Teusaquillo,17,19,36,47.2,Equilibrado,Baja
+Bogotá,Ciudadela la Felicidad,16,20,36,44.4,Equilibrado,Baja
+Bogotá,San Bernardino,16,20,36,44.4,Equilibrado,Baja
+Bogotá,Ciudad Jardin Sur,17,17,34,50.0,Equilibrado,Baja
+Bogotá,Quiroga,17,17,34,50.0,Equilibrado,Baja
+Bogotá,La Libertad,17,17,34,50.0,Equilibrado,Baja
+Bogotá,Centro Historico,16,18,34,47.1,Equilibrado,Baja
+Bogotá,Santa Lucía,15,19,34,44.1,Equilibrado,Baja
+Bogotá,Bosque Medina Usaquen,15,19,34,44.1,Equilibrado,Baja
+Bogotá,Corredor Ferreo del Sur,17,16,33,51.5,Equilibrado,Baja
+Bogotá,Bosques del Marquez,16,17,33,48.5,Equilibrado,Baja
+Bogotá,Villemar Fontibon,15,17,32,46.9,Equilibrado,Baja
+Bucaramanga,Cabecera del Llano,365,436,801,45.6,Equilibrado,Alta
+Bucaramanga,Sotomayor,303,404,707,42.9,Equilibrado,Alta
+Bucaramanga,Canaveral,323,207,530,60.9,Arriendo,Alta
+Bucaramanga,San Francisco,202,162,364,55.5,Equilibrado,Alta
+Bucaramanga,Mejoras Publicas,196,166,362,54.1,Equilibrado,Alta
+Bucaramanga,San Alonso,184,133,317,58.0,Equilibrado,Alta
+Bucaramanga,La Aurora,140,131,271,51.7,Equilibrado,Alta
+Bucaramanga,Anillo Vial,117,150,267,43.8,Equilibrado,Alta
+Bucaramanga,Provenza,105,140,245,42.9,Equilibrado,Alta
+Bucaramanga,El Prado,161,78,239,67.4,Arriendo,Alta
+Bucaramanga,Centro,97,123,220,44.1,Equilibrado,Alta
+Bucaramanga,Antonia Santos Centro,89,123,212,42.0,Equilibrado,Alta
+Bucaramanga,El Tejar,71,128,199,35.7,Venta,Alta
+Bucaramanga,Bolivar,73,97,170,42.9,Equilibrado,Alta
+Bucaramanga,Nuevo Sotomayor,86,83,169,50.9,Equilibrado,Alta
+Bucaramanga,Comuneros,80,79,159,50.3,Equilibrado,Alta
+Bucaramanga,Pan de Azucar,47,91,138,34.1,Venta,Alta
+Bucaramanga,Cabecera,78,59,137,56.9,Equilibrado,Alta
+Bucaramanga,Antonia Santos,61,67,128,47.7,Equilibrado,Alta
+Bucaramanga,La Floresta,54,73,127,42.5,Equilibrado,Alta
+Bucaramanga,El Cinal,38,87,125,30.4,Venta,Alta
+Bucaramanga,Alarcon,46,68,114,40.4,Equilibrado,Alta
+Bucaramanga,Batallon,43,62,105,41.0,Equilibrado,Alta
+Bucaramanga,Ciudadela Real de Minas,38,65,103,36.9,Venta,Alta
+Bucaramanga,Lagos del Cacique,59,42,101,58.4,Equilibrado,Alta
+Bucaramanga,Terrazas,43,56,99,43.4,Equilibrado,Alta
+Bucaramanga,La Concordia,40,55,95,42.1,Equilibrado,Alta
+Bucaramanga,La Victoria,46,41,87,52.9,Equilibrado,Alta
+Bucaramanga,Puerta del Sol,45,33,78,57.7,Equilibrado,Alta
+Bucaramanga,Bolarqui,36,41,77,46.8,Equilibrado,Alta
+Bucaramanga,Conjunto Residencial la Hacienda,27,50,77,35.1,Venta,Baja
+Bucaramanga,El Porvenir,44,25,69,63.8,Arriendo,Baja
+Bucaramanga,El Bosque,40,27,67,59.7,Equilibrado,Baja
+Bucaramanga,Fontana,44,20,64,68.8,Arriendo,Baja
+Bucaramanga,Ruitoque,34,27,61,55.7,Equilibrado,Baja
+Bucaramanga,Altos de Cabecera,29,30,59,49.2,Equilibrado,Baja
+Bucaramanga,Conucos,36,21,57,63.2,Arriendo,Baja
+Bucaramanga,Girardot,32,23,55,58.2,Equilibrado,Baja
+Bucaramanga,Garcia Rovira,35,16,51,68.6,Arriendo,Baja
+Bucaramanga,Granjas de Provenza,21,30,51,41.2,Equilibrado,Baja
+Bucaramanga,Diamante 2,18,33,51,35.3,Venta,Baja
+Bucaramanga,Ricaurte,16,31,47,34.0,Venta,Baja
+Bucaramanga,Molinos Altos,15,29,44,34.1,Venta,Baja
+Bucaramanga,Puerto Madero,17,26,43,39.5,Venta,Baja
+Bucaramanga,Antiguo Campestre,23,19,42,54.8,Equilibrado,Baja
+Bucaramanga,Coaviconsa,18,23,41,43.9,Equilibrado,Baja
+Bucaramanga,Alvarez las Américas,17,24,41,41.5,Equilibrado,Baja
+Bucaramanga,Casco Antiguo Floridablanca,23,15,38,60.5,Arriendo,Baja
+Bucaramanga,Mutualidad,18,17,35,51.4,Equilibrado,Baja
+Bucaramanga,El Recreo,16,16,32,50.0,Equilibrado,Baja
+Bucaramanga,Santa Ana,15,15,30,50.0,Equilibrado,Baja
+Bucaramanga,Cacique,15,15,30,50.0,Equilibrado,Baja
+Cali,Valle del Lili,1054,1096,2150,49.0,Equilibrado,Alta
+Cali,Bochalema,378,991,1369,27.6,Venta,Alta
+Cali,Pance,597,709,1306,45.7,Equilibrado,Alta
+Cali,Ciudad Jardin,389,514,903,43.1,Equilibrado,Alta
+Cali,Santa Teresita,305,598,903,33.8,Venta,Alta
+Cali,Bellavista,276,433,709,38.9,Venta,Alta
+Cali,La Flora,255,347,602,42.4,Equilibrado,Alta
+Cali,Normandia,200,343,543,36.8,Venta,Alta
+Cali,El Ingenio,160,365,525,30.5,Venta,Alta
+Cali,Parcelaciones Pance,317,152,469,67.6,Arriendo,Alta
+Cali,Cristales,166,299,465,35.7,Venta,Alta
+Cali,Ciudad Melendez,129,315,444,29.1,Venta,Alta
+Cali,Lili,111,314,425,26.1,Venta,Alta
+Cali,Caney,152,268,420,36.2,Venta,Alta
+Cali,Aguacatal,142,275,417,34.1,Venta,Alta
+Cali,Santa Monica,163,251,414,39.4,Venta,Alta
+Cali,Prados del Norte,188,222,410,45.9,Equilibrado,Alta
+Cali,Ciudad Pacifica,186,221,407,45.7,Equilibrado,Alta
+Cali,Chipichape,167,216,383,43.6,Equilibrado,Alta
+Cali,Juanambu,137,238,375,36.5,Venta,Alta
+Cali,El Refugio,133,215,348,38.2,Venta,Alta
+Cali,Santa Rita,143,161,304,47.0,Equilibrado,Alta
+Cali,Versalles,115,176,291,39.5,Venta,Alta
+Cali,Granada,133,152,285,46.7,Equilibrado,Alta
+Cali,El Penon,178,96,274,65.0,Arriendo,Alta
+Cali,Parque Natura,120,154,274,43.8,Equilibrado,Alta
+Cali,Menga,60,179,239,25.1,Venta,Alta
+Cali,Santa Isabel,55,179,234,23.5,Venta,Alta
+Cali,San Vicente,137,84,221,62.0,Arriendo,Alta
+Cali,La Hacienda,35,180,215,16.3,Venta,Alta
+Cali,Quintas de Don Simon,20,193,213,9.4,Venta,Baja
+Cali,Ciudad 2000,122,88,210,58.1,Equilibrado,Alta
+Cali,Melendez,101,105,206,49.0,Equilibrado,Alta
+Cali,Centenario,60,143,203,29.6,Venta,Alta
+Cali,Brisas de los Alamos,94,108,202,46.5,Equilibrado,Alta
+Cali,El Limonar,57,138,195,29.2,Venta,Alta
+Cali,La Selva,63,124,187,33.7,Venta,Alta
+Cali,Parcelacion Piedra Grande,55,127,182,30.2,Venta,Alta
+Cali,Santa Anita,43,128,171,25.1,Venta,Alta
+Cali,Miraflores,107,63,170,62.9,Arriendo,Alta
+Cali,Arboledas,66,97,163,40.5,Equilibrado,Alta
+Cali,El Bosque,82,77,159,51.6,Equilibrado,Alta
+Cali,Kachipay,85,73,158,53.8,Equilibrado,Alta
+Cali,San Fernando,115,39,154,74.7,Arriendo,Alta
+Cali,Valle de Lili,50,95,145,34.5,Venta,Alta
+Cali,Primero de Mayo,37,107,144,25.7,Venta,Alta
+Cali,La Arboleda,51,90,141,36.2,Venta,Alta
+Cali,Los Cambulos,58,81,139,41.7,Equilibrado,Alta
+Cali,Ciudad Guabinas,27,110,137,19.7,Venta,Baja
+Cali,Villa Fatima,31,101,132,23.5,Venta,Alta
+Cali,Santa Monica Residencial,60,71,131,45.8,Equilibrado,Alta
+Cali,Cachipay,68,62,130,52.3,Equilibrado,Alta
+Cali,Vipasa,90,37,127,70.9,Arriendo,Alta
+Cali,San Fernando Viejo,76,47,123,61.8,Arriendo,Alta
+Cali,San Pedro,48,75,123,39.0,Venta,Alta
+Cali,Alfaguara,26,96,122,21.3,Venta,Baja
+Cali,Cristobal Colon,53,67,120,44.2,Equilibrado,Alta
+Cali,Torres de Comfandi,50,57,107,46.7,Equilibrado,Alta
+Cali,Cuarto de Legua,37,70,107,34.6,Venta,Alta
+Cali,Camino Real,25,80,105,23.8,Venta,Baja
+Cali,Hacienda Kachipay,31,72,103,30.1,Venta,Alta
+Cali,Zona Industrial,42,58,100,42.0,Equilibrado,Alta
+Cali,Las Vegas de Comfandi,50,48,98,51.0,Equilibrado,Alta
+Cali,Tequendama,34,62,96,35.4,Venta,Alta
+Cali,Mayapan las Vegas,25,65,90,27.8,Venta,Baja
+Cali,Colseguros Andes,28,61,89,31.5,Venta,Baja
+Cali,Ciudad Capri,22,66,88,25.0,Venta,Baja
+Cali,Canaverales,25,62,87,28.7,Venta,Baja
+Cali,Bretana,71,15,86,82.6,Arriendo,Baja
+Cali,Capri,29,56,85,34.1,Venta,Baja
+Cali,Santa Barbara,17,67,84,20.2,Venta,Baja
+Cali,San Fernando Nuevo,35,48,83,42.2,Equilibrado,Alta
+Cali,Nueva Tequendama,29,52,81,35.8,Venta,Baja
+Cali,Las Granjas,21,60,81,25.9,Venta,Baja
+Cali,El Lido,30,50,80,37.5,Venta,Alta
+Cali,Departamental,54,25,79,68.4,Arriendo,Baja
+Cali,Ciudad los Alamos,40,36,76,52.6,Equilibrado,Alta
+Cali,Cuarto de Legua Guadalupe,24,52,76,31.6,Venta,Baja
+Cali,Obrero,38,36,74,51.4,Equilibrado,Alta
+Cali,Urbanizacion Rio Lili,39,34,73,53.4,Equilibrado,Alta
+Cali,Alameda,56,16,72,77.8,Arriendo,Baja
+Cali,Cr los Naranjos,20,48,68,29.4,Venta,Baja
+Cali,Tejares Cristales,19,49,68,27.9,Venta,Baja
+Cali,Los Alcazares,35,29,64,54.7,Equilibrado,Baja
+Cali,Sameco,20,44,64,31.2,Venta,Baja
+Cali,Ciudad Bochalema,35,26,61,57.4,Equilibrado,Baja
+Cali,Ciudad Real,27,34,61,44.3,Equilibrado,Baja
+Cali,Las Mercedes,26,34,60,43.3,Equilibrado,Baja
+Cali,Arroyohondo,25,35,60,41.7,Equilibrado,Baja
+Cali,Guabinas,21,39,60,35.0,Venta,Baja
+Cali,Metropolitano del Norte,16,44,60,26.7,Venta,Baja
+Cali,Santa Rosa,22,36,58,37.9,Venta,Baja
+Cali,Las Américas,37,19,56,66.1,Arriendo,Baja
+Cali,La Campina,39,16,55,70.9,Arriendo,Baja
+Cali,Eucaristico,36,19,55,65.5,Arriendo,Baja
+Cali,Ciudad Country,17,38,55,30.9,Venta,Baja
+Cali,San Nicolas,29,24,53,54.7,Equilibrado,Baja
+Cali,Villa Colombia,36,16,52,69.2,Arriendo,Baja
+Cali,Prados del Limonar,19,32,51,37.3,Venta,Baja
+Cali,Acopi,17,34,51,33.3,Venta,Baja
+Cali,Ciudadela Comfandi,31,19,50,62.0,Arriendo,Baja
+Cali,Flora Industrial,29,21,50,58.0,Equilibrado,Baja
+Cali,El Gran Limonar,23,24,47,48.9,Equilibrado,Baja
+Cali,Los Guayacanes,24,18,42,57.1,Equilibrado,Baja
+Cali,Ciudad Pangola,22,20,42,52.4,Equilibrado,Baja
+Cali,Libertadores,22,20,42,52.4,Equilibrado,Baja
+Cali,Guadalupe,16,25,41,39.0,Venta,Baja
+Cali,La Pradera,15,26,41,36.6,Venta,Baja
+Cali,Cd Terranova,16,24,40,40.0,Venta,Baja
+Cali,Olimpico,23,15,38,60.5,Arriendo,Baja
+Cali,La Base,22,16,38,57.9,Equilibrado,Baja
+Cali,El Dorado,17,21,38,44.7,Equilibrado,Baja
+Cali,Alferez Real,15,21,36,41.7,Equilibrado,Baja
+Cali,Evaristo Garcia,16,17,33,48.5,Equilibrado,Baja
+Cali,Chiminangos II,15,15,30,50.0,Equilibrado,Baja
+Cartagena,Bocagrande,363,722,1085,33.5,Venta,Alta
+Cartagena,Serena del Mar,351,449,800,43.9,Equilibrado,Alta
+Cartagena,Manga,249,348,597,41.7,Equilibrado,Alta
+Cartagena,La Boquilla,248,291,539,46.0,Equilibrado,Alta
+Cartagena,Castillogrande,128,223,351,36.5,Venta,Alta
+Cartagena,Crespo,155,195,350,44.3,Equilibrado,Alta
+Cartagena,Marbella,160,141,301,53.2,Equilibrado,Alta
+Cartagena,El Laguito,53,214,267,19.9,Venta,Alta
+Cartagena,Torices,100,90,190,52.6,Equilibrado,Alta
+Cartagena,Cielo Mar,94,93,187,50.3,Equilibrado,Alta
+Cartagena,El Cabrero,100,74,174,57.5,Equilibrado,Alta
+Cartagena,El Centro,110,62,172,64.0,Arriendo,Alta
+Cartagena,Manzanillo,61,108,169,36.1,Venta,Alta
+Cartagena,Pie de la Popa,37,102,139,26.6,Venta,Alta
+Cartagena,Punta Canoa,19,57,76,25.0,Venta,Baja
+Cartagena,Pontezuela,22,47,69,31.9,Venta,Baja
+Cartagena,Papayal,18,48,66,27.3,Venta,Baja
+Cartagena,Ternera,23,32,55,41.8,Equilibrado,Baja
+Cartagena,El Campestre,18,20,38,47.4,Equilibrado,Baja
+Chía,Centro,84,136,220,38.2,Venta,Alta
+Chía,Delicias Norte,91,101,192,47.4,Equilibrado,Alta
+Chía,Chuntame,57,128,185,30.8,Venta,Alta
+Chía,La Estacion,44,128,172,25.6,Venta,Alta
+Chía,El Cairo,88,49,137,64.2,Arriendo,Alta
+Chía,Calahorra,52,73,125,41.6,Equilibrado,Alta
+Chía,El Misterio,38,85,123,30.9,Venta,Alta
+Chía,Canelon,29,80,109,26.6,Venta,Baja
+Chía,Samaria,33,65,98,33.7,Venta,Alta
+Chía,20 de Julio Sector II,35,62,97,36.1,Venta,Alta
+Chía,20 de Julio,27,68,95,28.4,Venta,Baja
+Chía,Bojaca,43,51,94,45.7,Equilibrado,Alta
+Chía,Santa Cruz,16,68,84,19.0,Venta,Baja
+Chía,Laura Vicuna,31,47,78,39.7,Venta,Alta
+Chía,Modigliani,21,51,72,29.2,Venta,Baja
+Chía,Bachue,30,37,67,44.8,Equilibrado,Alta
+Chía,El Rocio,17,44,61,27.9,Venta,Baja
+Chía,Santa Lucia,28,17,45,62.2,Arriendo,Baja
+Chía,La Estrella,19,24,43,44.2,Equilibrado,Baja
+Chía,Delicias,18,25,43,41.9,Equilibrado,Baja
+Chía,Santa Ana de Chía,18,17,35,51.4,Equilibrado,Baja
+Chía,Guaymaral,16,16,32,50.0,Equilibrado,Baja
+Chía,Br San Francisco,15,15,30,50.0,Equilibrado,Baja
+Cúcuta,Prados del Este,360,102,462,77.9,Arriendo,Alta
+Cúcuta,Bocono,355,19,374,94.9,Arriendo,Baja
+Cúcuta,Caobos,217,91,308,70.5,Arriendo,Alta
+Cúcuta,La Riviera,116,84,200,58.0,Equilibrado,Alta
+Cúcuta,Bellavista,155,44,199,77.9,Arriendo,Alta
+Cúcuta,La Playa,122,62,184,66.3,Arriendo,Alta
+Cúcuta,Colsag,112,52,164,68.3,Arriendo,Alta
+Cúcuta,El Llano,102,15,117,87.2,Arriendo,Baja
+Cúcuta,La Floresta,95,15,110,86.4,Arriendo,Baja
+Cúcuta,San Luis,47,49,96,49.0,Equilibrado,Alta
+Cúcuta,Lleras Restrepo,63,29,92,68.5,Arriendo,Baja
+Cúcuta,Garcia Herreros,65,24,89,73.0,Arriendo,Baja
+Cúcuta,Quinta Oriental,42,23,65,64.6,Arriendo,Baja
+Cúcuta,Barrio Blanco,36,27,63,57.1,Equilibrado,Baja
+Cúcuta,San Mateo,45,16,61,73.8,Arriendo,Baja
+Cúcuta,Niza,28,31,59,47.5,Equilibrado,Baja
+Cúcuta,Prados del Norte,25,16,41,61.0,Arriendo,Baja
+Madrid,Potrero Grande,43,45,88,48.9,Equilibrado,Alta
+Madrid,Conjunto Residencial Boreal,31,57,88,35.2,Venta,Alta
+Madrid,La Prosperidad,21,66,87,24.1,Venta,Baja
+Madrid,Conjunto Residencial Provenzal,21,60,81,25.9,Venta,Baja
+Madrid,Conjunto Residencial Abundara,23,39,62,37.1,Venta,Baja
+Madrid,Zona Centro,15,35,50,30.0,Venta,Baja
+Manizales,Palermo,116,50,166,69.9,Arriendo,Alta
+Manizales,Centro,113,18,131,86.3,Arriendo,Baja
+Manizales,Chipre,44,25,69,63.8,Arriendo,Baja
+Manizales,La Francia,30,27,57,52.6,Equilibrado,Baja
+Medellín,Laureles,6722,4067,10789,62.3,Arriendo,Alta
+Medellín,Castropol,2788,666,3454,80.7,Arriendo,Alta
+Medellín,El Tesoro,2680,719,3399,78.8,Arriendo,Alta
+Medellín,Calasanz,2281,968,3249,70.2,Arriendo,Alta
+Medellín,Santa Maria de los Angeles,2321,649,2970,78.1,Arriendo,Alta
+Medellín,Las Palmas,1941,672,2613,74.3,Arriendo,Alta
+Medellín,Ciudad del Rio,2008,511,2519,79.7,Arriendo,Alta
+Medellín,Altos del Poblado,1825,616,2441,74.8,Arriendo,Alta
+Medellín,Los Balsos,2002,286,2288,87.5,Arriendo,Alta
+Medellín,Loma de los Bernal,1314,887,2201,59.7,Equilibrado,Alta
+Medellín,Via las Palmas,1310,822,2132,61.4,Arriendo,Alta
+Medellín,San Lucas,1617,458,2075,77.9,Arriendo,Alta
+Medellín,Los Naranjos,1055,554,1609,65.6,Arriendo,Alta
+Medellín,La Florida,948,595,1543,61.4,Arriendo,Alta
+Medellín,Alejandria,1036,407,1443,71.8,Arriendo,Alta
+Medellín,Patio Bonito,1079,357,1436,75.1,Arriendo,Alta
+Medellín,Cumbres,967,463,1430,67.6,Arriendo,Alta
+Medellín,Camino Verde,786,619,1405,55.9,Equilibrado,Alta
+Medellín,Simesa,856,433,1289,66.4,Arriendo,Alta
+Medellín,Loma del Indio,850,435,1285,66.1,Arriendo,Alta
+Medellín,Suramerica,423,850,1273,33.2,Venta,Alta
+Medellín,La Castellana,846,378,1224,69.1,Arriendo,Alta
+Medellín,Loma de las Brujas,749,450,1199,62.5,Arriendo,Alta
+Medellín,San Diego,881,264,1145,76.9,Arriendo,Alta
+Medellín,Loma del Esmeraldal,765,375,1140,67.1,Arriendo,Alta
+Medellín,La Linde,722,416,1138,63.4,Arriendo,Alta
+Medellín,Conquistadores,773,308,1081,71.5,Arriendo,Alta
+Medellín,San Jose,468,582,1050,44.6,Equilibrado,Alta
+Medellín,Los Colores,649,389,1038,62.5,Arriendo,Alta
+Medellín,Aves Maria,590,434,1024,57.6,Equilibrado,Alta
+Medellín,El Campestre,598,398,996,60.0,Arriendo,Alta
+Medellín,Loma del Escobero,685,292,977,70.1,Arriendo,Alta
+Medellín,Rodeo Alto,607,367,974,62.3,Arriendo,Alta
+Medellín,Boston,619,328,947,65.4,Arriendo,Alta
+Medellín,La Doctora,435,512,947,45.9,Equilibrado,Alta
+Medellín,Simon Bolivar,634,288,922,68.8,Arriendo,Alta
+Medellín,Las Vegas,672,246,918,73.2,Arriendo,Alta
+Medellín,San Joaquin,640,277,917,69.8,Arriendo,Alta
+Medellín,Las Lomitas,387,503,890,43.5,Equilibrado,Alta
+Medellín,Provenza,534,347,881,60.6,Arriendo,Alta
+Medellín,San Antonio de Prado,514,334,848,60.6,Arriendo,Alta
+Medellín,Pan de Azucar,412,384,796,51.8,Equilibrado,Alta
+Medellín,Lalinde,676,109,785,86.1,Arriendo,Alta
+Medellín,Centro,451,333,784,57.5,Equilibrado,Alta
+Medellín,La Aldea,537,222,759,70.8,Arriendo,Alta
+Medellín,Estadio,545,202,747,73.0,Arriendo,Alta
+Medellín,Ditaires,229,466,695,32.9,Venta,Alta
+Medellín,Loma Benedictinos,421,262,683,61.6,Arriendo,Alta
+Medellín,Zuniga,442,225,667,66.3,Arriendo,Alta
+Medellín,San German,546,115,661,82.6,Arriendo,Alta
+Medellín,Astorga,374,260,634,59.0,Equilibrado,Alta
+Medellín,Florida Nueva,469,163,632,74.2,Arriendo,Alta
+Medellín,Loma del Chocho,385,234,619,62.2,Arriendo,Alta
+Medellín,La Frontera,399,193,592,67.4,Arriendo,Alta
+Medellín,Loma de los Gonzalez,536,40,576,93.1,Arriendo,Alta
+Medellín,El Esmeraldal,360,213,573,62.8,Arriendo,Alta
+Medellín,Santa Ana,271,298,569,47.6,Equilibrado,Alta
+Medellín,Vizcaya,322,240,562,57.3,Equilibrado,Alta
+Medellín,Los Balsos No 1,397,164,561,70.8,Arriendo,Alta
+Medellín,Santa Monica,419,129,548,76.5,Arriendo,Alta
+Medellín,Prados de Sabaneta,373,152,525,71.0,Arriendo,Alta
+Medellín,Villa Carlota,397,119,516,76.9,Arriendo,Alta
+Medellín,Fatima,311,195,506,61.5,Arriendo,Alta
+Medellín,Monteazul,295,211,506,58.3,Equilibrado,Alta
+Medellín,Vegas de la Doctora,272,233,505,53.9,Equilibrado,Alta
+Medellín,Calle Larga,235,268,503,46.7,Equilibrado,Alta
+Medellín,La Calera,396,103,499,79.4,Arriendo,Alta
+Medellín,Loma de los Parra,415,77,492,84.3,Arriendo,Alta
+Medellín,La Aguacatala,370,122,492,75.2,Arriendo,Alta
+Medellín,Escobero,302,183,485,62.3,Arriendo,Alta
+Medellín,Las Antillas,247,238,485,50.9,Equilibrado,Alta
+Medellín,Milla de Oro,345,134,479,72.0,Arriendo,Alta
+Medellín,La Abadia,328,147,475,69.1,Arriendo,Alta
+Medellín,El Trianon,219,256,475,46.1,Equilibrado,Alta
+Medellín,Vegas de San Jose,301,173,474,63.5,Arriendo,Alta
+Medellín,Loma los Gonzalez,435,36,471,92.4,Arriendo,Alta
+Medellín,Niquia,102,357,459,22.2,Venta,Alta
+Medellín,Maria Auxiliadora,249,207,456,54.6,Equilibrado,Alta
+Medellín,La Inmaculada,292,153,445,65.6,Arriendo,Alta
+Medellín,Los Balsos No 2,310,118,428,72.4,Arriendo,Alta
+Medellín,El Dorado,307,120,427,71.9,Arriendo,Alta
+Medellín,Belen la Palma,250,174,424,59.0,Equilibrado,Alta
+Medellín,Loma del Barro,236,170,406,58.1,Equilibrado,Alta
+Medellín,Otraparte,292,109,401,72.8,Arriendo,Alta
+Medellín,La Floresta,275,124,399,68.9,Arriendo,Alta
+Medellín,Lorena,263,128,391,67.3,Arriendo,Alta
+Medellín,Mesa,213,178,391,54.5,Equilibrado,Alta
+Medellín,Barrio Cristobal,332,58,390,85.1,Arriendo,Alta
+Medellín,Jardines,318,69,387,82.2,Arriendo,Alta
+Medellín,La Cuenca,247,140,387,63.8,Arriendo,Alta
+Medellín,El Chingui,213,173,386,55.2,Equilibrado,Alta
+Medellín,Prado,262,122,384,68.2,Arriendo,Alta
+Medellín,Bosques de Zuniga,250,127,377,66.3,Arriendo,Alta
+Medellín,Rosales,276,100,376,73.4,Arriendo,Alta
+Medellín,Oviedo,259,114,373,69.4,Arriendo,Alta
+Medellín,La Palma,298,64,362,82.3,Arriendo,Alta
+Medellín,La Pradera,221,140,361,61.2,Arriendo,Alta
+Medellín,El Portal,179,180,359,49.9,Equilibrado,Alta
+Medellín,Las Lomas,334,24,358,93.3,Arriendo,Baja
+Medellín,Los Parra,319,38,357,89.4,Arriendo,Alta
+Medellín,Calasanz Parte Alta,223,130,353,63.2,Arriendo,Alta
+Medellín,El Diamante No 2,199,143,342,58.2,Equilibrado,Alta
+Medellín,Tres Esquinas,202,139,341,59.2,Equilibrado,Alta
+Medellín,Cola del Zorro,251,88,339,74.0,Arriendo,Alta
+Medellín,Belen Rosales,128,202,330,38.8,Venta,Alta
+Medellín,Santa Fe,270,57,327,82.6,Arriendo,Alta
+Medellín,La Tablaza,89,235,324,27.5,Venta,Alta
+Medellín,Transversal Superior,177,143,320,55.3,Equilibrado,Alta
+Medellín,Pajarito,213,102,315,67.6,Arriendo,Alta
+Medellín,Mayorca,167,148,315,53.0,Equilibrado,Alta
+Medellín,Santa Teresita,202,105,307,65.8,Arriendo,Alta
+Medellín,La Milagrosa,231,73,304,76.0,Arriendo,Alta
+Medellín,Transversal Inferior,189,108,297,63.6,Arriendo,Alta
+Medellín,Asomadera No 2,201,90,291,69.1,Arriendo,Alta
+Medellín,Alcala,179,111,290,61.7,Arriendo,Alta
+Medellín,Canaveralejo,172,113,285,60.4,Arriendo,Alta
+Medellín,Manila,212,71,283,74.9,Arriendo,Alta
+Medellín,Entre Amigos,143,140,283,50.5,Equilibrado,Alta
+Medellín,Pilarica,221,60,281,78.6,Arriendo,Alta
+Medellín,Suramericana,164,112,276,59.4,Equilibrado,Alta
+Medellín,Loma de San Julian,226,49,275,82.2,Arriendo,Alta
+Medellín,Cabanas,103,172,275,37.5,Venta,Alta
+Medellín,Belen Loma de los Bernal,126,146,272,46.3,Equilibrado,Alta
+Medellín,Bolivariana,146,125,271,53.9,Equilibrado,Alta
+Medellín,La Ferreria,144,127,271,53.1,Equilibrado,Alta
+Medellín,La Mota,165,101,266,62.0,Arriendo,Alta
+Medellín,Los Alcazares,135,128,263,51.3,Equilibrado,Alta
+Medellín,Las Lomas No 1,133,126,259,51.4,Equilibrado,Alta
+Medellín,El Carmelo,123,131,254,48.4,Equilibrado,Alta
+Medellín,Toledo,142,111,253,56.1,Equilibrado,Alta
+Medellín,La Mina,132,115,247,53.4,Equilibrado,Alta
+Medellín,San Gabriel,89,155,244,36.5,Venta,Alta
+Medellín,Zona Centro,113,128,241,46.9,Equilibrado,Alta
+Medellín,El Salado,130,110,240,54.2,Equilibrado,Alta
+Medellín,Viviendas del Sur,75,162,237,31.6,Venta,Alta
+Medellín,El Rincon,177,56,233,76.0,Arriendo,Alta
+Medellín,Loma del Campestre,183,49,232,78.9,Arriendo,Alta
+Medellín,San Bernardo,159,73,232,68.5,Arriendo,Alta
+Medellín,El Castillo,171,59,230,74.3,Arriendo,Alta
+Medellín,Alto de las Palmas,104,123,227,45.8,Equilibrado,Alta
+Medellín,Betania,84,138,222,37.8,Venta,Alta
+Medellín,Santa Maria,65,152,217,30.0,Venta,Alta
+Medellín,San Rafael,127,87,214,59.3,Equilibrado,Alta
+Medellín,Las Lomas No 2,135,78,213,63.4,Arriendo,Alta
+Medellín,La Paz,102,111,213,47.9,Equilibrado,Alta
+Medellín,El Salvador,177,35,212,83.5,Arriendo,Alta
+Medellín,Loma San Jose,93,115,208,44.7,Equilibrado,Alta
+Medellín,Las Acacias,126,79,205,61.5,Arriendo,Alta
+Medellín,Las Brujas,134,69,203,66.0,Arriendo,Alta
+Medellín,La Tomatera,166,34,200,83.0,Arriendo,Alta
+Medellín,La Barquerena,106,94,200,53.0,Equilibrado,Alta
+Medellín,El Trapiche,78,120,198,39.4,Venta,Alta
+Medellín,Zona Industrial No 1,89,108,197,45.2,Equilibrado,Alta
+Medellín,Holanda,94,100,194,48.5,Equilibrado,Alta
+Medellín,Cristo Rey,129,63,192,67.2,Arriendo,Alta
+Medellín,Alto de Misael,130,61,191,68.1,Arriendo,Alta
+Medellín,Prado Centro,101,89,190,53.2,Equilibrado,Alta
+Medellín,La Ferreira,132,57,189,69.8,Arriendo,Alta
+Medellín,Belen Fatima,94,92,186,50.5,Equilibrado,Alta
+Medellín,Santa Rosa de Lima,86,96,182,47.3,Equilibrado,Alta
+Medellín,San Remo,77,105,182,42.3,Equilibrado,Alta
+Medellín,Las Casitas,147,33,180,81.7,Arriendo,Alta
+Medellín,Belen los Alpes,122,58,180,67.8,Arriendo,Alta
+Medellín,Andalucia,127,47,174,73.0,Arriendo,Alta
+Medellín,Belen las Mercedes,144,28,172,83.7,Arriendo,Baja
+Medellín,Belen San Bernardo,131,36,167,78.4,Arriendo,Alta
+Medellín,Ub Cortijo de San Jose,89,77,166,53.6,Equilibrado,Alta
+Medellín,Los Alpes,122,41,163,74.8,Arriendo,Alta
+Medellín,Bucaros,99,63,162,61.1,Arriendo,Alta
+Medellín,Loma del Atravesado,129,32,161,80.1,Arriendo,Alta
+Medellín,Pontevedra,99,60,159,62.3,Arriendo,Alta
+Medellín,Asomadera No 1,93,66,159,58.5,Equilibrado,Alta
+Medellín,Caqueta,87,70,157,55.4,Equilibrado,Alta
+Medellín,El Nogal los Almendros,108,47,155,69.7,Arriendo,Alta
+Medellín,Santa Lucia,103,51,154,66.9,Arriendo,Alta
+Medellín,Sabaneta Real,71,80,151,47.0,Equilibrado,Alta
+Medellín,San Jose Obrero,57,93,150,38.0,Venta,Alta
+Medellín,Ancon Sur,78,69,147,53.1,Equilibrado,Alta
+Medellín,Santa Catalina,64,83,147,43.5,Equilibrado,Alta
+Medellín,Los Almendros,78,67,145,53.8,Equilibrado,Alta
+Medellín,Uribe Angel,101,39,140,72.1,Arriendo,Alta
+Medellín,La Gabriela,87,53,140,62.1,Arriendo,Alta
+Medellín,Las Mercedes,82,56,138,59.4,Equilibrado,Alta
+Medellín,La Gloria,89,48,137,65.0,Arriendo,Alta
+Medellín,Senorial,65,72,137,47.4,Equilibrado,Alta
+Medellín,Belen Malibu,57,74,131,43.5,Equilibrado,Alta
+Medellín,Loma de San Jose,46,85,131,35.1,Venta,Alta
+Medellín,Belen Parque,85,43,128,66.4,Arriendo,Alta
+Medellín,Los Angeles,78,48,126,61.9,Arriendo,Alta
+Medellín,Alto de las Flores,62,64,126,49.2,Equilibrado,Alta
+Medellín,Belen Aliadas,90,35,125,72.0,Arriendo,Alta
+Medellín,La Concha,101,22,123,82.1,Arriendo,Baja
+Medellín,Amazonia,30,92,122,24.6,Venta,Alta
+Medellín,Campo Valdes,91,30,121,75.2,Arriendo,Alta
+Medellín,Aldea Verde,83,38,121,68.6,Arriendo,Alta
+Medellín,La Visitacion,77,44,121,63.6,Arriendo,Alta
+Medellín,La Magnolia,50,70,120,41.7,Equilibrado,Alta
+Medellín,Loreto,100,19,119,84.0,Arriendo,Baja
+Medellín,Primavera,86,32,118,72.9,Arriendo,Alta
+Medellín,Calle Nueva,79,36,115,68.7,Arriendo,Alta
+Medellín,Shellmar,61,51,112,54.5,Equilibrado,Alta
+Medellín,Bombona No 1,58,54,112,51.8,Equilibrado,Alta
+Medellín,San Marcos,66,45,111,59.5,Equilibrado,Alta
+Medellín,Bombona,92,18,110,83.6,Arriendo,Baja
+Medellín,Restrepo Naranjo,59,50,109,54.1,Equilibrado,Alta
+Medellín,Villa del Parque,36,73,109,33.0,Venta,Alta
+Medellín,El Chocho,77,31,108,71.3,Arriendo,Alta
+Medellín,Bellavista,38,69,107,35.5,Venta,Alta
+Medellín,Itag I,20,86,106,18.9,Venta,Baja
+Medellín,Villagrande,75,28,103,72.8,Arriendo,Baja
+Medellín,El Diamante,80,21,101,79.2,Arriendo,Baja
+Medellín,Robledo Pajarito,48,53,101,47.5,Equilibrado,Alta
+Medellín,Los Gonzalez,84,16,100,84.0,Arriendo,Baja
+Medellín,Belen Alameda,40,59,99,40.4,Equilibrado,Alta
+Medellín,Zona Rural,25,74,99,25.3,Venta,Baja
+Medellín,Las Playas,75,23,98,76.5,Arriendo,Baja
+Medellín,Granada,66,32,98,67.3,Arriendo,Alta
+Medellín,Poblado los Balsos,46,52,98,46.9,Equilibrado,Alta
+Medellín,Miravalle,63,32,95,66.3,Arriendo,Alta
+Medellín,Ciudad Niquia,49,43,92,53.3,Equilibrado,Alta
+Medellín,San Cristobal,48,43,91,52.7,Equilibrado,Alta
+Medellín,El Rodeo,66,23,89,74.2,Arriendo,Baja
+Medellín,El Danubio,63,26,89,70.8,Arriendo,Baja
+Medellín,Urbanizacion Villa Linda,56,33,89,62.9,Arriendo,Alta
+Medellín,La Hondonada,52,37,89,58.4,Equilibrado,Alta
+Medellín,Colon,72,16,88,81.8,Arriendo,Baja
+Medellín,Bosques de San Pablo,53,34,87,60.9,Arriendo,Alta
+Medellín,Belen Rincon,50,37,87,57.5,Equilibrado,Alta
+Medellín,El Rosario,20,65,85,23.5,Venta,Baja
+Medellín,Enciso,68,15,83,81.9,Arriendo,Baja
+Medellín,Loma de los Benedictinos,61,21,82,74.4,Arriendo,Baja
+Medellín,Portal Norte,42,40,82,51.2,Equilibrado,Alta
+Medellín,Madera,34,48,82,41.5,Equilibrado,Alta
+Medellín,La Orquidea,44,37,81,54.3,Equilibrado,Alta
+Medellín,La Colina,41,40,81,50.6,Equilibrado,Alta
+Medellín,Perpetuo Socorro,61,18,79,77.2,Arriendo,Baja
+Medellín,Las Cometas,59,20,79,74.7,Arriendo,Baja
+Medellín,El Nogal,58,21,79,73.4,Arriendo,Baja
+Medellín,Altavista,35,44,79,44.3,Equilibrado,Alta
+Medellín,Parque,21,57,78,26.9,Venta,Baja
+Medellín,Pueblo Viejo,23,54,77,29.9,Venta,Baja
+Medellín,Carlos E Restrepo,48,28,76,63.2,Arriendo,Baja
+Medellín,Vallano,45,31,76,59.2,Equilibrado,Alta
+Medellín,Santa Elena,42,34,76,55.3,Equilibrado,Alta
+Medellín,Virgen del Carmen,41,35,76,53.9,Equilibrado,Alta
+Medellín,Sector Belvedere,37,39,76,48.7,Equilibrado,Alta
+Medellín,Altos de Niquia,29,47,76,38.2,Venta,Baja
+Medellín,San Julian,56,19,75,74.7,Arriendo,Baja
+Medellín,Urbanizacion Palmar de Serramonte,36,37,73,49.3,Equilibrado,Alta
+Medellín,Los Pinos,49,23,72,68.1,Arriendo,Baja
+Medellín,El Carmelo II,35,37,72,48.6,Equilibrado,Alta
+Medellín,Calle del Banco,29,43,72,40.3,Equilibrado,Baja
+Medellín,Campo Amor,54,17,71,76.1,Arriendo,Baja
+Medellín,Alto las Flores,44,26,70,62.9,Arriendo,Baja
+Medellín,Caicedo,39,31,70,55.7,Equilibrado,Alta
+Medellín,El Porvenir,33,37,70,47.1,Equilibrado,Alta
+Medellín,Corazon de Jesus,54,15,69,78.3,Arriendo,Baja
+Medellín,Alto de Palmas,27,42,69,39.1,Venta,Baja
+Medellín,Las Brisas,44,24,68,64.7,Arriendo,Baja
+Medellín,Poblado Ciudad del Rio,39,28,67,58.2,Equilibrado,Baja
+Medellín,Villas del Carmen,39,28,67,58.2,Equilibrado,Baja
+Medellín,Poblado del Sur,37,30,67,55.2,Equilibrado,Alta
+Medellín,La Sebastiana,37,30,67,55.2,Equilibrado,Alta
+Medellín,La Inferior,48,18,66,72.7,Arriendo,Baja
+Medellín,Calazans,20,46,66,30.3,Venta,Baja
+Medellín,Perez,21,44,65,32.3,Venta,Baja
+Medellín,Diego Echavarria,44,18,62,71.0,Arriendo,Baja
+Medellín,Manrique Central,45,16,61,73.8,Arriendo,Baja
+Medellín,Las Flores,34,27,61,55.7,Equilibrado,Baja
+Medellín,Obrero,27,34,61,44.3,Equilibrado,Baja
+Medellín,Cabanitas,25,36,61,41.0,Equilibrado,Baja
+Medellín,Santa Maria 1 el Guayabo,34,25,59,57.6,Equilibrado,Baja
+Medellín,El Guayabo,21,38,59,35.6,Venta,Baja
+Medellín,Belen la Mota,18,41,59,30.5,Venta,Baja
+Medellín,Urbanizacion Arcoiris,35,23,58,60.3,Arriendo,Baja
+Medellín,Caminos de la Romeria,28,29,57,49.1,Equilibrado,Baja
+Medellín,Cucaracho,28,28,56,50.0,Equilibrado,Baja
+Medellín,La Cabana,27,28,55,49.1,Equilibrado,Baja
+Medellín,San Jose de Manzanillo,24,31,55,43.6,Equilibrado,Baja
+Medellín,Loma de la Doctora,28,26,54,51.9,Equilibrado,Baja
+Medellín,Escobar,32,21,53,60.4,Arriendo,Baja
+Medellín,San Isidro,33,19,52,63.5,Arriendo,Baja
+Medellín,Belen Miravalle,26,25,51,51.0,Equilibrado,Baja
+Medellín,Cuarta Brigada,23,28,51,45.1,Equilibrado,Baja
+Medellín,La Cabanita,17,34,51,33.3,Venta,Baja
+Medellín,Belen Granada,30,20,50,60.0,Arriendo,Baja
+Medellín,Antonio Narino,28,22,50,56.0,Equilibrado,Baja
+Medellín,La Ospina,23,27,50,46.0,Equilibrado,Baja
+Medellín,El Pedrero,18,32,50,36.0,Venta,Baja
+Medellín,San Agustin Suramerica,32,16,48,66.7,Arriendo,Baja
+Medellín,Belen Altavista,25,23,48,52.1,Equilibrado,Baja
+Medellín,Lagos de la Doctora,25,23,48,52.1,Equilibrado,Baja
+Medellín,Poblado las Palmas,23,25,48,47.9,Equilibrado,Baja
+Medellín,Envigado Zuniga,29,18,47,61.7,Arriendo,Baja
+Medellín,Laureles Nogal,17,30,47,36.2,Venta,Baja
+Medellín,Parque Tulio Ospina,26,20,46,56.5,Equilibrado,Baja
+Medellín,Poblado Milla de Oro,18,28,46,39.1,Venta,Baja
+Medellín,Gerona,19,26,45,42.2,Equilibrado,Baja
+Medellín,El Poblado Loma del Indio,18,27,45,40.0,Venta,Baja
+Medellín,Aliadas del Sur,25,19,44,56.8,Equilibrado,Baja
+Medellín,Panamericano,22,22,44,50.0,Equilibrado,Baja
+Medellín,Camparola,20,24,44,45.5,Equilibrado,Baja
+Medellín,Belencito,28,15,43,65.1,Arriendo,Baja
+Medellín,Asturias,18,25,43,41.9,Equilibrado,Baja
+Medellín,Manchester,22,20,42,52.4,Equilibrado,Baja
+Medellín,Nuevo,18,24,42,42.9,Equilibrado,Baja
+Medellín,Ferreni,16,26,42,38.1,Venta,Baja
+Medellín,Miraflores,16,26,42,38.1,Venta,Baja
+Medellín,Naranjitos,25,16,41,61.0,Arriendo,Baja
+Medellín,Colina Campestre,23,18,41,56.1,Equilibrado,Baja
+Medellín,Mt Villa Grande,22,18,40,55.0,Equilibrado,Baja
+Medellín,San Fernando,22,17,39,56.4,Equilibrado,Baja
+Medellín,Blanquizal,18,21,39,46.2,Equilibrado,Baja
+Medellín,La Esmeralda,18,21,39,46.2,Equilibrado,Baja
+Medellín,Belen Rodeo Alto,17,22,39,43.6,Equilibrado,Baja
+Medellín,Cordoba,23,15,38,60.5,Arriendo,Baja
+Medellín,Naranjal,21,17,38,55.3,Equilibrado,Baja
+Medellín,Cerro Nutibara,15,22,37,40.5,Equilibrado,Baja
+Medellín,Guaduales de la Abadia,21,15,36,58.3,Equilibrado,Baja
+Medellín,Altos de Maria Auxiliadora,17,19,36,47.2,Equilibrado,Baja
+Medellín,El Mirador,20,15,35,57.1,Equilibrado,Baja
+Medellín,Los Horizontes,18,16,34,52.9,Equilibrado,Baja
+Medellín,San Francisco,18,15,33,54.5,Equilibrado,Baja
+Medellín,Urbanizacion Barcelona,15,18,33,45.5,Equilibrado,Baja
+Pereira,Cerritos,398,31,429,92.8,Arriendo,Alta
+Pereira,Pinares,40,29,69,58.0,Equilibrado,Baja
+Rionegro,El Porvenir,1525,888,2413,63.2,Arriendo,Alta
+Rionegro,Barro Blanco,969,429,1398,69.3,Arriendo,Alta
+Rionegro,San Antonio,838,281,1119,74.9,Arriendo,Alta
+Rionegro,San Antonio de Pereira,587,425,1012,58.0,Equilibrado,Alta
+Rionegro,Fontibon,431,356,787,54.8,Equilibrado,Alta
+Rionegro,Los Colegios,640,137,777,82.4,Arriendo,Alta
+Rionegro,Centro,473,222,695,68.1,Arriendo,Alta
+Rionegro,Llano Grande,372,279,651,57.1,Equilibrado,Alta
+Rionegro,Santa Ana,404,199,603,67.0,Arriendo,Alta
+Rionegro,Cuatro Esquinas,304,191,495,61.4,Arriendo,Alta
+Rionegro,Cimarronas,399,75,474,84.2,Arriendo,Alta
+Rionegro,Ojo de Agua,297,80,377,78.8,Arriendo,Alta
+Rionegro,San Nicolas,225,111,336,67.0,Arriendo,Alta
+Rionegro,Los Salados,184,147,331,55.6,Equilibrado,Alta
+Rionegro,Santa Elena,127,153,280,45.4,Equilibrado,Alta
+Rionegro,Sajonia,163,80,243,67.1,Arriendo,Alta
+Rionegro,Cuchillas de San Jose,111,108,219,50.7,Equilibrado,Alta
+Rionegro,Pantanillo,89,101,190,46.8,Equilibrado,Alta
+Rionegro,Gualanday,86,74,160,53.8,Equilibrado,Alta
+Rionegro,La Laja,84,65,149,56.4,Equilibrado,Alta
+Rionegro,El Faro,93,49,142,65.5,Arriendo,Alta
+Rionegro,El Carmen,51,62,113,45.1,Equilibrado,Alta
+Rionegro,Alto del Medio,38,67,105,36.2,Venta,Alta
+Rionegro,El Tambo,37,57,94,39.4,Venta,Alta
+Rionegro,Aeropuerto,53,20,73,72.6,Arriendo,Baja
+Rionegro,Ub la Pereira,52,20,72,72.2,Arriendo,Baja
+Rionegro,Ub Lotus Et I,29,40,69,42.0,Equilibrado,Baja
+Rionegro,La Macarena,32,22,54,59.3,Equilibrado,Baja
+Rionegro,El Tablazo,24,28,52,46.2,Equilibrado,Baja
+Rionegro,La Milagrosa,24,24,48,50.0,Equilibrado,Baja
+Rionegro,Guayabito,28,18,46,60.9,Arriendo,Baja
+Rionegro,Belchite,24,19,43,55.8,Equilibrado,Baja
+Rionegro,Abreo,21,15,36,58.3,Equilibrado,Baja
+Soacha,Ciudad Verde,248,297,545,45.5,Equilibrado,Alta
+Soacha,Hogares Soacha,43,84,127,33.9,Venta,Alta
+Soacha,Parque Campestre,40,69,109,36.7,Venta,Alta
+Soacha,San Mateo,59,37,96,61.5,Arriendo,Alta
