@@ -9,14 +9,19 @@ import pandas as pd  # Librería para trabajar con DataFrames
 class Reportes:  # Clase que resume un DataFrame y lo exporta a un archivo .txt
     """Imprime y guarda un resumen legible de un DataFrame."""
 
-    def generar_reporte(self, df: pd.DataFrame, titulo: str = "REPORTE DEL DATAFRAME") -> str:  # Arma el reporte como texto
-        """Genera el contenido textual del reporte."""
+    def generar_reporte(self, df: pd.DataFrame, titulo: str = "REPORTE DEL DATAFRAME", metadatos: dict | None = None) -> str:  # Arma el reporte como texto
+        """Genera el contenido textual del reporte.
+
+        metadatos: diccionario opcional (ej. dataset, split, fecha) que se escribe al inicio del reporte.
+        """
         self._validar_dataframe(df)  # Verificamos que lo recibido sea un DataFrame
         numericas = df.select_dtypes(include="number")  # Seleccionamos solo las columnas numéricas
         texto = df.select_dtypes(exclude="number")  # Seleccionamos las columnas no numéricas (texto/categorías)
         lineas = [  # Lista de líneas del reporte, en orden
             titulo,  # Título del reporte
             "=" * 60,  # Línea separadora de 60 signos "="
+            *[f"{clave}: {valor}" for clave, valor in (metadatos or {}).items()],  # Metadatos opcionales, uno por línea
+            *([""] if metadatos else []),  # Línea en blanco solo si hubo metadatos
             f"Filas: {len(df)}",  # Cantidad de filas
             f"Columnas: {len(df.columns)}",  # Cantidad de columnas
             f"Duplicados: {int(df.duplicated().sum())}",  # Cantidad de filas repetidas
@@ -32,7 +37,8 @@ class Reportes:  # Clase que resume un DataFrame y lo exporta a un archivo .txt
             lineas += [  # ...agregamos sus estadísticas
                 "",  # Línea en blanco
                 "Estadísticas numéricas:",  # Encabezado de la sección
-                numericas.describe().round(3).to_string(),  # Media, desviación, mínimo, cuartiles y máximo
+                (numericas.describe().round(3).T if numericas.shape[1] > 6  # Con muchas columnas, una fila por variable
+                 else numericas.describe().round(3)).to_string(),  # Media, desviación, mínimo, cuartiles y máximo
             ]
 
         if not texto.empty:  # Si hay columnas de texto...
@@ -49,15 +55,15 @@ class Reportes:  # Clase que resume un DataFrame y lo exporta a un archivo .txt
 
         return "\n".join(lineas) + "\n"  # Unimos todas las líneas con saltos de línea
 
-    def imprimir_reporte(self, df: pd.DataFrame, titulo: str = "REPORTE DEL DATAFRAME") -> None:  # Muestra el reporte en pantalla
+    def imprimir_reporte(self, df: pd.DataFrame, titulo: str = "REPORTE DEL DATAFRAME", metadatos: dict | None = None) -> None:  # Muestra el reporte en pantalla
         """Imprime en la consola el reporte del DataFrame."""
-        print(self.generar_reporte(df, titulo), end="")  # Generamos e imprimimos el texto
+        print(self.generar_reporte(df, titulo, metadatos), end="")  # Generamos e imprimimos el texto
 
-    def guardar_reporte(self, df: pd.DataFrame, ruta: str | Path, titulo: str = "REPORTE DEL DATAFRAME") -> Path:  # Guarda el reporte en .txt
+    def guardar_reporte(self, df: pd.DataFrame, ruta: str | Path, titulo: str = "REPORTE DEL DATAFRAME", metadatos: dict | None = None) -> Path:  # Guarda el reporte en .txt
         """Guarda el reporte en un archivo de texto y devuelve su ruta."""
         path = Path(ruta)  # Convertimos la ruta a un objeto Path
         path.parent.mkdir(parents=True, exist_ok=True)  # Creamos la carpeta de destino si no existe
-        path.write_text(self.generar_reporte(df, titulo), encoding="utf-8")  # Escribimos el reporte en UTF-8 (respeta tildes)
+        path.write_text(self.generar_reporte(df, titulo, metadatos), encoding="utf-8")  # Escribimos el reporte en UTF-8 (respeta tildes)
         return path  # Devolvemos la ruta del archivo creado
 
     @staticmethod  # Método estático: no usa ni el objeto ni la clase

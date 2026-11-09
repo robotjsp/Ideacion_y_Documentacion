@@ -18,6 +18,7 @@ class HFDatasetLoader:  # Clase encargada de conectarse a Hugging Face y entrega
         split: División que se desea cargar.
         token: Token de Hugging Face para datasets privados.
         cache_dir: Directorio de caché de Hugging Face.
+        revision: Versión (commit) del dataset; fijarla garantiza resultados reproducibles.
         max_rows: Cantidad máxima de filas a cargar.
         filename: Ruta opcional donde se guardará el DataFrame.
         file_type: Formato opcional de salida: csv, json, parquet o xlsx.
@@ -33,6 +34,7 @@ class HFDatasetLoader:  # Clase encargada de conectarse a Hugging Face y entrega
         split: str = "train",  # División a cargar; por defecto "train"
         token: str | None = None,  # Token para datasets privados (opcional)
         cache_dir: str | None = None,  # Carpeta de caché (opcional)
+        revision: str | None = None,  # Versión exacta del dataset (opcional; None = la más reciente)
         max_rows: int | None = None,  # Límite de filas (opcional)
         filename: str | Path | None = None,  # Archivo donde guardar los datos (opcional)
         file_type: str | None = None,  # Formato del archivo de salida (opcional)
@@ -42,6 +44,7 @@ class HFDatasetLoader:  # Clase encargada de conectarse a Hugging Face y entrega
         self.split = split  # Guardamos el split
         self.token = token  # Guardamos el token
         self.cache_dir = cache_dir  # Guardamos la carpeta de caché
+        self.revision = revision  # Guardamos la versión del dataset
         self.max_rows = max_rows  # Guardamos el límite de filas
         self.filename = Path(filename) if filename is not None else None  # Convertimos la ruta a Path si se indicó
         self.file_type = self._normalize_file_type(file_type)  # Validamos y normalizamos el formato de salida
@@ -60,6 +63,7 @@ class HFDatasetLoader:  # Clase encargada de conectarse a Hugging Face y entrega
             split=self.split,  # Qué división descargar
             token=self.token,  # Token, si el dataset es privado
             cache_dir=self.cache_dir,  # Dónde guardar la caché
+            revision=self.revision,  # Qué versión descargar (None = la más reciente)
         )
         if self.max_rows is not None:  # Si se pidió un límite de filas...
             dataset = dataset.select(range(min(self.max_rows, len(dataset))))  # ...nos quedamos solo con esas filas
@@ -77,6 +81,7 @@ class HFDatasetLoader:  # Clase encargada de conectarse a Hugging Face y entrega
             "dataset": self.dataset_name,  # Nombre del dataset
             "config": self.config,  # Configuración usada
             "split": self.split,  # Split usado
+            "revision": self.revision,  # Versión usada
             "filas": len(self.df),  # Cantidad de filas
             "columnas": len(self.df.columns),  # Cantidad de columnas
         }
